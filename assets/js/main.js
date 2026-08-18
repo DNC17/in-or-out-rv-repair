@@ -63,8 +63,10 @@ function initLoader(onDone) {
   const words  = $$('.loader__word');
   const or     = $('.loader__or');
 
-  if (REDUCED) {
-    loader.remove();
+  // No loader markup (it's commented out in index.html) or reduced motion:
+  // go straight to the page.
+  if (!loader || REDUCED) {
+    if (loader) loader.remove();
     document.body.classList.add('is-ready');
     onDone();
     return;
