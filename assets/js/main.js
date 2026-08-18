@@ -10,7 +10,6 @@ import { initHeroGL, shouldUseGL } from './hero-gl.js';
 const FORCED_STILL = new URLSearchParams(location.search).get('motion') === 'off';
 const REDUCED = FORCED_STILL ||
                 window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-const FINE    = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
 
 if (FORCED_STILL) document.documentElement.classList.add('motion-off');
 
@@ -311,32 +310,33 @@ function initReveals() {
   }
 
   $$('[data-split]').forEach(el => {
-    if (HAS_SPLIT) {
-      const split = new SplitText(el, { type: 'lines', linesClass: 'sp-line' });
-      split.lines.forEach(l => {
-        l.style.overflow = 'hidden';
-        l.style.paddingBottom = '.05em';
-      });
-      const inner = split.lines.map(l => {
-        const s = document.createElement('span');
-        s.style.display = 'block';
-        while (l.firstChild) s.appendChild(l.firstChild);
-        l.appendChild(s);
-        return s;
-      });
-      gsap.from(inner, {
-        yPercent: 110,
-        duration: 1.05,
-        ease: 'expo.out',
-        stagger: .07,
-        scrollTrigger: { trigger: el, start: 'top 84%' }
-      });
-    } else {
+    if (!HAS_SPLIT) {
       gsap.from(el, {
         opacity: 0, y: 34, duration: .9, ease: 'expo.out',
         scrollTrigger: { trigger: el, start: 'top 84%' }
       });
+      return;
     }
+
+    // `mask: 'lines'` gives each line its own overflow-hidden wrapper, and
+    // `autoSplit` re-measures on resize and after webfonts land. Without it the
+    // line boxes stay frozen at whatever width they were first measured at,
+    // which leaves headings broken into one word per line.
+    SplitText.create(el, {
+      type: 'lines',
+      mask: 'lines',
+      autoSplit: true,
+      linesClass: 'sp-line',
+      onSplit(self) {
+        return gsap.from(self.lines, {
+          yPercent: 110,
+          duration: 1.05,
+          ease: 'expo.out',
+          stagger: .07,
+          scrollTrigger: { trigger: el, start: 'top 84%', once: true }
+        });
+      }
+    });
   });
 
   $$('[data-fade]').forEach(el => {
@@ -367,26 +367,7 @@ function initReveals() {
 }
 
 /* ────────────────────────────────────────────────
-   7. Magnetic buttons
-   ──────────────────────────────────────────────── */
-function initMagnetic() {
-  if (!FINE || REDUCED) return;
-
-  $$('[data-magnetic]').forEach(el => {
-    const strength = 0.32;
-    const qx = gsap.quickTo(el, 'x', { duration: .55, ease: 'power3' });
-    const qy = gsap.quickTo(el, 'y', { duration: .55, ease: 'power3' });
-    el.addEventListener('mousemove', e => {
-      const r = el.getBoundingClientRect();
-      qx((e.clientX - (r.left + r.width / 2)) * strength);
-      qy((e.clientY - (r.top + r.height / 2)) * strength);
-    });
-    el.addEventListener('mouseleave', () => { qx(0); qy(0); });
-  });
-}
-
-/* ────────────────────────────────────────────────
-   8. Sticky mobile call bar
+   7. Sticky mobile call bar
    ──────────────────────────────────────────────── */
 function initCallbar() {
   const bar = $('.callbar');
@@ -417,7 +398,6 @@ function boot() {
   initNav();
   initTicker();
   initReveals();
-  initMagnetic();
   initCallbar();
 
   initLoader(heroIntro);
