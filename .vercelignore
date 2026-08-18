@@ -1,0 +1,4 @@
+# Local dev + docs — not part of the deployed site.
+serve.py
+README.md
+.claude/

@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+
+# Vercel CLI project link (recreated by `vercel link`)
+.vercel
