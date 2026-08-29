@@ -159,24 +159,39 @@ export function initHeroGL({ canvas, video, paper = [0.957, 0.945, 0.918] }) {
 
   let raf = 0;
   let running = true;
-  const start = performance.now();
+  let start = performance.now();
+  let lastFrame = start;
 
   function frame(now) {
     raf = requestAnimationFrame(frame);
+    lastFrame = now;
     if (!running) return;
     uniforms.uTime.value = (now - start) / 1000;
     renderer.render(scene, camera);
   }
   raf = requestAnimationFrame(frame);
 
-  // Pause the loop whenever the hero is off-screen or the tab is hidden.
+  // Render only while the hero is both on-screen and in a visible tab.
+  // Both conditions feed one flag: the IntersectionObserver fires only when
+  // intersection *changes*, so tracking them separately (and recomputing on
+  // either) is what stops the canvas freezing after a tab switch while the
+  // hero is still in view.
+  let onScreen = true;
+  let tabVisible = !document.hidden;
+  const syncRunning = () => {
+    const next = onScreen && tabVisible;
+    if (next && !running) start += performance.now() - lastFrame; // don't jump uTime
+    running = next;
+  };
+
   const io = new IntersectionObserver(
-    ([entry]) => { running = entry.isIntersecting; },
+    ([entry]) => { onScreen = entry.isIntersecting; syncRunning(); },
     { threshold: 0 }
   );
   io.observe(canvas);
   document.addEventListener('visibilitychange', () => {
-    if (document.hidden) running = false;
+    tabVisible = !document.hidden;
+    syncRunning();
   });
 
   return {

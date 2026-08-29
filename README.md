@@ -24,11 +24,13 @@ preloader, no smooth scroll, no WebGL). Useful for screenshots, printing and QA.
 ## Layout
 
 ```
-index.html
+index.html              homepage
+shop.html               parts catalogue (demo data)
 assets/
   css/main.css          all styles, single file
-  js/main.js            GSAP + Lenis wiring, nav, reveals, cursor
+  js/main.js            GSAP + Lenis wiring, nav, reveals (shared by both pages)
   js/hero-gl.js         Three.js shader treatment for the hero video
+  js/shop.js            catalogue, filtering and cart — DEMO PRODUCT DATA
   video/hero.mp4        1280×720 desktop loop  (3.9 MB)
   video/hero-mobile.mp4 960×540 mobile loop    (572 KB)
   img/                  logo + shop photos
@@ -64,6 +66,28 @@ audio track needed) and seamlessly loopable.
 Also update the low-res blur-up `poster=` data URI on the `<video>` in
 `index.html` if the new footage looks very different — it's a 48×27 JPEG of the
 first frame, used so the hero isn't blank on a slow connection.
+
+## The shop page (`shop.html`)
+
+A parts catalogue with category filters and a cart, sharing the same stylesheet
+and nav as the homepage.
+
+**Everything in it is demo data.** `PRODUCTS` at the top of
+[`assets/js/shop.js`](assets/js/shop.js) is invented — names, part numbers,
+prices and stock counts. Replace that array with the real catalogue before this
+page is treated as live inventory. The page carries a visible notice saying so,
+and is `noindex` for now.
+
+**No payment is taken and none is implied.** The cart builds a parts list and
+hands it off — "Send this list to the shop" opens a pre-filled text to
+(204) 930-3646, and "Copy list" puts the same text on the clipboard. Adam then
+confirms availability and quotes the real price, which is how the shop already
+works. Taking payment on the site would need a real backend (Stripe or similar)
+plus live stock — say the word if that's wanted.
+
+The cart lives in `localStorage` under `ioro.cart.v1`. Quantities are clamped to
+each product's stock on both write *and* read, so a stale or hand-edited entry
+can't restore more than the shop has.
 
 ## Design notes
 

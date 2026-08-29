@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en-CA">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Parts Shop — In or Out RV Parts &amp; Repair, Winnipeg</title>
+<meta name="description" content="RV parts counter in Winnipeg — furnaces, water heaters, faucets, pumps, jacks, vents and hardware. Build a parts list and send it straight to the shop.">
+<meta name="theme-color" content="#F4F1EA">
+<meta name="robots" content="noindex">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Parts Shop — In or Out RV Parts &amp; Repair">
+<meta property="og:description" content="Build a parts list and send it straight to the shop.">
+<meta property="og:locale" content="en_CA">
+
+<link rel="preload" href="assets/fonts/archivo-var.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/main.css">
+<link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+</head>
+
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<!-- ══════════ ICON SPRITE (demo product art) ══════════ -->
+<svg class="sprite" aria-hidden="true" width="0" height="0">
+  <defs>
+    <g id="ic-furnace"><rect x="8" y="7" width="32" height="34" rx="3"/><path d="M14 14h20M14 20h20"/><path d="M17 27c0 3 2 4 2 6M24 27c0 3 2 4 2 6M31 27c0 3 2 4 2 6"/></g>
+    <g id="ic-heater"><rect x="11" y="6" width="26" height="36" rx="13"/><path d="M18 15h12M24 24v9"/><circle cx="24" cy="33" r="3"/></g>
+    <g id="ic-rod"><path d="M24 6v30"/><rect x="19" y="36" width="10" height="6" rx="1.5"/><path d="M20 12h8M20 18h8M20 24h8"/></g>
+    <g id="ic-faucet"><path d="M10 38h28"/><path d="M14 38V26h8v-6a10 10 0 0 1 16 8v4"/><path d="M22 20h-8"/><circle cx="18" cy="14" r="3"/></g>
+    <g id="ic-faucet2"><path d="M10 38h28"/><path d="M24 38V20"/><path d="M24 20c0-5 4-8 8-8"/><path d="M12 16h8M28 16h8M16 12v8M32 12v8"/></g>
+    <g id="ic-valve"><circle cx="24" cy="24" r="9"/><path d="M24 6v9M24 33v9M6 24h9M33 24h9"/><circle cx="24" cy="24" r="3"/></g>
+    <g id="ic-pump"><rect x="9" y="16" width="22" height="18" rx="3"/><path d="M31 22h8v6h-8"/><path d="M14 16v-5h9v5"/><circle cx="20" cy="25" r="4"/></g>
+    <g id="ic-toilet"><path d="M12 10h9v8h-9z"/><path d="M10 20h26v6a13 13 0 0 1-13 13 13 13 0 0 1-13-13z"/><path d="M21 14h15v6"/></g>
+    <g id="ic-light"><path d="M24 8v4"/><path d="M9 30a15 15 0 0 1 30 0z"/><path d="M14 36h20"/><path d="M12 15l3 3M36 15l-3 3"/></g>
+    <g id="ic-converter"><rect x="6" y="14" width="36" height="20" rx="3"/><path d="M13 20l-4 4 4 4M35 20l4 4-4 4"/><path d="M20 26h8M24 22v8"/></g>
+    <g id="ic-vent"><rect x="8" y="8" width="32" height="32" rx="3"/><circle cx="24" cy="24" r="9"/><path d="M24 15v18M15 24h18"/></g>
+    <g id="ic-jack"><path d="M24 6v10"/><rect x="18" y="16" width="12" height="16" rx="2"/><path d="M24 32v6"/><path d="M14 42h20"/><path d="M18 22h12"/></g>
+    <g id="ic-sealant"><path d="M18 10h12v28H18z"/><path d="M24 10V6"/><path d="M24 38l-4 6h8z"/><path d="M18 18h12"/></g>
+    <g id="ic-lock"><rect x="10" y="20" width="28" height="20" rx="3"/><path d="M17 20v-5a7 7 0 0 1 14 0v5"/><circle cx="24" cy="29" r="3"/><path d="M24 32v4"/></g>
+  </defs>
+</svg>
+
+<!-- ══════════ NAV ══════════ -->
+<header class="nav is-stuck" id="nav">
+  <a class="nav__brand" href="index.html" aria-label="In or Out RV Parts and Repair — home">
+    <span class="nav__logo" aria-hidden="true">
+      <svg viewBox="0 0 64 64" width="34" height="34" fill-rule="evenodd">
+        <path class="g-l" fill="currentColor" d="M16.06 32.98L16.89 29.59L20.11 29.59L20.94 32.98L24.22 34.34L27.19 32.53L29.47 34.81L27.66 37.78L29.02 41.06L32.41 41.89L32.41 45.11L29.02 45.94L27.66 49.22L29.47 52.19L27.19 54.47L24.22 52.66L20.94 54.02L20.11 57.41L16.89 57.41L16.06 54.02L12.78 52.66L9.81 54.47L7.53 52.19L9.34 49.22L7.98 45.94L4.59 45.11L4.59 41.89L7.98 41.06L9.34 37.78L7.53 34.81L9.81 32.53L12.78 34.34ZM23.10 43.50L22.94 42.31L22.48 41.20L21.75 40.25L20.80 39.52L19.69 39.06L18.50 38.90L17.31 39.06L16.20 39.52L15.25 40.25L14.52 41.20L14.06 42.31L13.90 43.50L14.06 44.69L14.52 45.80L15.25 46.75L16.20 47.48L17.31 47.94L18.50 48.10L19.69 47.94L20.80 47.48L21.75 46.75L22.48 45.80L22.94 44.69L23.10 43.50Z"/>
+        <path class="g-r" fill="currentColor" d="M43.06 32.98L43.89 29.59L47.11 29.59L47.94 32.98L51.22 34.34L54.19 32.53L56.47 34.81L54.66 37.78L56.02 41.06L59.41 41.89L59.41 45.11L56.02 45.94L54.66 49.22L56.47 52.19L54.19 54.47L51.22 52.66L47.94 54.02L47.11 57.41L43.89 57.41L43.06 54.02L39.78 52.66L36.81 54.47L34.53 52.19L36.34 49.22L34.98 45.94L31.59 45.11L31.59 41.89L34.98 41.06L36.34 37.78L34.53 34.81L36.81 32.53L39.78 34.34ZM50.10 43.50L49.94 42.31L49.48 41.20L48.75 40.25L47.80 39.52L46.69 39.06L45.50 38.90L44.31 39.06L43.20 39.52L42.25 40.25L41.52 41.20L41.06 42.31L40.90 43.50L41.06 44.69L41.52 45.80L42.25 46.75L43.20 47.48L44.31 47.94L45.50 48.10L46.69 47.94L47.80 47.48L48.75 46.75L49.48 45.80L49.94 44.69L50.10 43.50Z"/>
+        <path class="g-top" fill="#399F43" d="M29.38 7.20L30.27 3.60L33.73 3.60L34.62 7.20L38.14 8.66L41.31 6.74L43.76 9.19L41.84 12.36L43.30 15.88L46.90 16.77L46.90 20.23L43.30 21.12L41.84 24.64L43.76 27.81L41.31 30.26L38.14 28.34L34.62 29.80L33.73 33.40L30.27 33.40L29.38 29.80L25.86 28.34L22.69 30.26L20.24 27.81L22.16 24.64L20.70 21.12L17.10 20.23L17.10 16.77L20.70 15.88L22.16 12.36L20.24 9.19L22.69 6.74L25.86 8.66ZM37.00 18.50L36.83 17.21L36.33 16.00L35.54 14.96L34.50 14.17L33.29 13.67L32.00 13.50L30.71 13.67L29.50 14.17L28.46 14.96L27.67 16.00L27.17 17.21L27.00 18.50L27.17 19.79L27.67 21.00L28.46 22.04L29.50 22.83L30.71 23.33L32.00 23.50L33.29 23.33L34.50 22.83L35.54 22.04L36.33 21.00L36.83 19.79L37.00 18.50Z"/>
+      </svg>
+    </span>
+    <span class="nav__name">
+      <b>In&nbsp;or&nbsp;Out</b>
+      <i>RV Parts &amp; Repair</i>
+    </span>
+  </a>
+
+  <nav class="nav__links" aria-label="Primary">
+    <a href="index.html#services">Services</a>
+    <a href="index.html#choose">In or Out</a>
+    <a href="shop.html" class="is-current" aria-current="page">Shop</a>
+    <a href="index.html#reviews">Reviews</a>
+    <a href="index.html#contact">Contact</a>
+  </nav>
+
+  <button class="nav__cart" id="cartToggle" aria-expanded="false" aria-controls="cart">
+    Parts list
+    <span class="nav__cart-n" id="cartCount" hidden>0</span>
+  </button>
+
+  <button class="nav__burger" id="burger" aria-label="Open menu" aria-expanded="false" aria-controls="drawer">
+    <span></span><span></span>
+  </button>
+</header>
+
+<!-- ══════════ MOBILE DRAWER ══════════ -->
+<div class="drawer" id="drawer" hidden>
+  <nav class="drawer__links" aria-label="Mobile">
+    <a href="index.html#services"><em>01</em> Services</a>
+    <a href="index.html#choose"><em>02</em> In or Out</a>
+    <a href="shop.html"><em>03</em> Shop</a>
+    <a href="index.html#reviews"><em>04</em> Reviews</a>
+    <a href="index.html#contact"><em>05</em> Contact</a>
+  </nav>
+  <div class="drawer__foot">
+    <a class="btn btn--block" href="tel:+12049303646">Call (204) 930‑3646</a>
+    <p>2476 Wenzel St, Unit 303<br>Winnipeg, MB R2C 1E8</p>
+  </div>
+</div>
+
+<main id="main">
+
+<!-- ══════════ SHOP HEAD ══════════ -->
+<section class="shophead">
+  <div class="wrap">
+    <p class="eyebrow"><span class="num">01</span> Parts counter</p>
+    <h1 class="shophead__h">Parts, off the shelf.</h1>
+    <p class="shophead__lede">
+      The things that actually strand people — furnaces, water heaters, pumps,
+      faucets, jacks and seals. Build a list, send it over, and we'll confirm
+      what's on the shelf and what needs ordering in.
+    </p>
+
+    <p class="demo-note" role="note">
+      <b>Demo catalogue.</b> Products, part numbers, prices and stock counts on
+      this page are placeholders for layout purposes — not real inventory.
+      Nothing here takes payment: your list goes to the shop and Adam quotes it.
+    </p>
+  </div>
+</section>
+
+<!-- ══════════ TOOLBAR ══════════ -->
+<div class="shopbar">
+  <div class="wrap shopbar__in">
+    <div class="chips" id="chips"></div>
+    <p class="shopbar__count" id="count"></p>
+  </div>
+</div>
+
+<!-- ══════════ GRID ══════════ -->
+<section class="shop" aria-label="Parts">
+  <div class="wrap">
+    <ul class="grid" id="grid"></ul>
+  </div>
+</section>
+
+<!-- ══════════ HELP ══════════ -->
+<section class="shophelp">
+  <div class="wrap shophelp__in">
+    <div>
+      <h2 class="shophelp__h">Not sure which part you need?</h2>
+      <p>Send a photo of the old one, the panel or the data plate. Half of it
+      gets sorted right there — and that's a service call you didn't pay for.</p>
+    </div>
+    <div class="shophelp__cta">
+      <a class="btn btn--lg" href="tel:+12049303646">Call (204) 930‑3646</a>
+      <a class="link" href="sms:+12049303646">Or text a photo ↗</a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!-- ══════════ CART PANEL ══════════ -->
+<div class="cart-scrim" id="cartScrim" aria-hidden="true"></div>
+<aside class="cart" id="cart" aria-hidden="true" aria-label="Your parts list">
+  <header class="cart__head">
+    <h2>Your parts list</h2>
+    <button class="cart__x" id="cartClose" aria-label="Close parts list">×</button>
+  </header>
+
+  <ul class="cart__items" id="cartItems"></ul>
+
+  <footer class="cart__foot">
+    <div class="cart__total">
+      <span>Estimated total</span>
+      <b id="cartTotal">$0.00</b>
+    </div>
+    <p class="cart__fine">
+      An estimate from demo prices — not a charge. Sending the list starts a
+      text to the shop; Adam confirms availability and the real price.
+    </p>
+    <button class="btn btn--block" id="cartSend" disabled>Send this list to the shop</button>
+    <button class="cart__copy" id="cartCopy">Copy list</button>
+  </footer>
+</aside>
+
+<!-- ══════════ FOOTER ══════════ -->
+<footer class="foot">
+  <div class="wrap">
+    <div class="foot__mark" aria-hidden="true">
+      <span>IN</span><em>or</em><span>OUT</span>
+    </div>
+    <div class="foot__row">
+      <p>© <span id="yr">2026</span> In or Out RV Parts and Repair · Winnipeg, Manitoba</p>
+      <p><a href="tel:+12049303646">(204) 930‑3646</a> · <a href="https://www.facebook.com/RVRepairWinnipeg/" target="_blank" rel="noopener">Facebook</a></p>
+    </div>
+  </div>
+</footer>
+
+<a class="callbar" href="tel:+12049303646">Call (204) 930‑3646</a>
+<div class="grain" aria-hidden="true"></div>
+
+<script src="assets/vendor/gsap.min.js"></script>
+<script src="assets/vendor/ScrollTrigger.min.js"></script>
+<script src="assets/vendor/SplitText.min.js"></script>
+<script src="assets/vendor/lenis.min.js"></script>
+<script type="importmap">
+{ "imports": { "three": "./assets/vendor/three.module.min.js" } }
+</script>
+<script type="module" src="assets/js/main.js"></script>
+<script src="assets/js/shop.js"></script>
+</body>
+</html>

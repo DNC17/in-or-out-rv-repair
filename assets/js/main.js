@@ -109,6 +109,7 @@ function initHero() {
   const video  = $('#heroVideo');
   const source = $('#heroSrc');
   const canvas = $('#heroGL');
+  if (!hero || !video || !source || !canvas) return;   // pages without a hero
 
   // Lighter file on small screens / narrow data plans.
   const slim = window.innerWidth < 900 ||
@@ -126,6 +127,18 @@ function initHero() {
   video.addEventListener('canplay', play, { once: true });
   document.addEventListener('visibilitychange', () => {
     if (!document.hidden) play();
+  });
+
+  // `loop` handles the normal case. This is the safety net for when it
+  // doesn't fire — a stalled range request or a decoder hiccup can leave the
+  // video parked on its last frame instead of wrapping.
+  video.addEventListener('ended', () => {
+    video.currentTime = 0;
+    play();
+  });
+  video.addEventListener('pause', () => {
+    // Nothing should ever pause this; it's decorative and always looping.
+    if (!document.hidden && !video.ended) play();
   });
 
   let gl = null;
@@ -176,7 +189,7 @@ function initHero() {
 }
 
 function heroIntro() {
-  if (REDUCED) return;
+  if (REDUCED || !$('.hero__title')) return;
 
   const tl = gsap.timeline({ defaults: { ease: 'expo.out' } });
 
@@ -350,19 +363,19 @@ function initReveals() {
   });
 
   // Service tiles cascade in
-  gsap.from('.svc__i', {
+  if ($('.svc__i')) gsap.from('.svc__i', {
     opacity: 0, y: 40, duration: .8, ease: 'expo.out', stagger: .05,
     scrollTrigger: { trigger: '.svc', start: 'top 80%' }
   });
 
   // Review cards
-  gsap.from('.rev__q', {
+  if ($('.rev__q')) gsap.from('.rev__q', {
     opacity: 0, y: 44, duration: .95, ease: 'expo.out', stagger: .1,
     scrollTrigger: { trigger: '.rev__grid', start: 'top 82%' }
   });
 
   // Footer wordmark
-  gsap.from('.foot__mark span, .foot__mark em', {
+  if ($('.foot__mark span')) gsap.from('.foot__mark span, .foot__mark em', {
     yPercent: 105, opacity: 0, duration: 1.1, ease: 'expo.out', stagger: .08,
     scrollTrigger: { trigger: '.foot', start: 'top 88%' }
   });
@@ -374,6 +387,13 @@ function initReveals() {
 function initCallbar() {
   const bar = $('.callbar');
   if (!bar) return;
+  if (!$('#hero')) {                       // no hero to trigger off — show it once scrolled
+    ScrollTrigger.create({
+      start: 'top -200', end: 99999,
+      onUpdate(self) { bar.classList.toggle('is-in', self.scroll() > 200); }
+    });
+    return;
+  }
   ScrollTrigger.create({
     trigger: '#hero',
     start: 'bottom 80%',
@@ -393,7 +413,8 @@ function initCallbar() {
    Boot
    ──────────────────────────────────────────────── */
 function boot() {
-  $('#yr').textContent = new Date().getFullYear();
+  const yr = $('#yr');
+  if (yr) yr.textContent = new Date().getFullYear();
 
   initScroll();
   initHero();
