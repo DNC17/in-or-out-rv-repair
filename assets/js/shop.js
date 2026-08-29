@@ -113,8 +113,10 @@ function visibleProducts() {
 function productCard(p) {
   return `
     <li class="prod">
-      <div class="prod__art" aria-hidden="true">
-        <svg viewBox="0 0 48 48"><use href="#ic-${p.icon}"></use></svg>
+      <div class="prod__art${p.img ? ' has-photo' : ''}" aria-hidden="true">
+        ${p.img
+          ? `<img src="assets/img/parts/${p.img}" alt="" loading="lazy" decoding="async">`
+          : `<svg viewBox="0 0 48 48"><use href="#ic-${p.icon}"></use></svg>`}
       </div>
       <div class="prod__body">
         <p class="prod__sku">${escapeHtml(p.sku)} · ${catLabel(p.cat)}</p>
@@ -195,7 +197,9 @@ function renderCart() {
   $('#cartItems').innerHTML = lines.length
     ? lines.map(({ p, qty }) => `
         <li class="ci">
-          <div class="ci__art" aria-hidden="true"><svg viewBox="0 0 48 48"><use href="#ic-${p.icon}"></use></svg></div>
+          <div class="ci__art${p.img ? ' has-photo' : ''}" aria-hidden="true">${p.img
+            ? `<img src="assets/img/parts/${p.img}" alt="" loading="lazy" decoding="async">`
+            : `<svg viewBox="0 0 48 48"><use href="#ic-${p.icon}"></use></svg>`}</div>
           <div class="ci__main">
             <p class="ci__name">${p.name}</p>
             <p class="ci__sku">${p.sku} · ${money(p.price)}</p>

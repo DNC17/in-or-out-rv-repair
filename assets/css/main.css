@@ -840,6 +840,14 @@ p { text-wrap: pretty; }
   border-bottom: 1px solid var(--ink-07);
 }
 .prod:hover .prod__art { color: var(--brand-ink); }
+/* Supplier photos come in every aspect ratio, so contain rather than crop. */
+.prod__art.has-photo { padding: 7%; }
+.prod__art img {
+  width: 100%; height: 100%;
+  object-fit: contain;
+  transition: transform .5s var(--ease);
+}
+.prod:hover .prod__art img { transform: scale(1.04); }
 
 .prod__body { padding: 1.1rem 1.15rem .4rem; flex: 1; }
 .prod__sku {
@@ -987,6 +995,8 @@ body.cart-open .cart-scrim { opacity: 1; pointer-events: auto; }
   width: 46px; height: 46px; padding: 9px;
   border-radius: 9px; background: var(--paper-2); color: var(--ink);
 }
+.ci__art.has-photo { padding: 4px; }
+.ci__art img { width: 100%; height: 100%; object-fit: contain; }
 .ci__name { font-size: .92rem; font-variation-settings: 'wght' 600; letter-spacing: -.015em; line-height: 1.25; }
 .ci__sku { font-family: var(--f-mono); font-size: .64rem; color: var(--ink-35); margin-top: .25rem; }
 .ci__qty {

@@ -136,6 +136,12 @@ def main(src):
     internal = {r['sku']: r for r in csv.DictReader(
         open(os.path.join(src, 'rv-parts-internal.csv'), newline='', encoding='utf-8'))}
 
+    # image manifest from tools/fetch-images.py, if it has been run
+    manifest_path = os.path.join(root, 'assets', 'img', 'parts', 'manifest.json')
+    images = {}
+    if os.path.exists(manifest_path):
+        images = json.load(open(manifest_path, encoding='utf-8')).get('bySku', {})
+
     products, costs, skipped = [], [], []
     seen_ids = set()
 
@@ -169,6 +175,7 @@ def main(src):
             'price': msrp,
             'icon': pick_icon(r, default_icon),
             'blurb': build_blurb(r, name),
+            'img': images.get(r['sku']),          # None -> card falls back to line art
             # searchable but not displayed: full spec text + both part numbers
             'tags': re.sub(r'\s+', ' ', f"{r['title']} {r['description']}").strip(),
             '_desc': r['description'],
@@ -233,7 +240,8 @@ window.CATALOG = {{
         }, f, indent=2, ensure_ascii=False)
         f.write('\n')
 
-    print(f'products written : {len(products)}')
+    with_img = sum(1 for p in products if p.get('img'))
+    print(f'products written : {len(products)}  ({with_img} with a photo)')
     for cid, label, _ in present:
         print(f'  {label:12} {sum(1 for p in products if p["cat"] == cid)}')
     print(f'cost rows written: {len(costs)}')

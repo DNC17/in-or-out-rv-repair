@@ -27,6 +27,7 @@ preloader, no smooth scroll, no WebGL). Useful for screenshots, printing and QA.
 index.html              homepage
 shop.html               parts catalogue
 tools/build-catalog.py  turns a Via export into catalog.js + dealer-costs.json
+tools/fetch-images.py   downloads + optimises product photos to assets/img/parts/
 data/dealer-costs.json  PRIVATE dealer cost (never deployed)
 assets/
   css/main.css          all styles, single file
@@ -108,12 +109,39 @@ excluded — they carry a session id and expire.
   (20) and the shop confirms what's on the shelf when a list comes in.
 - **No plumbing.** The export excluded it, so that chip is gone; chips are
   generated from whatever categories the data actually contains.
-- **Product images exist but aren't used.** 198 of 207 rows have a real image
-  on `media.ekeystone.com` / `viantp.vehiclepartimages.com`, and both honour a
-  larger `maxwidth`/`maxheight`. The page uses inline SVG line art instead —
-  switching to real photos means either hotlinking a supplier CDN (fragile) or
-  self-hosting their images (check the dealer agreement first).
+- **Product photos are self-hosted**, not hotlinked — see below.
 - Prices are point-in-time and need a refresh before they go live.
+
+### Product images
+
+`tools/fetch-images.py` downloads the images the export references and serves
+them from `assets/img/parts/` — nothing is hotlinked off the supplier CDN, so
+the page doesn't break if they block or rotate URLs.
+
+```bash
+python3 tools/fetch-images.py ~/Downloads/rv-parts-catalog-2026-08-29
+```
+
+The export links 130px thumbnails, but both CDNs honour a bigger
+`maxwidth`/`maxheight`, so the script requests 900px, downscales to 560px and
+re-encodes as WebP. **154 images, 1.3 MB total, ~8 KB each.** It needs Pillow:
+
+```bash
+python3 -m venv .venv && .venv/bin/pip install Pillow
+.venv/bin/python tools/fetch-images.py <export-dir>
+```
+
+It writes `assets/img/parts/manifest.json`, which `build-catalog.py` reads to
+attach an `img` to each product. Already-downloaded files are skipped unless
+you pass `--force`. 198 of 207 products have a photo; the other 9 fall back to
+the SVG line art, which is why the icon sprite is still in `shop.html`.
+
+Transparent PNGs are flattened onto the paper colour rather than kept as
+alpha — it keeps the WebP small and they only ever sit on that background.
+
+Worth confirming the dealer agreement permits redistributing manufacturer
+product images on the storefront; it normally does for the products you sell,
+but it's NTP-STAG's call.
 
 ### Search
 
