@@ -124,7 +124,7 @@
         <circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/>
       </svg>
       <input id="search" type="search" autocomplete="off" spellcheck="false"
-             placeholder="Search parts — “sail switch”, “won’t cool”, IO-AC-135…"
+             placeholder="Search parts — “Mach 15”, “13500 BTU”, “ducted”, part no…"
              aria-label="Search parts">
       <button class="search__x" id="searchClear" type="button" aria-label="Clear search" hidden>×</button>
     </div>
@@ -137,6 +137,9 @@
 <section class="shop" aria-label="Parts">
   <div class="wrap">
     <ul class="grid" id="grid"></ul>
+    <div class="more" id="more" hidden>
+      <button class="btn btn--lg" id="moreBtn" type="button">Show more</button>
+    </div>
   </div>
 </section>
 
@@ -205,6 +208,7 @@
 { "imports": { "three": "./assets/vendor/three.module.min.js" } }
 </script>
 <script type="module" src="assets/js/main.js"></script>
+<script src="assets/js/catalog.js"></script>
 <script src="assets/js/shop.js"></script>
 </body>
 </html>

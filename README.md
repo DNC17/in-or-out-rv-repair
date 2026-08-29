@@ -25,12 +25,15 @@ preloader, no smooth scroll, no WebGL). Useful for screenshots, printing and QA.
 
 ```
 index.html              homepage
-shop.html               parts catalogue (demo data)
+shop.html               parts catalogue
+tools/build-catalog.py  turns a Via export into catalog.js + dealer-costs.json
+data/dealer-costs.json  PRIVATE dealer cost (never deployed)
 assets/
   css/main.css          all styles, single file
   js/main.js            GSAP + Lenis wiring, nav, reveals (shared by both pages)
   js/hero-gl.js         Three.js shader treatment for the hero video
-  js/shop.js            catalogue, filtering and cart — DEMO PRODUCT DATA
+  js/shop.js            search, filtering and cart logic
+  js/catalog.js         GENERATED product data (MSRP only) — see tools/
   video/hero.mp4        1280×720 desktop loop  (3.9 MB)
   video/hero-mobile.mp4 960×540 mobile loop    (572 KB)
   img/                  logo + shop photos
@@ -69,52 +72,69 @@ first frame, used so the hero isn't blank on a slow connection.
 
 ## The shop page (`shop.html`)
 
-A parts catalogue with search, category filters and a cart, sharing the same
-stylesheet and nav as the homepage. Categories: **ACs, Fridges, Furnaces, Roof
-Vents, Plumbing**.
+A parts catalogue with search, category filters and a cart. **207 real products**
+across ACs (135), Roof Vents (48), Fridges (12) and Furnaces (12).
 
-**Everything in it is demo data.** `PRODUCTS` at the top of
-[`assets/js/shop.js`](assets/js/shop.js) is invented — names, part numbers,
-prices and stock counts. Replace that array with the real catalogue before this
-page is treated as live inventory.
+### Where the data comes from
 
-⚠ The on-page "demo catalogue" notice was removed at the client's request, so
-**nothing visible on the page tells a visitor the prices aren't real.** The page
-is still `noindex`, but put the real catalogue in before linking anyone to it.
+Product data is generated from an NTP-STAG/Via export, not hand-written:
 
-### Dealer cost vs. MSRP
+```bash
+python3 tools/build-catalog.py ~/Downloads/rv-parts-catalog-2026-08-29
+```
 
-The shop shows **MSRP** as the sale price. Adam's dealer cost from NTP-STAG Via
-lives in [`data/dealer-costs.json`](data/dealer-costs.json), keyed by the same
-product id, ready for the margin dashboard.
+That reads the export's two CSVs and writes:
 
-**Cost must never reach `assets/`.** Everything under `assets/` is downloadable
-by anyone who opens devtools on the live site, so putting a `cost` field in
-`shop.js` would publish Adam's margins to his customers and competitors.
-`/data/` is listed in `.vercelignore` so it is not uploaded at all.
+| Output | Contents | Deployed? |
+| --- | --- | --- |
+| `assets/js/catalog.js` | name, part number, category, **MSRP**, spec blurb, search tags | yes |
+| `data/dealer-costs.json` | dealer cost, margin, margin % — keyed by product id | **no** (`.vercelignore`) |
+
+Both are generated — re-run the script on a fresh export rather than editing
+them. The site shows **MSRP** as the sale price.
+
+**Cost must never reach `assets/`.** Anything under `assets/` is downloadable by
+anyone with devtools, so a cost field in `catalog.js` would publish Adam's
+margins to his customers. The generator deliberately writes cost only to
+`/data/`, which `.vercelignore` keeps out of deploys. Via product URLs are also
+excluded — they carry a session id and expire.
+
+### Things to know about the current export
+
+- **Dealer cost is exactly 60% of MSRP on all 207 lines** — a flat 40% off
+  rather than real per-line account pricing. A margin dashboard built on it
+  would show 40% for everything. Worth re-exporting with true account pricing.
+- **No stock data.** Cards show no availability, quantities cap at `MAX_QTY`
+  (20) and the shop confirms what's on the shelf when a list comes in.
+- **No plumbing.** The export excluded it, so that chip is gone; chips are
+  generated from whatever categories the data actually contains.
+- **Product images exist but aren't used.** 198 of 207 rows have a real image
+  on `media.ekeystone.com` / `viantp.vehiclepartimages.com`, and both honour a
+  larger `maxwidth`/`maxheight`. The page uses inline SVG line art instead —
+  switching to real photos means either hotlinking a supplier CDN (fragile) or
+  self-hosting their images (check the dealer agreement first).
+- Prices are point-in-time and need a refresh before they go live.
 
 ### Search
 
-Each product carries a `tags` string of things people actually type — brand
-names, symptoms ("won't cool", "humming", "no ignition") and alternative words
-("refrigerator" for fridge). Search covers name, part number, category, blurb
-and tags.
+Each product carries a `tags` string built from its full Via title and spec
+description, so brand, model, BTU rating, dimensions and both part numbers are
+all findable.
 
 Matching is on **word starts**, not raw substrings: a plain `includes` meant
 "ac" also matched "furn*ac*e" and "repl*ac*ement". Each word contributes both
-its squashed form and its pieces, so "A/C" is findable as `ac` and `IO-AC-135`
-as `io`, `ac`, `135` or the whole SKU.
+its squashed form and its pieces, so "A/C" is findable as `ac` and a part
+number as any of its segments.
 
-**No payment is taken and none is implied.** The cart builds a parts list and
-hands it off — "Send this list to the shop" opens a pre-filled text to
-(204) 930-3646, and "Copy list" puts the same text on the clipboard. Adam then
-confirms availability and quotes the real price, which is how the shop already
-works. Taking payment on the site would need a real backend (Stripe or similar)
-plus live stock — say the word if that's wanted.
+### Cart
 
-The cart lives in `localStorage` under `ioro.cart.v1`. Quantities are clamped to
-each product's stock on both write *and* read, so a stale or hand-edited entry
-can't restore more than the shop has.
+No payment is processed. The cart builds a parts list and hands it off — "Send
+this list to the shop" opens a pre-filled text to (204) 930-3646, and "Copy
+list" puts the same text on the clipboard. It persists in `localStorage` under
+`ioro.cart.v1`, and quantities are clamped on both write and read.
+
+The grid renders 48 at a time with a "Show more" control, so 207 products don't
+all hit the DOM at once.
 
 ## Design notes
 

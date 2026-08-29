@@ -878,6 +878,10 @@ p { text-wrap: pretty; }
 .prod__add.is-in { background: var(--brand); color: #fff; }
 .prod__add:disabled { background: transparent; color: var(--ink-35); box-shadow: inset 0 0 0 1px var(--ink-12); cursor: default; }
 
+/* ---------- load more ---------- */
+.more { display: flex; justify-content: center; margin-top: clamp(2rem, 4vw, 3rem); }
+.more[hidden] { display: none; }
+
 /* ---------- no results ---------- */
 .noresult {
   grid-column: 1 / -1;
