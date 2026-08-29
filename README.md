@@ -82,6 +82,17 @@ page is treated as live inventory.
 **nothing visible on the page tells a visitor the prices aren't real.** The page
 is still `noindex`, but put the real catalogue in before linking anyone to it.
 
+### Dealer cost vs. MSRP
+
+The shop shows **MSRP** as the sale price. Adam's dealer cost from NTP-STAG Via
+lives in [`data/dealer-costs.json`](data/dealer-costs.json), keyed by the same
+product id, ready for the margin dashboard.
+
+**Cost must never reach `assets/`.** Everything under `assets/` is downloadable
+by anyone who opens devtools on the live site, so putting a `cost` field in
+`shop.js` would publish Adam's margins to his customers and competitors.
+`/data/` is listed in `.vercelignore` so it is not uploaded at all.
+
 ### Search
 
 Each product carries a `tags` string of things people actually type — brand

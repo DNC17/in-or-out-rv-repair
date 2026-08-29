@@ -1,0 +1,15 @@
+{
+  "$comment": [
+    "PRIVATE — Adam's dealer cost from NTP-STAG Via. Never ship this to the",
+    "public site: it is excluded via .vercelignore, and assets/js/shop.js must",
+    "keep carrying MSRP only. Anything in assets/ is readable by anyone who",
+    "opens devtools on the live site.",
+    "",
+    "`sku` matches the product id in assets/js/shop.js so the future margin",
+    "dashboard can join the two. margin = msrp - cost; marginPct = margin/msrp."
+  ],
+  "source": "NTP-STAG Via (viantp.com)",
+  "currency": "CAD",
+  "pulledAt": null,
+  "products": []
+}

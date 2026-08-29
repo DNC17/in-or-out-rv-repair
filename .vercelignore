@@ -2,3 +2,6 @@
 serve.py
 README.md
 .claude/
+
+# Dealer cost data — must never be served publicly.
+/data/
