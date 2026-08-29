@@ -729,17 +729,6 @@ p { text-wrap: pretty; }
   font-size: clamp(1rem, .92rem + .4vw, 1.2rem);
   color: var(--ink-80); max-width: 52ch;
 }
-.demo-note {
-  margin-top: clamp(1.6rem, 3vw, 2.2rem);
-  padding: .95rem 1.2rem;
-  border: 1px dashed color-mix(in srgb, var(--brand-ink) 45%, transparent);
-  border-radius: 10px;
-  background: color-mix(in srgb, var(--brand) 7%, transparent);
-  font-size: .9rem; color: var(--ink-80);
-  max-width: 74ch;
-}
-.demo-note b { font-variation-settings: 'wght' 700; color: var(--brand-ink); }
-
 /* ---------- toolbar ---------- */
 .shopbar {
   position: sticky; top: var(--nav-h); z-index: 60;
@@ -748,9 +737,15 @@ p { text-wrap: pretty; }
   border-block: 1px solid var(--ink-07);
   padding: .8rem 0;
 }
-.shopbar__in { display: flex; align-items: center; gap: 1rem; }
+.shopbar__in {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: .7rem 1rem;
+}
 .chips {
-  display: flex; gap: .45rem; flex: 1;
+  grid-column: 1 / -1;
+  display: flex; gap: .45rem;
   overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch;
 }
 .chips::-webkit-scrollbar { display: none; }
@@ -768,7 +763,50 @@ p { text-wrap: pretty; }
   background: var(--ink); color: var(--paper);
   box-shadow: inset 0 0 0 1px var(--ink);
 }
+/* ---------- search ---------- */
+.search {
+  position: relative;
+  display: flex; align-items: center;
+  max-width: 34rem;
+}
+.search__ic {
+  position: absolute; left: .95rem;
+  width: 17px; height: 17px; pointer-events: none;
+  fill: none; stroke: var(--ink-35);
+  stroke-width: 2; stroke-linecap: round;
+  transition: stroke .3s var(--ease);
+}
+.search:focus-within .search__ic { stroke: var(--brand-ink); }
+.search input {
+  width: 100%;
+  padding: .8rem 2.6rem .8rem 2.7rem;
+  font: inherit; font-size: .95rem;
+  color: var(--ink);
+  background: var(--paper-2);
+  border: 0; border-radius: 100px;
+  box-shadow: inset 0 0 0 1px var(--ink-12);
+  transition: box-shadow .3s var(--ease), background .3s var(--ease);
+}
+.search input::placeholder { color: var(--ink-35); }
+.search input:focus {
+  outline: none;
+  background: var(--paper);
+  box-shadow: inset 0 0 0 1.6px var(--brand);
+}
+/* the UA's own clear affordance duplicates ours */
+.search input::-webkit-search-cancel-button { -webkit-appearance: none; appearance: none; }
+.search__x {
+  position: absolute; right: .5rem;
+  width: 28px; height: 28px; border-radius: 50%;
+  font-size: 1.1rem; line-height: 1; color: var(--ink-55);
+  display: grid; place-items: center;
+}
+.search__x:hover { background: var(--ink-07); color: var(--ink); }
+/* an author `display` beats the UA rule for [hidden], so restate it */
+.search__x[hidden] { display: none; }
+
 .shopbar__count {
+  justify-self: end;
   flex: none;
   font-family: var(--f-mono); font-size: .68rem;
   letter-spacing: .12em; text-transform: uppercase; color: var(--ink-35);
@@ -839,6 +877,26 @@ p { text-wrap: pretty; }
 .prod__add:hover:not(:disabled) { background: var(--brand-ink); }
 .prod__add.is-in { background: var(--brand); color: #fff; }
 .prod__add:disabled { background: transparent; color: var(--ink-35); box-shadow: inset 0 0 0 1px var(--ink-12); cursor: default; }
+
+/* ---------- no results ---------- */
+.noresult {
+  grid-column: 1 / -1;
+  padding: clamp(2.5rem, 7vw, 4.5rem) clamp(1.2rem, 3vw, 2rem);
+  text-align: center;
+  border: 1px dashed var(--ink-12);
+  border-radius: 16px;
+}
+.noresult h3 {
+  font-size: clamp(1.2rem, 1rem + 1vw, 1.7rem);
+  font-variation-settings: 'wght' 660, 'wdth' 94;
+  letter-spacing: -.02em; margin-bottom: .7rem;
+}
+.noresult p { color: var(--ink-55); max-width: 46ch; margin-inline: auto; }
+.noresult__act {
+  display: flex; flex-wrap: wrap; gap: 1rem;
+  align-items: center; justify-content: center;
+  margin-top: 1.6rem;
+}
 
 /* ---------- help strip ---------- */
 .shophelp { background: var(--ink); color: var(--paper); padding: clamp(3rem, 7vh, 5.5rem) 0; }
@@ -1041,10 +1099,10 @@ body.cart-open .cart-scrim { opacity: 1; pointer-events: auto; }
   .shophelp__in { grid-template-columns: 1fr; }
 }
 
-@media (max-width: 760px) {
-  /* Stack, so the scrolling chip row doesn't run underneath the count. */
-  .shopbar__in { flex-direction: column; align-items: flex-start; gap: .55rem; }
-  .chips { width: 100%; }
+@media (max-width: 620px) {
+  .shopbar__in { grid-template-columns: 1fr; }
+  .shopbar__count { justify-self: start; }
+  .search { max-width: none; }
 }
 
 @media (max-width: 900px) {

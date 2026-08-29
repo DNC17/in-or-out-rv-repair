@@ -69,14 +69,30 @@ first frame, used so the hero isn't blank on a slow connection.
 
 ## The shop page (`shop.html`)
 
-A parts catalogue with category filters and a cart, sharing the same stylesheet
-and nav as the homepage.
+A parts catalogue with search, category filters and a cart, sharing the same
+stylesheet and nav as the homepage. Categories: **ACs, Fridges, Furnaces, Roof
+Vents, Plumbing**.
 
 **Everything in it is demo data.** `PRODUCTS` at the top of
 [`assets/js/shop.js`](assets/js/shop.js) is invented — names, part numbers,
 prices and stock counts. Replace that array with the real catalogue before this
-page is treated as live inventory. The page carries a visible notice saying so,
-and is `noindex` for now.
+page is treated as live inventory.
+
+⚠ The on-page "demo catalogue" notice was removed at the client's request, so
+**nothing visible on the page tells a visitor the prices aren't real.** The page
+is still `noindex`, but put the real catalogue in before linking anyone to it.
+
+### Search
+
+Each product carries a `tags` string of things people actually type — brand
+names, symptoms ("won't cool", "humming", "no ignition") and alternative words
+("refrigerator" for fridge). Search covers name, part number, category, blurb
+and tags.
+
+Matching is on **word starts**, not raw substrings: a plain `includes` meant
+"ac" also matched "furn*ac*e" and "repl*ac*ement". Each word contributes both
+its squashed form and its pieces, so "A/C" is findable as `ac` and `IO-AC-135`
+as `io`, `ac`, `135` or the whole SKU.
 
 **No payment is taken and none is implied.** The cart builds a parts list and
 hands it off — "Send this list to the shop" opens a pre-filled text to
