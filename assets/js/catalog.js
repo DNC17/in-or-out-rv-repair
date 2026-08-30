@@ -44,6 +44,18 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14.25 Inch x 14.25 Inch Vent Openings; 18000 BTU; Ducted or Non-Ducted; Black/ White; 115 Volt",
     "img": "2111-00511-a-cm-8-24.webp",
+    "specs": [
+      "Air Conditioner",
+      "Everest VS-18",
+      "Fits 14.25 Inch x 14.25 Inch Vent Openings",
+      "18000 BTU",
+      "Ducted or Non-Ducted",
+      "Black/ White",
+      "115 Volt",
+      "32.5 Inch Length x 25.1 Inch Width x 12.6 Inch Height",
+      "68 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 09-9166 (2111-00471) Air Conditioner; Everest VS-18; Fits 14.25 Inch x 14.25 Inch Vent Openings; 18000 BTU; Ducted or Non-Ducted; Black/ White; 115 Volt; 32.5 Inch Length x 25.1 Inch Width x 12.6 Inch Height; 68 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately"
   },
   {
@@ -56,6 +68,18 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14.25 Inch x 14.25 Inch Vent Openings; 18000 BTU; Ducted or Non-Ducted; Black; 115 Volt",
     "img": "38xxx-067x-a-cm-9-25.webp",
+    "specs": [
+      "Air Conditioner",
+      "Everest VS-18",
+      "Fits 14.25 Inch x 14.25 Inch Vent Openings",
+      "18000 BTU",
+      "Ducted or Non-Ducted",
+      "Black",
+      "115 Volt",
+      "32.5 Inch Length x 25.1 Inch Width x 12.6 Inch Height",
+      "68 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 09-9167 (2111-00481) Air Conditioner; Everest VS-18; Fits 14.25 Inch x 14.25 Inch Vent Openings; 18000 BTU; Ducted or Non-Ducted; Black; 115 Volt; 32.5 Inch Length x 25.1 Inch Width x 12.6 Inch Height; 68 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately"
   },
   {
@@ -68,6 +92,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Top/ Down Mount Ducted Quiet Design; Black; 120 Volt",
     "img": "35003-0794.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 10",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Top/ Down Mount Ducted Quiet Design",
+      "Black",
+      "120 Volt",
+      "11.5 Amp Compressor Draw",
+      "With Heat Pump",
+      "Without Condensate Pump",
+      "38 Inch Length x 26.1 Inch Width x 11.8 Inch Height",
+      "82 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 08-8584 (35003-0794) Air Conditioner; Mach 10; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Top/ Down Mount Ducted Quiet Design; Black; 120 Volt; 11.5 Amp Compressor Draw; With Heat Pump; Without Condensate Pump; 38 Inch Length x 26.1 Inch Width x 11.8 Inch Height; 82 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately"
   },
   {
@@ -80,6 +119,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; White; 120 Volt",
     "img": "35004-0762.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 10",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Top/ Down Mount Design",
+      "White",
+      "120 Volt",
+      "14.4 Amp Compressor Draw",
+      "With Heat Pump",
+      "Without Condensate Pump",
+      "38 Inch Length x 26.1 Inch Width x 11.8 Inch Height",
+      "82 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 08-8585 (35004-0762) Air Conditioner; Mach 10; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; White; 120 Volt; 14.4 Amp Compressor Draw; With Heat Pump; Without Condensate Pump; 38 Inch Length x 26.1 Inch Width x 11.8 Inch Height; 82 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately"
   },
   {
@@ -92,6 +146,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; Black; 120 Volt",
     "img": "35004-0792.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 10",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Top/ Down Mount Design",
+      "Black",
+      "120 Volt",
+      "14.4 Amp Compressor Draw",
+      "With Heat Pump",
+      "Without Condensate Pump",
+      "38 Inch Length x 26.1 Inch Width x 11.8 Inch Height",
+      "82 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 08-8586 (35004-0792) Air Conditioner; Mach 10; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; Black; 120 Volt; 14.4 Amp Compressor Draw; With Heat Pump; Without Condensate Pump; 38 Inch Length x 26.1 Inch Width x 11.8 Inch Height; 82 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately"
   },
   {
@@ -104,6 +173,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; Black; 120 Volt",
     "img": "35024-0792.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 10",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Top/ Down Mount Design",
+      "Black",
+      "120 Volt",
+      "14.4 Amp Compressor Draw",
+      "With Heat Pump",
+      "With Condensate Pump",
+      "38 Inch Length x 26.1 Inch Width x 11.8 Inch Height",
+      "82 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 08-8588 (35024-0792) Air Conditioner; Mach 10; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; Black; 120 Volt; 14.4 Amp Compressor Draw; With Heat Pump; With Condensate Pump; 38 Inch Length x 26.1 Inch Width x 11.8 Inch Height; 82 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately"
   },
   {
@@ -116,6 +200,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Top/ Down Mount Non-Ducted Quiet Design; White; 120 Volt",
     "img": "35203-0753.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 10",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Top/ Down Mount Non-Ducted Quiet Design",
+      "White",
+      "120 Volt",
+      "8.7 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "38 Inch Length x 26.1 Inch Width x 11.8 Inch Height",
+      "80 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 08-8590 (35203-0753) Air Conditioner; Mach 10; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Top/ Down Mount Non-Ducted Quiet Design; White; 120 Volt; 8.7 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 38 Inch Length x 26.1 Inch Width x 11.8 Inch Height; 80 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately"
   },
   {
@@ -128,6 +227,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Top/ Down Mount Design; White; 120 Volt",
     "img": "35203-0762.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 10",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Top/ Down Mount Design",
+      "White",
+      "120 Volt",
+      "11 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "38 Inch Length x 26.1 Inch Width x 11.8 Inch Height",
+      "80 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 08-8592 (35203-0762) Air Conditioner; Mach 10; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Top/ Down Mount Design; White; 120 Volt; 11 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 38 Inch Length x 26.1 Inch Width x 11.8 Inch Height; 80 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately"
   },
   {
@@ -140,6 +254,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Top/ Down Mount Design; Black; 120 Volt",
     "img": "35203-0792.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 10",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Top/ Down Mount Design",
+      "Black",
+      "120 Volt",
+      "11 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "38 Inch Length x 26.1 Inch Width x 11.8 Inch Height",
+      "80 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 08-8596 (35203-0792) Air Conditioner; Mach 10; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Top/ Down Mount Design; Black; 120 Volt; 11 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 38 Inch Length x 26.1 Inch Width x 11.8 Inch Height; 80 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately"
   },
   {
@@ -152,6 +281,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Top/ Down Mount Non-Ducted Quiet Design; Black; 120 Volt",
     "img": "35203-0793.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 10",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Top/ Down Mount Non-Ducted Quiet Design",
+      "Black",
+      "120 Volt",
+      "8.7 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "38 Inch Length x 26.1 Inch Width x 11.8 Inch Height",
+      "80 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 08-8597 (35203-0793) Air Conditioner; Mach 10; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Top/ Down Mount Non-Ducted Quiet Design; Black; 120 Volt; 8.7 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 38 Inch Length x 26.1 Inch Width x 11.8 Inch Height; 80 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately"
   },
   {
@@ -164,6 +308,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Top/ Down Mount Non-Ducted Quiet Design; Black; 120 Volt",
     "img": "35203-0993.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 10",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Top/ Down Mount Non-Ducted Quiet Design",
+      "Black",
+      "120 Volt",
+      "8.7 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "38 Inch Length x 26.1 Inch Width x 11.8 Inch Height",
+      "80 Pounds",
+      "With Soft Start",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 08-8599 (35203-0993) Air Conditioner; Mach 10; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Top/ Down Mount Non-Ducted Quiet Design; Black; 120 Volt; 8.7 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 38 Inch Length x 26.1 Inch Width x 11.8 Inch Height; 80 Pounds; With Soft Start; Ceiling Assembly And Thermostat Must Be Ordered Separately"
   },
   {
@@ -176,6 +336,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; White; 120 Volt",
     "img": "35204-0752.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 10",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Top/ Down Mount Design",
+      "White",
+      "120 Volt",
+      "14.4 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "37.8 Inch Length x 27.9 Inch Width x 11.9 Inch Height",
+      "82 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 08-8600 (35204-0752) Air Conditioner; Mach 10; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; White; 120 Volt; 14.4 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 37.8 Inch Length x 27.9 Inch Width x 11.9 Inch Height; 82 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately"
   },
   {
@@ -188,6 +363,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; White/ Black; R32 Refrigerant",
     "img": null,
+    "specs": [
+      "Air Conditioner",
+      "Roughneck",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non Ducted",
+      "White/ Black",
+      "R32 Refrigerant",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.9 Inch Height x 28.2 Inch Width x 38.2 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 07-9912 (38203-0645) Air Conditioner; Roughneck ™; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; White/ Black; R32 Refrigerant; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.9 Inch Height x 28.2 Inch Width x 38.2 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately"
   },
   {
@@ -200,6 +391,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; White; 120 Volt",
     "img": "38203-065.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 3 Plus EZ",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non Ducted",
+      "White",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.9 Inch Height x 28.2 Inch Width x 38.2 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 38203-064"
+    ],
     "tags": "Coleman Mach 08-7820 (38203-065) Air Conditioner; Mach 3 Plus EZ; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; White; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.9 Inch Height x 28.2 Inch Width x 38.2 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 38203-064"
   },
   {
@@ -212,6 +419,23 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; White; 120 Volt",
     "img": "38203-066.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 3 Plus EZ",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non Ducted",
+      "White",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "With Wood Skid",
+      "Also Use New Number 38203-064"
+    ],
     "tags": "Coleman Mach 08-7821 (38203-066) Air Conditioner; Mach 3 Plus EZ; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; White; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; With Wood Skid; Also Use New Number 38203-064"
   },
   {
@@ -224,6 +448,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; White; 120 Volt",
     "img": "38203-0660.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 3 Plus",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non Ducted",
+      "White",
+      "120 Volt",
+      "12.8 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately",
+      "Also Use New Number 38203-0640"
+    ],
     "tags": "Coleman Mach 09-1360 (38203-0660) Air Conditioner; Mach 3 Plus; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; White; 120 Volt; 12.8 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately; Also Use New Number 38203-0640"
   },
   {
@@ -236,6 +476,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; White; 120 Volt",
     "img": "38203-0665.webp",
+    "specs": [
+      "Air Conditioner",
+      "Roughneck",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non Ducted",
+      "White",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 38203-0645"
+    ],
     "tags": "Coleman Mach 08-7822 (38203-0665) Air Conditioner; Roughneck ™; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; White; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 38203-0645"
   },
   {
@@ -248,6 +504,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; White; 120 Volt",
     "img": "38203-0666.webp",
+    "specs": [
+      "Air Conditioner",
+      "MarineMach",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non Ducted",
+      "White",
+      "120 Volt",
+      "15.4 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 38203-0646"
+    ],
     "tags": "Coleman Mach 08-8614 (38203-0666) Air Conditioner; MarineMach ™; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; White; 120 Volt; 15.4 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 38203-0646"
   },
   {
@@ -260,6 +532,23 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; Black; R32 Refrigerant; 120 Volt",
     "img": null,
+    "specs": [
+      "Air Conditioner",
+      "Mach 3 Plus EZ",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non Ducted",
+      "Black",
+      "R32 Refrigerant",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.9 Inch Height x 28.2 Inch Width x 38.2 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "With Wood Skid"
+    ],
     "tags": "Coleman Mach 09-7118 (38203-067) Air Conditioner; Mach 3 Plus EZ; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; Black; R32 Refrigerant; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.9 Inch Height x 28.2 Inch Width x 38.2 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; With Wood Skid"
   },
   {
@@ -272,6 +561,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; Black; R32 Refrigerant; 120 Volt",
     "img": null,
+    "specs": [
+      "Air Conditioner",
+      "Roughneck",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non Ducted",
+      "Black",
+      "R32 Refrigerant",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 08-1098 (38203-0675) Air Conditioner; Roughneck ™; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; Black; R32 Refrigerant; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately"
   },
   {
@@ -284,6 +589,23 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; Black; 120 Volt",
     "img": "38203-068.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 3 Plus EZ",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non Ducted",
+      "Black",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.9 Inch Height x 28.2 Inch Width x 38.2 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "With Wood Skid",
+      "Also Use New Number 38203-067"
+    ],
     "tags": "Coleman Mach 08-7404 (38203-068) Air Conditioner; Mach 3 Plus EZ; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; Black; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.9 Inch Height x 28.2 Inch Width x 38.2 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; With Wood Skid; Also Use New Number 38203-067"
   },
   {
@@ -296,6 +618,23 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; Black; 120 Volt",
     "img": "38203-069.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 3 Plus EZ",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non Ducted",
+      "Black",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "With Wood Skid",
+      "Also Use New Number 38203-067"
+    ],
     "tags": "Coleman Mach 08-7823 (38203-069) Air Conditioner; Mach 3 Plus EZ; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; Black; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; With Wood Skid; Also Use New Number 38203-067"
   },
   {
@@ -308,6 +647,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; Black; 120 Volt",
     "img": "38203-0690.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 3 Plus",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non Ducted",
+      "Black",
+      "120 Volt",
+      "12.8 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately",
+      "Also Use New Number 38203-0670"
+    ],
     "tags": "Coleman Mach 08-7824 (38203-0690) Air Conditioner; Mach 3 Plus; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; Black; 120 Volt; 12.8 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately; Also Use New Number 38203-0670"
   },
   {
@@ -320,6 +675,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White/ Black; R32 Refrigerant",
     "img": null,
+    "specs": [
+      "Air Conditioner",
+      "Mach 15 Plus EZ",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "White/ Black",
+      "R32 Refrigerant",
+      "120 Volt",
+      "14.8 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "85 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 09-7115 (38204-064) Air Conditioner; Mach 15 Plus EZ; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White/ Black; R32 Refrigerant; 120 Volt; 14.8 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 85 Pounds; Ceiling Assembly Must Be Ordered Separately"
   },
   {
@@ -332,6 +703,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White/ Black; R32 Refrigerant",
     "img": null,
+    "specs": [
+      "Air Conditioner",
+      "Mach 15",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "White/ Black",
+      "R32 Refrigerant",
+      "120 Volt",
+      "13.9 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "85 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 09-7121 (38204-0640) Air Conditioner; Mach 15; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White/ Black; R32 Refrigerant; 120 Volt; 13.9 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 85 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately"
   },
   {
@@ -344,6 +731,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White/ Black; R32 Refrigerant",
     "img": null,
+    "specs": [
+      "Air Conditioner",
+      "Roughneck",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "White/ Black",
+      "R32 Refrigerant",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 08-1236 (38204-0645) Air Conditioner; Roughneck ™; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White/ Black; R32 Refrigerant; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately"
   },
   {
@@ -356,6 +759,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White; 120 Volt",
     "img": "38204-065.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 15 Plus EZ",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "White",
+      "120 Volt",
+      "14.8 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "85 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 38204-064"
+    ],
     "tags": "Coleman Mach 08-7336 (38204-065) Air Conditioner; Mach 15 Plus EZ; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White; 120 Volt; 14.8 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 85 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 38204-064"
   },
   {
@@ -368,6 +787,23 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White; 120 Volt",
     "img": "38204-066.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 15 Plus EZ",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "White",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "With Wood Skid",
+      "Also Use New Number 38204-064"
+    ],
     "tags": "Coleman Mach 08-7334 (38204-066) Air Conditioner; Mach 15 Plus EZ; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; With Wood Skid; Also Use New Number 38204-064"
   },
   {
@@ -380,6 +816,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White; 120 Volt",
     "img": "38204-0660.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 15",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "White",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 38204-0640"
+    ],
     "tags": "Coleman Mach 08-7345 (38204-0660) Air Conditioner; Mach 15; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 38204-0640"
   },
   {
@@ -392,6 +844,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non Ducted; White; 120 Volt",
     "img": "38204-0665.webp",
+    "specs": [
+      "Air Conditioner",
+      "Roughneck",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non Ducted",
+      "White",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 38204-0645"
+    ],
     "tags": "Coleman Mach 08-7342 (38204-0665) Air Conditioner; Roughneck ™; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non Ducted; White; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 38204-0645"
   },
   {
@@ -404,6 +872,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; Black; R32 Refrigerant; 120 Volt",
     "img": null,
+    "specs": [
+      "Air Conditioner",
+      "Mach 15",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Top/ Down Mount Design",
+      "Black",
+      "R32 Refrigerant",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 382040672 (38204-0672) Air Conditioner; Mach 15; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; Black; R32 Refrigerant; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately"
   },
   {
@@ -416,6 +900,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non Ducted; Black; 120 Volt",
     "img": "38204-068.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 15 Plus EZ",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non Ducted",
+      "Black",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 38204-067"
+    ],
     "tags": "Coleman Mach 08-7337 (38204-068) Air Conditioner; Mach 15 Plus EZ; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non Ducted; Black; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 38204-067"
   },
   {
@@ -428,6 +928,23 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black; 120 Volt",
     "img": "38204-069.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 15 Plus EZ",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "With Wood Skid",
+      "Also Use New Number 38204-067"
+    ],
     "tags": "Coleman Mach 08-7335 (38204-069) Air Conditioner; Mach 15 Plus EZ; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; With Wood Skid; Also Use New Number 38204-067"
   },
   {
@@ -440,6 +957,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; Black; 120 Volt",
     "img": "38204-0692.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 15",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Top/ Down Mount Design",
+      "Black",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 38204-0672"
+    ],
     "tags": "Coleman Mach 08-7339 (38204-0692) Air Conditioner; Mach 15; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; Black; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 38204-0672"
   },
   {
@@ -452,6 +985,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non Ducted; Black; 120 Volt",
     "img": "48004-669.webp",
+    "specs": [
+      "Air Conditioner",
+      "Roughneck",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non Ducted",
+      "Black",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 38204-0675"
+    ],
     "tags": "Coleman Mach 08-7825 (38204-0695) Air Conditioner; Roughneck ™; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non Ducted; Black; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 38204-0675"
   },
   {
@@ -464,6 +1013,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 11000 BTU; Ducted Or Non-Ducted; White; 120 Volt",
     "img": "38207-0660.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach I Power Saver",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "11000 BTU",
+      "Ducted Or Non-Ducted",
+      "White",
+      "120 Volt",
+      "9.5 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "83.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 38207-0640"
+    ],
     "tags": "Coleman Mach 08-8617 (38207-0660) Air Conditioner; Mach I Power Saver; Fits 14 Inch x 14 Inch Vent Openings; 11000 BTU; Ducted Or Non-Ducted; White; 120 Volt; 9.5 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 83.5 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 38207-0640"
   },
   {
@@ -476,6 +1040,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 11000 BTU; Ducted Or Non-Ducted; Black; 120 Volt",
     "img": "38207-0690.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach I Power Saver",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "11000 BTU",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "120 Volt",
+      "9.5 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "83.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 38207-0670"
+    ],
     "tags": "Coleman Mach 08-8618 (38207-0690) Air Conditioner; Mach I Power Saver; Fits 14 Inch x 14 Inch Vent Openings; 11000 BTU; Ducted Or Non-Ducted; Black; 120 Volt; 9.5 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 83.5 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 38207-0670"
   },
   {
@@ -488,6 +1067,23 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non-Ducted; White/ Black; R32 Refrigerant",
     "img": null,
+    "specs": [
+      "Air Conditioner",
+      "Mach III Power Saver",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non-Ducted",
+      "White/ Black",
+      "R32 Refrigerant",
+      "120 Volt",
+      "10 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "83.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "With Wood Skid"
+    ],
     "tags": "Coleman Mach 09-7131 (38208-0640) Air Conditioner; Mach III Power Saver; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non-Ducted; White/ Black; R32 Refrigerant; 120 Volt; 10 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 83.5 Pounds; Ceiling Assembly Must Be Ordered Separately; With Wood Skid"
   },
   {
@@ -500,6 +1096,23 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non-Ducted; White; 120 Volt",
     "img": "38208-0660.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach III Power Saver",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non-Ducted",
+      "White",
+      "120 Volt",
+      "10 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "83.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "With Wood Skid",
+      "Also Use New Number 38208-0640"
+    ],
     "tags": "Coleman Mach 08-8497 (38208-0660) Air Conditioner; Mach III Power Saver; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non-Ducted; White; 120 Volt; 10 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 83.5 Pounds; Ceiling Assembly Must Be Ordered Separately; With Wood Skid; Also Use New Number 38208-0640"
   },
   {
@@ -512,6 +1125,23 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non-Ducted; Black; 120 Volt",
     "img": "38208-0690.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach III Power Saver",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "120 Volt",
+      "10 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "83.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "With Wood Skid",
+      "Also Use New Number 38208-0670"
+    ],
     "tags": "Coleman Mach 08-8498 (38208-0690) Air Conditioner; Mach III Power Saver; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non-Ducted; Black; 120 Volt; 10 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 83.5 Pounds; Ceiling Assembly Must Be Ordered Separately; With Wood Skid; Also Use New Number 38208-0670"
   },
   {
@@ -524,6 +1154,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White/ Black; R32 Refrigerant",
     "img": null,
+    "specs": [
+      "Air Conditioner",
+      "Mach 15 Power Saver",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "White/ Black",
+      "R32 Refrigerant",
+      "120 Volt",
+      "8.9 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "83.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 09-7129 (38209-0640) Air Conditioner; Mach 15 Power Saver; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White/ Black; R32 Refrigerant; 120 Volt; 8.9 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 83.5 Pounds; Ceiling Assembly Must Be Ordered Separately"
   },
   {
@@ -536,6 +1182,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White; 120 Volt",
     "img": "38209-0650.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 15 Power Saver",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "White",
+      "120 Volt",
+      "8.9 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "83.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 38209-0640"
+    ],
     "tags": "Coleman Mach 08-7826 (38209-0650) Air Conditioner; Mach 15 Power Saver; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White; 120 Volt; 8.9 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 83.5 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 38209-0640"
   },
   {
@@ -548,6 +1210,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White; 120 Volt",
     "img": "38209-0660.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 15 Power Saver",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "White",
+      "120 Volt",
+      "8.9 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "83.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 38209-0640"
+    ],
     "tags": "Coleman Mach 08-7340 (38209-0660) Air Conditioner; Mach 15 Power Saver; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White; 120 Volt; 8.9 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 83.5 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 38209-0640"
   },
   {
@@ -560,6 +1238,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black; R32 Refrigerant; 120 Volt",
     "img": "38xxx-067x-a-cm-9-25.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 15 Power Saver",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "R32 Refrigerant",
+      "120 Volt",
+      "8.9 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "103 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 09-7130 (38209-0670) Air Conditioner; Mach 15 Power Saver; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black; R32 Refrigerant; 120 Volt; 8.9 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 103 Pounds; Ceiling Assembly Must Be Ordered Separately"
   },
   {
@@ -572,6 +1266,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black; 120 Volt",
     "img": "mach-2015-20power-20saver-black.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 15 Power Saver",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "120 Volt",
+      "8.9 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "83.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 38209-0670"
+    ],
     "tags": "Coleman Mach 08-8574 (38209-0680) Air Conditioner; Mach 15 Power Saver; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black; 120 Volt; 8.9 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 83.5 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 38209-0670"
   },
   {
@@ -584,6 +1294,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black; 120 Volt",
     "img": "38209-0690.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 15 Power Saver",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "120 Volt",
+      "8.9 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "103 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 38209-0670"
+    ],
     "tags": "Coleman Mach 08-7341 (38209-0690) Air Conditioner; Mach 15 Power Saver; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black; 120 Volt; 8.9 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 103 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 38209-0670"
   },
   {
@@ -596,6 +1322,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; White; 120 Volt",
     "img": "45xxx-mach-2010-white-20shroud-front-20angle.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 10",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Top/ Down Mount Design",
+      "White",
+      "120 Volt",
+      "14.4 Amp Compressor Draw",
+      "With Heat Pump",
+      "Without Condensate Pump",
+      "38 Inch Length x 26.1 Inch Width x 11.8 Inch Height",
+      "82 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately",
+      "Also Use New Number 35004-0762"
+    ],
     "tags": "Coleman Mach 17-0952 (45004-0762) Air Conditioner; Mach 10; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; White; 120 Volt; 14.4 Amp Compressor Draw; With Heat Pump; Without Condensate Pump; 38 Inch Length x 26.1 Inch Width x 11.8 Inch Height; 82 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately; Also Use New Number 35004-0762"
   },
   {
@@ -608,6 +1350,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; Black; 120 Volt",
     "img": "45xxx-mach-2010-black-20shroud-front-20angle.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 10",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Top/ Down Mount Design",
+      "Black",
+      "120 Volt",
+      "14.4 Amp Compressor Draw",
+      "With Heat Pump",
+      "With Condensate Pump",
+      "38 Inch Length x 26.1 Inch Width x 11.8 Inch Height",
+      "82 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately",
+      "Also Use New Number 35024-0792"
+    ],
     "tags": "Coleman Mach 06-5842 (45024-0792) Air Conditioner; Mach 10; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; Black; 120 Volt; 14.4 Amp Compressor Draw; With Heat Pump; With Condensate Pump; 38 Inch Length x 26.1 Inch Width x 11.8 Inch Height; 82 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately; Also Use New Number 35024-0792"
   },
   {
@@ -620,6 +1378,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; Black; 120 Volt",
     "img": "45xxx-mach-2010-black-20shroud-front-20angle.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 10",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Top/ Down Mount Design",
+      "Black",
+      "120 Volt",
+      "14.4 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "37.8 Inch Length x 27.9 Inch Width x 11.9 Inch Height",
+      "82 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately",
+      "Also Use New Number 35204-0792"
+    ],
     "tags": "Coleman Mach 17-0954 (45204-0792) Air Conditioner; Mach 10; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; Black; 120 Volt; 14.4 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 37.8 Inch Length x 27.9 Inch Width x 11.9 Inch Height; 82 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately; Also Use New Number 35204-0792"
   },
   {
@@ -632,6 +1406,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; Black; 120 Volt",
     "img": "45xxx-mach-2010-black-20shroud-front-20angle.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 10",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Top/ Down Mount Design",
+      "Black",
+      "120 Volt",
+      "14.4 Amp Compressor Draw",
+      "Without Heat Pump",
+      "With Condensate Pump",
+      "37.8 Inch Length x 27.9 Inch Width x 11.9 Inch Height",
+      "82 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 35224-0792"
+    ],
     "tags": "Coleman Mach 06-5763 (45224-0792) Air Conditioner; Mach 10; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Top/ Down Mount Design; Black; 120 Volt; 14.4 Amp Compressor Draw; Without Heat Pump; With Condensate Pump; 37.8 Inch Length x 27.9 Inch Width x 11.9 Inch Height; 82 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 35224-0792"
   },
   {
@@ -644,6 +1434,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 9200 BTU; Ducted Or Non-Ducted; White; 120 Volt",
     "img": "47xxx-mach-2008-white-20shroud-front-20angle.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 8 Plus CUB",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "9200 BTU",
+      "Ducted Or Non-Ducted",
+      "White",
+      "120 Volt",
+      "8.9 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "87 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 37201-076"
+    ],
     "tags": "Coleman Mach 09-7173 (47201-076) Air Conditioner; Mach 8 Plus CUB; Fits 14 Inch x 14 Inch Vent Openings; 9200 BTU; Ducted Or Non-Ducted; White; 120 Volt; 8.9 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 87 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 37201-076"
   },
   {
@@ -656,6 +1461,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 9200 BTU; Ducted Or Non-Ducted; Black; 120 Volt",
     "img": "47xxx-mach-2008-black-20shroud-front-20angle.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 8 Plus CUB",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "9200 BTU",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "120 Volt",
+      "8.9 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "87 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 37201-079"
+    ],
     "tags": "Coleman Mach 06-7797 (47201-079) Air Conditioner; Mach 8 Plus CUB; Fits 14 Inch x 14 Inch Vent Openings; 9200 BTU; Ducted Or Non-Ducted; Black; 120 Volt; 8.9 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 87 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 37201-079"
   },
   {
@@ -668,6 +1488,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non-Ducted; White; 120 Volt",
     "img": "47xxx-mach-2008-white-20shroud-front-20angle.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 8 Plus",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non-Ducted",
+      "White",
+      "120 Volt",
+      "12.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "8.3 Inch Height x 28.4 Inch Width x 41.1 Inch Length",
+      "90 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 37203-076"
+    ],
     "tags": "Coleman Mach 09-7202 (47203-076) Air Conditioner; Mach 8 Plus; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non-Ducted; White; 120 Volt; 12.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 8.3 Inch Height x 28.4 Inch Width x 41.1 Inch Length; 90 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 37203-076"
   },
   {
@@ -680,6 +1516,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 9200 BTU; Ducted Or Non-Ducted; Black; 120 Volt; Without Heat Pump",
     "img": "47xxx-mach-2008-black-20shroud-front-20angle.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 8 Plus CUB",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "9200 BTU",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "120 Volt",
+      "Without Heat Pump",
+      "With Condensate Pump",
+      "8.3 Inch Height x 28.4 Inch Width x 41.1 Inch Length",
+      "90 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 37221-079"
+    ],
     "tags": "Coleman Mach 06-7793 (47221-079) Air Conditioner; Mach 8 Plus CUB; Fits 14 Inch x 14 Inch Vent Openings; 9200 BTU; Ducted Or Non-Ducted; Black; 120 Volt; Without Heat Pump; With Condensate Pump; 8.3 Inch Height x 28.4 Inch Width x 41.1 Inch Length; 90 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 37221-079"
   },
   {
@@ -692,6 +1543,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; Black; 120 Volt",
     "img": "48203c869.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 3 Plus EZ",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non Ducted",
+      "Black",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "With Wood Skid: Also Use New Number 38203-069"
+    ],
     "tags": "Coleman Mach 17-1077 (48203-069) Air Conditioner; Mach 3 Plus EZ; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; Black; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; With Wood Skid: Also Use New Number 38203-069"
   },
   {
@@ -704,6 +1571,23 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits In A Small Interior Space For Campers; 10500 BTU; Non-Ducted; Black; 120 Volt; 8.9 Amp Compressor Draw",
     "img": "441003axx1.webp",
+    "specs": [
+      "Air Conditioner",
+      "Cool Cat",
+      "Fits In A Small Interior Space For Campers",
+      "10500 BTU",
+      "Non-Ducted",
+      "Black",
+      "120 Volt",
+      "8.9 Amp Compressor Draw",
+      "With Heat Pump",
+      "Without Condensate Pump",
+      "20-1/2 Inch Length x 22 Inch Width x 14-1/2 Inch Height",
+      "67 Pounds",
+      "With Built-In Single Zone CT Electronic Board",
+      "Without Single Zone CT Wall Thermostat And Vented Grille",
+      "Requires Air Conditioner Ceiling Assembly"
+    ],
     "tags": "Dometic 18-2601 (441003AXX1) Air Conditioner; Cool Cat; Fits In A Small Interior Space For Campers; 10500 BTU; Non-Ducted; Black; 120 Volt; 8.9 Amp Compressor Draw; With Heat Pump; Without Condensate Pump; 20-1/2 Inch Length x 22 Inch Width x 14-1/2 Inch Height; 67 Pounds; With Built-In Single Zone CT Electronic Board; Without Single Zone CT Wall Thermostat And Vented Grille; Requires Air Conditioner Ceiling Assembly"
   },
   {
@@ -716,6 +1600,20 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU High Capacity; Top Mount/ Ducted Or Non-Ducted; White",
     "img": "9610007815.webp",
+    "specs": [
+      "Air Conditioner",
+      "FreshJet 4",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU High Capacity",
+      "Top Mount/ Ducted Or Non-Ducted",
+      "White",
+      "115 Volt",
+      "15 Amp Compressor Draw",
+      "With Heat Pump",
+      "Without Condensate Pump",
+      "26 Inch Depth x 29.63 Inch Height x 13.87 Inch Width",
+      "77.09 Pounds"
+    ],
     "tags": "Dometic 09-8642 (9610007815) Air Conditioner; FreshJet 4; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU High Capacity; Top Mount/ Ducted Or Non-Ducted; White; 115 Volt; 15 Amp Compressor Draw; With Heat Pump; Without Condensate Pump; 26 Inch Depth x 29.63 Inch Height x 13.87 Inch Width; 77.09 Pounds"
   },
   {
@@ -728,6 +1626,20 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU High Capacity; Top Mount/ Ducted Or Non-Ducted; Black",
     "img": "9610007816.webp",
+    "specs": [
+      "Air Conditioner",
+      "FreshJet 4",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU High Capacity",
+      "Top Mount/ Ducted Or Non-Ducted",
+      "Black",
+      "115 Volt",
+      "15 Amp Compressor Draw",
+      "With Heat Pump",
+      "Without Condensate Pump",
+      "26 Inch Depth x 29.63 Inch Height x 13.87 Inch Width",
+      "77.09 Pounds"
+    ],
     "tags": "Dometic 09-8643 (9610007816) Air Conditioner; FreshJet 4; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU High Capacity; Top Mount/ Ducted Or Non-Ducted; Black; 115 Volt; 15 Amp Compressor Draw; With Heat Pump; Without Condensate Pump; 26 Inch Depth x 29.63 Inch Height x 13.87 Inch Width; 77.09 Pounds"
   },
   {
@@ -740,6 +1652,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non-Ducted; Black; 115 Volt",
     "img": "fjx3473mbkas.webp",
+    "specs": [
+      "Air Conditioner",
+      "FreshJet 3",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "115 Volt",
+      "13.6 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "27-5/8 Inch Length x 29-5/8 Inch Width x 13-7/8 Inch Height",
+      "64 Pounds",
+      "Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install",
+      "Compatible With Existing Dometic Air Distribution Boxes 3314851.000 And 3314850.000/ 3317404.000 Return Air Grille"
+    ],
     "tags": "Dometic 07-7925 (FJX3473MBKAS) Air Conditioner; FreshJet 3; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non-Ducted; Black; 115 Volt; 13.6 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 27-5/8 Inch Length x 29-5/8 Inch Width x 13-7/8 Inch Height; 64 Pounds; Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install; Compatible With Existing Dometic Air Distribution Boxes 3314851.000 And 3314850.000/ 3317404.000 Return Air Grille"
   },
   {
@@ -752,6 +1680,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non-Ducted; Black/ White; 115 Volt",
     "img": "fjx3473mwhas.webp",
+    "specs": [
+      "Air Conditioner",
+      "FreshJet 3",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non-Ducted",
+      "Black/ White",
+      "115 Volt",
+      "13.6 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "27-5/8 Inch Length x 29-5/8 Inch Width x 13-7/8 Inch Height",
+      "64 Pounds",
+      "Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install",
+      "Compatible With Existing Dometic Air Distribution Boxes 3314851.000 And 3314850.000/ 3317404.000 Return Air Grille"
+    ],
     "tags": "Dometic 07-7923 (FJX3473MWHAS) Air Conditioner; FreshJet 3; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non-Ducted; Black/ White; 115 Volt; 13.6 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 27-5/8 Inch Length x 29-5/8 Inch Width x 13-7/8 Inch Height; 64 Pounds; Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install; Compatible With Existing Dometic Air Distribution Boxes 3314851.000 And 3314850.000/ 3317404.000 Return Air Grille"
   },
   {
@@ -764,6 +1708,23 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black; 115 Volt",
     "img": "fjx3573mbkcs.webp",
+    "specs": [
+      "Air Conditioner",
+      "FreshJet 3",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "115 Volt",
+      "13.6 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "27-5/8 Inch Length x 29-5/8 Inch Width x 13-7/8 Inch Height",
+      "64 Pounds",
+      "Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install",
+      "Compatible With Existing Dometic Air Distribution Boxes 3314851.000 And 3314850.000/ 3317404.000 Return Air Grille",
+      "With R32 Refrigerant"
+    ],
     "tags": "Dometic 09-9029 (FJX3573MBKCS) Air Conditioner; FreshJet 3; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black; 115 Volt; 13.6 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 27-5/8 Inch Length x 29-5/8 Inch Width x 13-7/8 Inch Height; 64 Pounds; Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install; Compatible With Existing Dometic Air Distribution Boxes 3314851.000 And 3314850.000/ 3317404.000 Return Air Grille; With R32 Refrigerant"
   },
   {
@@ -776,6 +1737,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black/ White; 115 Volt",
     "img": "fjx3573mwhcs.webp",
+    "specs": [
+      "Air Conditioner",
+      "FreshJet 3",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "Black/ White",
+      "115 Volt",
+      "13.6 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "27-5/8 Inch Length x 29-5/8 Inch Width x 13-7/8 Inch Height",
+      "64 Pounds",
+      "Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install",
+      "Compatible With Existing Dometic Air Distribution Boxes"
+    ],
     "tags": "Dometic 09-1380 (FJX3573MWHCS) Air Conditioner; FreshJet 3; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black/ White; 115 Volt; 13.6 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 27-5/8 Inch Length x 29-5/8 Inch Width x 13-7/8 Inch Height; 64 Pounds; Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install; Compatible With Existing Dometic Air Distribution Boxes"
   },
   {
@@ -788,6 +1765,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 11000 BTU; Ducted Or Non-Ducted; Black; 115 Volt",
     "img": "fjx5357mhebkcs.webp",
+    "specs": [
+      "Air Conditioner",
+      "FreshJet 5",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "11000 BTU",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "115 Volt",
+      "10.8 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height",
+      "93 Pounds",
+      "With Built-In Hard Start",
+      "Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install"
+    ],
     "tags": "Dometic 09-0594 (FJX5357MHEBKCS) Air Conditioner; FreshJet 5; Fits 14 Inch x 14 Inch Vent Openings; 11000 BTU; Ducted Or Non-Ducted; Black; 115 Volt; 10.8 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height; 93 Pounds; With Built-In Hard Start; Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install"
   },
   {
@@ -800,6 +1793,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 11000 BTU; Ducted Or Non-Ducted; Black/ White; 115 Volt",
     "img": "fjx5357mhewhcs.webp",
+    "specs": [
+      "Air Conditioner",
+      "FreshJet 5",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "11000 BTU",
+      "Ducted Or Non-Ducted",
+      "Black/ White",
+      "115 Volt",
+      "10.8 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height",
+      "93 Pounds",
+      "With Built-In Hard Start",
+      "Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install"
+    ],
     "tags": "Dometic 09-0592 (FJX5357MHEWHCS) Air Conditioner; FreshJet 5; Fits 14 Inch x 14 Inch Vent Openings; 11000 BTU; Ducted Or Non-Ducted; Black/ White; 115 Volt; 10.8 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height; 93 Pounds; With Built-In Hard Start; Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install"
   },
   {
@@ -812,6 +1821,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non-Ducted; Black; 115 Volt",
     "img": "fjx5457mbkcs.webp",
+    "specs": [
+      "Air Conditioner",
+      "FreshJet 5",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "115 Volt",
+      "15.6 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height",
+      "93 Pounds",
+      "With Built-In Hard Start",
+      "Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install"
+    ],
     "tags": "Dometic 09-0593 (FJX5457MBKCS) Air Conditioner; FreshJet 5; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non-Ducted; Black; 115 Volt; 15.6 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height; 93 Pounds; With Built-In Hard Start; Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install"
   },
   {
@@ -824,6 +1849,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non-Ducted; Black/ White; 115 Volt",
     "img": "fjx5457mwhcs.webp",
+    "specs": [
+      "Air Conditioner",
+      "FreshJet 5",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non-Ducted",
+      "Black/ White",
+      "115 Volt",
+      "15.6 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height",
+      "93 Pounds",
+      "With Built-In Hard Start",
+      "Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install"
+    ],
     "tags": "Dometic 09-0589 (FJX5457MWHCS) Air Conditioner; FreshJet 5; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non-Ducted; Black/ White; 115 Volt; 15.6 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height; 93 Pounds; With Built-In Hard Start; Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install"
   },
   {
@@ -836,6 +1877,23 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black; 115 Volt",
     "img": "dometic-freshjet-205-black.webp",
+    "specs": [
+      "Air Conditioner",
+      "FreshJet 5",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "115 Volt",
+      "15.3 Amp Compressor Draw",
+      "With Heat Pump",
+      "Without Condensate Pump",
+      "40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height",
+      "99 Pounds",
+      "With Built-In Hard Start",
+      "Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install",
+      "Use RJ45 Adapter (9610008210) For Penguin II Replacements"
+    ],
     "tags": "Dometic 09-0597 (FJX5557EHPBKCS) Air Conditioner; FreshJet 5; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black; 115 Volt; 15.3 Amp Compressor Draw; With Heat Pump; Without Condensate Pump; 40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height; 99 Pounds; With Built-In Hard Start; Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install; Use RJ45 Adapter (9610008210) For Penguin II Replacements"
   },
   {
@@ -848,6 +1906,23 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White; 115 Volt",
     "img": "dometic-freshjet-205-white.webp",
+    "specs": [
+      "Air Conditioner",
+      "FreshJet 5",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "White",
+      "115 Volt",
+      "15.3 Amp Compressor Draw",
+      "With Heat Pump",
+      "Without Condensate Pump",
+      "40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height",
+      "99 Pounds",
+      "With Built-In Hard Start And Multizone Controls Built In",
+      "Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install",
+      "Use RJ45 Adapter (9610008210) For Penguin II Replacements"
+    ],
     "tags": "Dometic 09-0596 (FJX5557EHPWHCS) Air Conditioner; FreshJet 5; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White; 115 Volt; 15.3 Amp Compressor Draw; With Heat Pump; Without Condensate Pump; 40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height; 99 Pounds; With Built-In Hard Start And Multizone Controls Built In; Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install; Use RJ45 Adapter (9610008210) For Penguin II Replacements"
   },
   {
@@ -860,6 +1935,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black; 115 Volt",
     "img": "fjx5557mbkcs.webp",
+    "specs": [
+      "Air Conditioner",
+      "FreshJet 5",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "115 Volt",
+      "15.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height",
+      "95 Pounds",
+      "With Built-In Hard Start",
+      "Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install"
+    ],
     "tags": "Dometic 09-0590 (FJX5557MBKCS) Air Conditioner; FreshJet 5; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black; 115 Volt; 15.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height; 95 Pounds; With Built-In Hard Start; Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install"
   },
   {
@@ -872,6 +1963,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Non-Ducted; Black; 115 Volt; 15.4 Amp Compressor Draw",
     "img": "fjx5557mhpbkcs.webp",
+    "specs": [
+      "Air Conditioner",
+      "FreshJet 5",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Non-Ducted",
+      "Black",
+      "115 Volt",
+      "15.4 Amp Compressor Draw",
+      "With Heat Pump",
+      "Without Condensate Pump",
+      "40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height",
+      "95 Pounds",
+      "With Built-In Hard Start",
+      "Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install"
+    ],
     "tags": "Dometic 09-0591 (FJX5557MHPBKCS) Air Conditioner; FreshJet 5; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Non-Ducted; Black; 115 Volt; 15.4 Amp Compressor Draw; With Heat Pump; Without Condensate Pump; 40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height; 95 Pounds; With Built-In Hard Start; Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install"
   },
   {
@@ -884,6 +1991,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Non-Ducted; White; 115 Volt; 15.4 Amp Compressor Draw",
     "img": "fjx5557mhpwhcs.webp",
+    "specs": [
+      "Air Conditioner",
+      "FreshJet 5",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Non-Ducted",
+      "White",
+      "115 Volt",
+      "15.4 Amp Compressor Draw",
+      "With Heat Pump",
+      "Without Condensate Pump",
+      "40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height",
+      "95 Pounds",
+      "With Built-In Hard Start",
+      "Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install"
+    ],
     "tags": "Dometic 09-1348 (FJX5557MHPWHCS) Air Conditioner; FreshJet 5; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Non-Ducted; White; 115 Volt; 15.4 Amp Compressor Draw; With Heat Pump; Without Condensate Pump; 40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height; 95 Pounds; With Built-In Hard Start; Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install"
   },
   {
@@ -896,6 +2019,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White; 115 Volt",
     "img": "fjx5557mwhcs.webp",
+    "specs": [
+      "Air Conditioner",
+      "FreshJet 5",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "White",
+      "115 Volt",
+      "15.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height",
+      "95 Pounds",
+      "With Built-In Hard Start",
+      "Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install"
+    ],
     "tags": "Dometic 09-0595 (FJX5557MWHCS) Air Conditioner; FreshJet 5; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White; 115 Volt; 15.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 40.39 Inch Length x 29.21 Inch Width x 10.5 Inch Height; 95 Pounds; With Built-In Hard Start; Ceiling Assembly Or Wall Thermostat Controls Sold Separately For New Install"
   },
   {
@@ -908,6 +2047,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Commercial Grade; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; R32 Refrigerant; Ducted Or Non-Ducted",
     "img": "fjxm3573mbkcs.webp",
+    "specs": [
+      "Air Conditioner",
+      "FreshJet 3",
+      "Commercial Grade",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "R32 Refrigerant",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "115 Volt",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "29.6 Inch Depth x 14.4 Inch Height x 27.6 Inch Width",
+      "66 Pounds",
+      "Ceiling Assembly Or Wall Thermostat Controls Required"
+    ],
     "tags": "Dometic 09-1483 (FJXM3573MBKCS) Air Conditioner; FreshJet 3; Commercial Grade; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; R32 Refrigerant; Ducted Or Non-Ducted; Black; 115 Volt; Without Heat Pump; Without Condensate Pump; 29.6 Inch Depth x 14.4 Inch Height x 27.6 Inch Width; 66 Pounds; Ceiling Assembly Or Wall Thermostat Controls Required"
   },
   {
@@ -920,6 +2075,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Commercial Grade; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; R32 Refrigerant; Ducted Or Non-Ducted",
     "img": "fjxm3573mwhcs.webp",
+    "specs": [
+      "Air Conditioner",
+      "FreshJet 3",
+      "Commercial Grade",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "R32 Refrigerant",
+      "Ducted Or Non-Ducted",
+      "White",
+      "115 Volt",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "29.6 Inch Depth x 14.4 Inch Height x 27.6 Inch Width",
+      "66 Pounds",
+      "Ceiling Assembly Or Wall Thermostat Controls Required"
+    ],
     "tags": "Dometic 09-1484 (FJXM3573MWHCS) Air Conditioner; FreshJet 3; Commercial Grade; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; R32 Refrigerant; Ducted Or Non-Ducted; White; 115 Volt; Without Heat Pump; Without Condensate Pump; 29.6 Inch Depth x 14.4 Inch Height x 27.6 Inch Width; 66 Pounds; Ceiling Assembly Or Wall Thermostat Controls Required"
   },
   {
@@ -932,6 +2103,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU High Capacity; Top Mount/ Ducted Or Non-Ducted; Black",
     "img": "h551816axx1j0.webp",
+    "specs": [
+      "Air Conditioner",
+      "Blizzard NXT",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU High Capacity",
+      "Top Mount/ Ducted Or Non-Ducted",
+      "Black",
+      "120 Volt",
+      "13.2 Amp Compressor Draw",
+      "With Heat Pump",
+      "Without Condensate Pump",
+      "30 Inch Depth x 14 Inch Height x 40 Inch Width",
+      "90 Pounds",
+      "With Built-In Comfort Control Center II (CCCII) Electronic Board",
+      "Comfort Control Center II (CCCII) Wall Thermostat And Ceiling Assembly Sold Separately"
+    ],
     "tags": "Dometic 18-2647 (H551816AXX1J0) Air Conditioner; Blizzard NXT; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU High Capacity; Top Mount/ Ducted Or Non-Ducted; Black; 120 Volt; 13.2 Amp Compressor Draw; With Heat Pump; Without Condensate Pump; 30 Inch Depth x 14 Inch Height x 40 Inch Width; 90 Pounds; With Built-In Comfort Control Center II (CCCII) Electronic Board; Comfort Control Center II (CCCII) Wall Thermostat And Ceiling Assembly Sold Separately"
   },
   {
@@ -944,6 +2131,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU High Efficiency; Ducted Or Non-Ducted; Black; 120 Volt",
     "img": "facr13hesa2-bl-am.webp",
+    "specs": [
+      "Air Conditioner",
+      "Furrion Chill HE",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU High Efficiency",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "120 Volt",
+      "11.3 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "34-7/8 Inch Length x 27-5/8 Inch Width x 13-5/8 Inch Height",
+      "76 Pounds",
+      "Ceiling Assembly And Wall Thermostat Sold Separately"
+    ],
     "tags": "Furrion LLC 08-8470 (FACR13HESA2-BL-AM) Air Conditioner; Furrion Chill ™ HE; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU High Efficiency; Ducted Or Non-Ducted; Black; 120 Volt; 11.3 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 34-7/8 Inch Length x 27-5/8 Inch Width x 13-5/8 Inch Height; 76 Pounds; Ceiling Assembly And Wall Thermostat Sold Separately"
   },
   {
@@ -956,6 +2158,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU High Efficiency; Ducted Or Non-Ducted; Black/ White",
     "img": "facr13hesa2-ps-am.webp",
+    "specs": [
+      "Air Conditioner",
+      "Furrion Chill HE",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU High Efficiency",
+      "Ducted Or Non-Ducted",
+      "Black/ White",
+      "120 Volt",
+      "11.3 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "34-7/8 Inch Length x 27-5/8 Inch Width x 13-5/8 Inch Height",
+      "76 Pounds",
+      "Ceiling Assembly And Wall Thermostat Sold Separately"
+    ],
     "tags": "Furrion LLC 08-8468 (FACR13HESA2-PS-AM) Air Conditioner; Furrion Chill ™ HE; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU High Efficiency; Ducted Or Non-Ducted; Black/ White; 120 Volt; 11.3 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 34-7/8 Inch Length x 27-5/8 Inch Width x 13-5/8 Inch Height; 76 Pounds; Ceiling Assembly And Wall Thermostat Sold Separately"
   },
   {
@@ -968,6 +2185,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU High Efficiency; Ducted Or Non-Ducted; Black; 120 Volt",
     "img": "facr15hesa2-bl-am.webp",
+    "specs": [
+      "Air Conditioner",
+      "Furrion Chill HE",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU High Efficiency",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "120 Volt",
+      "15.6 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "34-7/8 Inch Length x 27-5/8 Inch Width x 13-5/8 Inch Height",
+      "84 Pounds",
+      "Ceiling Assembly And Wall Thermostat Sold Separately"
+    ],
     "tags": "Furrion LLC 08-8469 (FACR15HESA2-BL-AM) Air Conditioner; Furrion Chill ™ HE; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU High Efficiency; Ducted Or Non-Ducted; Black; 120 Volt; 15.6 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 34-7/8 Inch Length x 27-5/8 Inch Width x 13-5/8 Inch Height; 84 Pounds; Ceiling Assembly And Wall Thermostat Sold Separately"
   },
   {
@@ -980,6 +2212,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU High Efficiency; Ducted Or Non-Ducted; Black/ White",
     "img": "facr15hesa2-ps-am.webp",
+    "specs": [
+      "Air Conditioner",
+      "Furrion Chill HE",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU High Efficiency",
+      "Ducted Or Non-Ducted",
+      "Black/ White",
+      "120 Volt",
+      "15.6 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "34-7/8 Inch Length x 27-5/8 Inch Width x 13-5/8 Inch Height",
+      "84 Pounds",
+      "Ceiling Assembly And Wall Thermostat Sold Separately"
+    ],
     "tags": "Furrion LLC 08-8467 (FACR15HESA2-PS-AM) Air Conditioner; Furrion Chill ™ HE; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU High Efficiency; Ducted Or Non-Ducted; Black/ White; 120 Volt; 15.6 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 34-7/8 Inch Length x 27-5/8 Inch Width x 13-5/8 Inch Height; 84 Pounds; Ceiling Assembly And Wall Thermostat Sold Separately"
   },
   {
@@ -992,6 +2239,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 18000 BTU High Efficiency; Ducted; Black; 120 Volt; With Heat Pump",
     "img": "facr18heda-bl-am.webp",
+    "specs": [
+      "Air Conditioner",
+      "Furrion Chill Cube",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "18000 BTU High Efficiency",
+      "Ducted",
+      "Black",
+      "120 Volt",
+      "With Heat Pump",
+      "Without Condensate Pump",
+      "29 Inch Length x 29-1/2 Inch Width x 14-1/2 Inch Height",
+      "77.16 Pounds",
+      "R32 Refrigerant",
+      "Ceiling Assembly And Wall Thermostat Available Separately"
+    ],
     "tags": "Furrion LLC 10-9279 (FACR18HEDA-BL-AM) Air Conditioner; Furrion Chill ™ Cube; Fits 14 Inch x 14 Inch Vent Openings; 18000 BTU High Efficiency; Ducted; Black; 120 Volt; With Heat Pump; Without Condensate Pump; 29 Inch Length x 29-1/2 Inch Width x 14-1/2 Inch Height; 77.16 Pounds; R32 Refrigerant; Ceiling Assembly And Wall Thermostat Available Separately"
   },
   {
@@ -1004,6 +2266,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 18000 BTU High Efficiency; Non-Ducted; Black; 120 Volt; With Heat Pump",
     "img": "facr18hepa-bl-am.webp",
+    "specs": [
+      "Air Conditioner",
+      "Furrion Chill Cube",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "18000 BTU High Efficiency",
+      "Non-Ducted",
+      "Black",
+      "120 Volt",
+      "With Heat Pump",
+      "Without Condensate Pump",
+      "29 Inch Length x 29-1/2 Inch Width x 14-1/2 Inch Height",
+      "77.16 Pounds",
+      "R32 Refrigerant",
+      "Ceiling Assembly With Remote Control Available Separately"
+    ],
     "tags": "Furrion LLC 10-9281 (FACR18HEPA-BL-AM) Air Conditioner; Furrion Chill ™ Cube; Fits 14 Inch x 14 Inch Vent Openings; 18000 BTU High Efficiency; Non-Ducted; Black; 120 Volt; With Heat Pump; Without Condensate Pump; 29 Inch Length x 29-1/2 Inch Width x 14-1/2 Inch Height; 77.16 Pounds; R32 Refrigerant; Ceiling Assembly With Remote Control Available Separately"
   },
   {
@@ -1016,6 +2293,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 18000 BTU High Efficiency; Non-Ducted; Black/ White; 120 Volt",
     "img": "facr18hepa-ps-am.webp",
+    "specs": [
+      "Air Conditioner",
+      "Furrion Chill Cube",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "18000 BTU High Efficiency",
+      "Non-Ducted",
+      "Black/ White",
+      "120 Volt",
+      "With Heat Pump",
+      "Without Condensate Pump",
+      "29 Inch Length x 29-1/2 Inch Width x 14-1/2 Inch Height",
+      "77.16 Pounds",
+      "R32 Refrigerant",
+      "Ceiling Assembly With Remote Control Available Separately"
+    ],
     "tags": "Furrion LLC 10-9278 (FACR18HEPA-PS-AM) Air Conditioner; Furrion Chill ™ Cube; Fits 14 Inch x 14 Inch Vent Openings; 18000 BTU High Efficiency; Non-Ducted; Black/ White; 120 Volt; With Heat Pump; Without Condensate Pump; 29 Inch Length x 29-1/2 Inch Width x 14-1/2 Inch Height; 77.16 Pounds; R32 Refrigerant; Ceiling Assembly With Remote Control Available Separately"
   },
   {
@@ -1028,6 +2320,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 18000 BTU High Efficiency; Non-Ducted; Black; 120 Volt",
     "img": "facr18vs-sa-bl-am.webp",
+    "specs": [
+      "Air Conditioner",
+      "Furrion Chill Cube",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "18000 BTU High Efficiency",
+      "Non-Ducted",
+      "Black",
+      "120 Volt",
+      "14 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "29 Inch Length x 29-1/2 Inch Width x 14-1/2 Inch Height",
+      "72.4 Pounds",
+      "Ceiling Assembly With Remote Control Available Separately"
+    ],
     "tags": "Furrion LLC 08-8473 (FACR18VS-SA-BL-AM) Air Conditioner; Furrion Chill ™ Cube; Fits 14 Inch x 14 Inch Vent Openings; 18000 BTU High Efficiency; Non-Ducted; Black; 120 Volt; 14 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 29 Inch Length x 29-1/2 Inch Width x 14-1/2 Inch Height; 72.4 Pounds; Ceiling Assembly With Remote Control Available Separately"
   },
   {
@@ -1040,6 +2347,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 18000 BTU High Efficiency; Non-Ducted; Black/ White; 120 Volt",
     "img": "facr18vs-sa-ps-am.webp",
+    "specs": [
+      "Air Conditioner",
+      "Furrion Chill Cube",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "18000 BTU High Efficiency",
+      "Non-Ducted",
+      "Black/ White",
+      "120 Volt",
+      "14 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "29 Inch Length x 29-1/2 Inch Width x 14-1/2 Inch Height",
+      "72.4 Pounds",
+      "Ceiling Assembly With Remote Control Available Separately"
+    ],
     "tags": "Furrion LLC 08-8471 (FACR18VS-SA-PS-AM) Air Conditioner; Furrion Chill ™ Cube; Fits 14 Inch x 14 Inch Vent Openings; 18000 BTU High Efficiency; Non-Ducted; Black/ White; 120 Volt; 14 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 29 Inch Length x 29-1/2 Inch Width x 14-1/2 Inch Height; 72.4 Pounds; Ceiling Assembly With Remote Control Available Separately"
   },
   {
@@ -1052,6 +2374,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 18000 BTU High Efficiency; Ducted; Black/ White; 120 Volt",
     "img": "facr18vsda-ps-am.webp",
+    "specs": [
+      "Air Conditioner",
+      "Furrion Chill Cube",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "18000 BTU High Efficiency",
+      "Ducted",
+      "Black/ White",
+      "120 Volt",
+      "14 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "29 Inch Length x 29-1/2 Inch Width x 14-1/2 Inch Height",
+      "72.4 Pounds",
+      "Ceiling Assembly With Remote Control Available Separately"
+    ],
     "tags": "Furrion LLC 08-8474 (FACR18VSDA-PS-AM) Air Conditioner; Furrion Chill ™ Cube; Fits 14 Inch x 14 Inch Vent Openings; 18000 BTU High Efficiency; Ducted; Black/ White; 120 Volt; 14 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 29 Inch Length x 29-1/2 Inch Width x 14-1/2 Inch Height; 72.4 Pounds; Ceiling Assembly With Remote Control Available Separately"
   },
   {
@@ -1064,6 +2401,19 @@ window.CATALOG = {
     "icon": "board",
     "blurb": "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; Black; 115 Volt",
     "img": "grcs13xahb.webp",
+    "specs": [
+      "Air Conditioner",
+      "S Series Deluxe",
+      "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings",
+      "13500 BTU",
+      "Outdoor Unit",
+      "Black",
+      "115 Volt",
+      "20 Amp Circuit Breaker",
+      "Without Heat Pump",
+      "27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 78 Pound",
+      "With R32 Refrigerant"
+    ],
     "tags": "GE Appliances 08-8834 (GRCS13XAHB) Air Conditioner; S Series Deluxe; Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; Black; 115 Volt; 20 Amp Circuit Breaker; Without Heat Pump; 27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 78 Pound; With R32 Refrigerant"
   },
   {
@@ -1076,6 +2426,19 @@ window.CATALOG = {
     "icon": "board",
     "blurb": "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; White; 115 Volt",
     "img": "grcs13xahw.webp",
+    "specs": [
+      "Air Conditioner",
+      "S Series Deluxe",
+      "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings",
+      "13500 BTU",
+      "Outdoor Unit",
+      "White",
+      "115 Volt",
+      "20 Amp Circuit Breaker",
+      "Without Heat Pump",
+      "27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 78 Pound",
+      "With R32 Refrigerant"
+    ],
     "tags": "GE Appliances 08-8835 (GRCS13XAHW) Air Conditioner; S Series Deluxe; Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; White; 115 Volt; 20 Amp Circuit Breaker; Without Heat Pump; 27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 78 Pound; With R32 Refrigerant"
   },
   {
@@ -1088,6 +2451,19 @@ window.CATALOG = {
     "icon": "board",
     "blurb": "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; Black; 115 Volt",
     "img": "grcs13xhhb.webp",
+    "specs": [
+      "Air Conditioner",
+      "S Series High Efficiency",
+      "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings",
+      "13500 BTU",
+      "Outdoor Unit",
+      "Black",
+      "115 Volt",
+      "15 Amp Circuit Breaker",
+      "Without Heat Pump",
+      "27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 80 Pound",
+      "With R32 Refrigerant"
+    ],
     "tags": "GE Appliances 08-8836 (GRCS13XHHB) Air Conditioner; S Series High Efficiency; Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; Black; 115 Volt; 15 Amp Circuit Breaker; Without Heat Pump; 27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 80 Pound; With R32 Refrigerant"
   },
   {
@@ -1100,6 +2476,19 @@ window.CATALOG = {
     "icon": "board",
     "blurb": "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; White; 115 Volt",
     "img": "grcs13xhhw.webp",
+    "specs": [
+      "Air Conditioner",
+      "S Series High Efficiency",
+      "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings",
+      "13500 BTU",
+      "Outdoor Unit",
+      "White",
+      "115 Volt",
+      "15 Amp Circuit Breaker",
+      "Without Heat Pump",
+      "27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 80 Pound",
+      "With R32 Refrigerant"
+    ],
     "tags": "GE Appliances 08-8837 (GRCS13XHHW) Air Conditioner; S Series High Efficiency; Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; White; 115 Volt; 15 Amp Circuit Breaker; Without Heat Pump; 27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 80 Pound; With R32 Refrigerant"
   },
   {
@@ -1112,6 +2501,19 @@ window.CATALOG = {
     "icon": "board",
     "blurb": "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 15000 BTU; Outdoor Unit; Black; 115 Volt",
     "img": "grcs15xahb.webp",
+    "specs": [
+      "Air Conditioner",
+      "S Series Deluxe Plus",
+      "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings",
+      "15000 BTU",
+      "Outdoor Unit",
+      "Black",
+      "115 Volt",
+      "20 Amp Circuit Breaker",
+      "Without Heat Pump",
+      "27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 80 Pound",
+      "With R32 Refrigerant"
+    ],
     "tags": "GE Appliances 08-8838 (GRCS15XAHB) Air Conditioner; S Series Deluxe Plus; Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 15000 BTU; Outdoor Unit; Black; 115 Volt; 20 Amp Circuit Breaker; Without Heat Pump; 27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 80 Pound; With R32 Refrigerant"
   },
   {
@@ -1124,6 +2526,19 @@ window.CATALOG = {
     "icon": "board",
     "blurb": "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 15000 BTU; Outdoor Unit; White; 115 Volt",
     "img": "grcs15xahw.webp",
+    "specs": [
+      "Air Conditioner",
+      "S Series Deluxe Plus",
+      "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings",
+      "15000 BTU",
+      "Outdoor Unit",
+      "White",
+      "115 Volt",
+      "20 Amp Circuit Breaker",
+      "Without Heat Pump",
+      "27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 80 Pound",
+      "With R32 Refrigerant"
+    ],
     "tags": "GE Appliances 08-8839 (GRCS15XAHW) Air Conditioner; S Series Deluxe Plus; Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 15000 BTU; Outdoor Unit; White; 115 Volt; 20 Amp Circuit Breaker; Without Heat Pump; 27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 80 Pound; With R32 Refrigerant"
   },
   {
@@ -1136,6 +2551,19 @@ window.CATALOG = {
     "icon": "board",
     "blurb": "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; Black; 115 Volt",
     "img": "grhs13xahb.webp",
+    "specs": [
+      "Air Conditioner",
+      "S Series Deluxe",
+      "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings",
+      "13500 BTU",
+      "Outdoor Unit",
+      "Black",
+      "115 Volt",
+      "20 Amp Circuit Breaker",
+      "With Heat Pump",
+      "27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth",
+      "With R32 Refrigerant"
+    ],
     "tags": "GE Appliances 08-8840 (GRHS13XAHB) Air Conditioner; S Series Deluxe; Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; Black; 115 Volt; 20 Amp Circuit Breaker; With Heat Pump; 27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth; With R32 Refrigerant"
   },
   {
@@ -1148,6 +2576,19 @@ window.CATALOG = {
     "icon": "board",
     "blurb": "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; White; 115 Volt",
     "img": "grhs13xahw.webp",
+    "specs": [
+      "Air Conditioner",
+      "S Series Deluxe",
+      "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings",
+      "13500 BTU",
+      "Outdoor Unit",
+      "White",
+      "115 Volt",
+      "20 Amp Circuit Breaker",
+      "With Heat Pump",
+      "27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth",
+      "With R32 Refrigerant"
+    ],
     "tags": "GE Appliances 08-8841 (GRHS13XAHW) Air Conditioner; S Series Deluxe; Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; White; 115 Volt; 20 Amp Circuit Breaker; With Heat Pump; 27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth; With R32 Refrigerant"
   },
   {
@@ -1160,6 +2601,19 @@ window.CATALOG = {
     "icon": "board",
     "blurb": "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; Black; 115 Volt",
     "img": "grhs13xhhb.webp",
+    "specs": [
+      "Air Conditioner",
+      "S Series High Efficiency",
+      "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings",
+      "13500 BTU",
+      "Outdoor Unit",
+      "Black",
+      "115 Volt",
+      "15 Amp Circuit Breaker",
+      "With Heat Pump",
+      "27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 81 Pound",
+      "With R32 Refrigerant"
+    ],
     "tags": "GE Appliances 08-8842 (GRHS13XHHB) Air Conditioner; S Series High Efficiency; Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; Black; 115 Volt; 15 Amp Circuit Breaker; With Heat Pump; 27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 81 Pound; With R32 Refrigerant"
   },
   {
@@ -1172,6 +2626,19 @@ window.CATALOG = {
     "icon": "board",
     "blurb": "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; White; 115 Volt",
     "img": "grhs13xhhw.webp",
+    "specs": [
+      "Air Conditioner",
+      "S Series High Efficiency",
+      "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings",
+      "13500 BTU",
+      "Outdoor Unit",
+      "White",
+      "115 Volt",
+      "15 Amp Circuit Breaker",
+      "With Heat Pump",
+      "27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 81 Pound",
+      "With R32 Refrigerant"
+    ],
     "tags": "GE Appliances 08-8843 (GRHS13XHHW) Air Conditioner; S Series High Efficiency; Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; White; 115 Volt; 15 Amp Circuit Breaker; With Heat Pump; 27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 81 Pound; With R32 Refrigerant"
   },
   {
@@ -1184,6 +2651,19 @@ window.CATALOG = {
     "icon": "board",
     "blurb": "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 15000 BTU; Outdoor Unit; Black; 115 Volt",
     "img": "grhs15xahb.webp",
+    "specs": [
+      "Air Conditioner",
+      "S Series Deluxe Plus",
+      "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings",
+      "15000 BTU",
+      "Outdoor Unit",
+      "Black",
+      "115 Volt",
+      "20 Amp Circuit Breaker",
+      "With Heat Pump",
+      "27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 81 Pound",
+      "With R32 Refrigerant"
+    ],
     "tags": "GE Appliances 08-8844 (GRHS15XAHB) Air Conditioner; S Series Deluxe Plus; Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 15000 BTU; Outdoor Unit; Black; 115 Volt; 20 Amp Circuit Breaker; With Heat Pump; 27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 81 Pound; With R32 Refrigerant"
   },
   {
@@ -1196,6 +2676,19 @@ window.CATALOG = {
     "icon": "board",
     "blurb": "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 15000 BTU; Outdoor Unit; White; 115 Volt",
     "img": "grhs15xahw.webp",
+    "specs": [
+      "Air Conditioner",
+      "S Series Deluxe Plus",
+      "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings",
+      "15000 BTU",
+      "Outdoor Unit",
+      "White",
+      "115 Volt",
+      "20 Amp Circuit Breaker",
+      "With Heat Pump",
+      "27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 81 Pound",
+      "With R32 Refrigerant"
+    ],
     "tags": "GE Appliances 08-8845 (GRHS15XAHW) Air Conditioner; S Series Deluxe Plus; Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 15000 BTU; Outdoor Unit; White; 115 Volt; 20 Amp Circuit Breaker; With Heat Pump; 27.7 Inch Width x 13.9 Inch Height x 32.8 Inch Depth/ 81 Pound; With R32 Refrigerant"
   },
   {
@@ -1208,6 +2701,20 @@ window.CATALOG = {
     "icon": "board",
     "blurb": "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; Low Profile; Black; 115 Volt",
     "img": "plcs13xahb.webp",
+    "specs": [
+      "Air Conditioner",
+      "GE Profile",
+      "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings",
+      "13500 BTU",
+      "Outdoor Unit",
+      "Low Profile",
+      "Black",
+      "115 Volt",
+      "20 Amp Circuit Breaker",
+      "Without Heat Pump",
+      "100 Pound",
+      "With R32 Refrigerant"
+    ],
     "tags": "GE Appliances 10-9334 (PLCS13XAHB) Air Conditioner; GE Profile™; Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; Low Profile; Black; 115 Volt; 20 Amp Circuit Breaker; Without Heat Pump; 100 Pound; With R32 Refrigerant"
   },
   {
@@ -1220,6 +2727,20 @@ window.CATALOG = {
     "icon": "board",
     "blurb": "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; Low Profile; White; 115 Volt",
     "img": "plcs13xahw.webp",
+    "specs": [
+      "Air Conditioner",
+      "GE Profile",
+      "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings",
+      "13500 BTU",
+      "Outdoor Unit",
+      "Low Profile",
+      "White",
+      "115 Volt",
+      "20 Amp Circuit Breaker",
+      "Without Heat Pump",
+      "100 Pound",
+      "With R32 Refrigerant"
+    ],
     "tags": "GE Appliances 10-9335 (PLCS13XAHW) Air Conditioner; GE Profile™; Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; Low Profile; White; 115 Volt; 20 Amp Circuit Breaker; Without Heat Pump; 100 Pound; With R32 Refrigerant"
   },
   {
@@ -1232,6 +2753,20 @@ window.CATALOG = {
     "icon": "board",
     "blurb": "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; Low Profile; Black; 115 Volt",
     "img": "plcs13xhhb.webp",
+    "specs": [
+      "Air Conditioner",
+      "GE Profile",
+      "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings",
+      "13500 BTU",
+      "Outdoor Unit",
+      "Low Profile",
+      "Black",
+      "115 Volt",
+      "15 Amp Circuit Breaker",
+      "With Heat Pump",
+      "100 Pound",
+      "With R32 Refrigerant"
+    ],
     "tags": "GE Appliances 10-9336 (PLCS13XHHB) Air Conditioner; GE Profile™; Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; Low Profile; Black; 115 Volt; 15 Amp Circuit Breaker; With Heat Pump; 100 Pound; With R32 Refrigerant"
   },
   {
@@ -1244,6 +2779,20 @@ window.CATALOG = {
     "icon": "board",
     "blurb": "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; Low Profile; White; 115 Volt",
     "img": "plcs13xhhw.webp",
+    "specs": [
+      "Air Conditioner",
+      "GE Profile",
+      "Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings",
+      "13500 BTU",
+      "Outdoor Unit",
+      "Low Profile",
+      "White",
+      "115 Volt",
+      "15 Amp Circuit Breaker",
+      "With Heat Pump",
+      "100 Pound",
+      "With R32 Refrigerant"
+    ],
     "tags": "GE Appliances 10-9337 (PLCS13XHHW) Air Conditioner; GE Profile™; Fits 14-3/8 Inch x 14-3/8 Inch Vent Openings; 13500 BTU; Outdoor Unit; Low Profile; White; 115 Volt; 15 Amp Circuit Breaker; With Heat Pump; 100 Pound; With R32 Refrigerant"
   },
   {
@@ -1256,6 +2805,16 @@ window.CATALOG = {
     "icon": "ac",
     "blurb": "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 13500 BTU; Black; 115 Volt AC; UV-Resistant",
     "img": "aac135b-203by4-20lft.webp",
+    "specs": [
+      "Air Conditioner",
+      "Advent Air",
+      "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings",
+      "13500 BTU",
+      "Black",
+      "115 Volt AC",
+      "UV-Resistant",
+      "With Water-Tight Gasket/ Six Dense Foam Support Pads"
+    ],
     "tags": "ASA Electronics 09-6309 (AAC135BWH) Air Conditioner; Advent® Air; Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 13500 BTU; Black; 115 Volt AC; UV-Resistant; With Water-Tight Gasket/ Six Dense Foam Support Pads"
   },
   {
@@ -1268,6 +2827,16 @@ window.CATALOG = {
     "icon": "ac",
     "blurb": "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 13500 BTU; White; 115 Volt AC; UV-Resistant",
     "img": "aac135w-203by4-20lft.webp",
+    "specs": [
+      "Air Conditioner",
+      "Advent Air",
+      "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings",
+      "13500 BTU",
+      "White",
+      "115 Volt AC",
+      "UV-Resistant",
+      "With Water-Tight Gasket/ Six Dense Foam Support Pads"
+    ],
     "tags": "ASA Electronics 09-6310 (AAC135WWH) Air Conditioner; Advent® Air; Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 13500 BTU; White; 115 Volt AC; UV-Resistant; With Water-Tight Gasket/ Six Dense Foam Support Pads"
   },
   {
@@ -1280,6 +2849,16 @@ window.CATALOG = {
     "icon": "ac",
     "blurb": "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 15500 BTU; Black; 115 Volt AC; UV-Resistant",
     "img": "aac135b-203by4-20lft.webp",
+    "specs": [
+      "Air Conditioner",
+      "Advent Air",
+      "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings",
+      "15500 BTU",
+      "Black",
+      "115 Volt AC",
+      "UV-Resistant",
+      "With Water-Tight Gasket/ Six Dense Foam Support Pads"
+    ],
     "tags": "ASA Electronics 08-1478 (AAC155BWH) Air Conditioner; Advent® Air; Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 15500 BTU; Black; 115 Volt AC; UV-Resistant; With Water-Tight Gasket/ Six Dense Foam Support Pads"
   },
   {
@@ -1292,6 +2871,16 @@ window.CATALOG = {
     "icon": "ac",
     "blurb": "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 15500 BTU; White; 115 Volt AC; UV-Resistant",
     "img": "aac135w-203by4-20lft.webp",
+    "specs": [
+      "Air Conditioner",
+      "Advent Air",
+      "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings",
+      "15500 BTU",
+      "White",
+      "115 Volt AC",
+      "UV-Resistant",
+      "With Water-Tight Gasket/ Six Dense Foam Support Pads"
+    ],
     "tags": "ASA Electronics 08-1479 (AAC155WWH) Air Conditioner; Advent® Air; Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 15500 BTU; White; 115 Volt AC; UV-Resistant; With Water-Tight Gasket/ Six Dense Foam Support Pads"
   },
   {
@@ -1304,6 +2893,15 @@ window.CATALOG = {
     "icon": "ac",
     "blurb": "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 13500 BTU; Black",
     "img": "acr135b-acr150b.webp",
+    "specs": [
+      "Air Conditioner",
+      "Advent Air",
+      "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings",
+      "13500 BTU",
+      "Black",
+      "34.65 Inch Length x 25.59 Inch Width x 14.96 Inch Height",
+      "77.16 Pound"
+    ],
     "tags": "ASA Electronics ACR135B (ACR135B) Air Conditioner; Advent® Air; Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 13500 BTU; Black; 34.65 Inch Length x 25.59 Inch Width x 14.96 Inch Height; 77.16 Pound"
   },
   {
@@ -1316,6 +2914,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 13500 BTU; Non-Ducted; Black; 115 Volt AC",
     "img": "acr135b.webp",
+    "specs": [
+      "Air Conditioner",
+      "Advent Air",
+      "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings",
+      "13500 BTU",
+      "Non-Ducted",
+      "Black",
+      "115 Volt AC",
+      "8 Amp Compressor Draw",
+      "Optional Heat Strip Available",
+      "31 Inch Length x 25 Inch Width x 13 Inch Height",
+      "68 Pounds",
+      "Three Fan Speeds",
+      "With R32 Refrigerant/ Water Seal Gasket"
+    ],
     "tags": "ASA Electronics 09-6313 (ACR135BWH) Air Conditioner; Advent® Air; Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 13500 BTU; Non-Ducted; Black; 115 Volt AC; 8 Amp Compressor Draw; Optional Heat Strip Available; 31 Inch Length x 25 Inch Width x 13 Inch Height; 68 Pounds; Three Fan Speeds; With R32 Refrigerant/ Water Seal Gasket"
   },
   {
@@ -1328,6 +2941,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 13500 BTU; Low Profile; Non-Ducted; Black; 115 Volt AC",
     "img": "acr135lpb-20web-201.webp",
+    "specs": [
+      "Air Conditioner",
+      "Advent Air",
+      "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings",
+      "13500 BTU",
+      "Low Profile",
+      "Non-Ducted",
+      "Black",
+      "115 Volt AC",
+      "10.2 Amp Compressor Draw",
+      "Optional Heat Strip Available",
+      "31 Inch Length x 25 Inch Width x 10 Inch Height",
+      "66 Pounds",
+      "Three Fan Speeds",
+      "With R32 Refrigerant/ Water Seal Gasket"
+    ],
     "tags": "ASA Electronics 09-6315 (ACR135LPBW) Air Conditioner; Advent® Air; Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 13500 BTU; Low Profile; Non-Ducted; Black; 115 Volt AC; 10.2 Amp Compressor Draw; Optional Heat Strip Available; 31 Inch Length x 25 Inch Width x 10 Inch Height; 66 Pounds; Three Fan Speeds; With R32 Refrigerant/ Water Seal Gasket"
   },
   {
@@ -1340,6 +2969,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 13500 BTU; Low Profile; Non-Ducted; Black; 115 Volt AC",
     "img": "acr135lpb.webp",
+    "specs": [
+      "Air Conditioner",
+      "Advent Air",
+      "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings",
+      "13500 BTU",
+      "Low Profile",
+      "Non-Ducted",
+      "Black",
+      "115 Volt AC",
+      "10.2 Amp Compressor Draw",
+      "Optional Heat Strip Available",
+      "31 Inch Length x 25 Inch Width x 10 Inch Height",
+      "66 Pounds",
+      "Three Fan Speeds",
+      "With R32 Refrigerant/ Water Seal Gasket"
+    ],
     "tags": "ASA Electronics 09-6323 (ACR135LPBWH) Air Conditioner; Advent® Air; Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 13500 BTU; Low Profile; Non-Ducted; Black; 115 Volt AC; 10.2 Amp Compressor Draw; Optional Heat Strip Available; 31 Inch Length x 25 Inch Width x 10 Inch Height; 66 Pounds; Three Fan Speeds; With R32 Refrigerant/ Water Seal Gasket"
   },
   {
@@ -1352,6 +2997,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 13500 BTU; Low Profile; Non-Ducted; White; 115 Volt AC",
     "img": "acr135lpwh.webp",
+    "specs": [
+      "Air Conditioner",
+      "Advent Air",
+      "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings",
+      "13500 BTU",
+      "Low Profile",
+      "Non-Ducted",
+      "White",
+      "115 Volt AC",
+      "10.2 Amp Compressor Draw",
+      "Optional Heat Strip Available",
+      "31 Inch Length x 25 Inch Width x 10 Inch Height",
+      "66 Pounds",
+      "Three Fan Speeds",
+      "With R32 Refrigerant/ Water Seal Gasket"
+    ],
     "tags": "ASA Electronics 09-6314 (ACR135LPWH) Air Conditioner; Advent® Air; Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 13500 BTU; Low Profile; Non-Ducted; White; 115 Volt AC; 10.2 Amp Compressor Draw; Optional Heat Strip Available; 31 Inch Length x 25 Inch Width x 10 Inch Height; 66 Pounds; Three Fan Speeds; With R32 Refrigerant/ Water Seal Gasket"
   },
   {
@@ -1364,6 +3025,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 13500 BTU; Non-Ducted; White; 115 Volt AC",
     "img": "acr135wh.webp",
+    "specs": [
+      "Air Conditioner",
+      "Advent Air",
+      "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings",
+      "13500 BTU",
+      "Non-Ducted",
+      "White",
+      "115 Volt AC",
+      "8 Amp Compressor Draw",
+      "Optional Heat Strip Available",
+      "31 Inch Length x 25 Inch Width x 13 Inch Height",
+      "68 Pounds",
+      "Three Fan Speeds",
+      "With R32 Refrigerant/ Water Seal Gasket"
+    ],
     "tags": "ASA Electronics ACR135 (ACR135WH) Air Conditioner; Advent® Air; Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 13500 BTU; Non-Ducted; White; 115 Volt AC; 8 Amp Compressor Draw; Optional Heat Strip Available; 31 Inch Length x 25 Inch Width x 13 Inch Height; 68 Pounds; Three Fan Speeds; With R32 Refrigerant/ Water Seal Gasket"
   },
   {
@@ -1376,6 +3052,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 15000 BTU; Non-Ducted; Black; 115 Volt AC",
     "img": "acr150bwh.webp",
+    "specs": [
+      "Air Conditioner",
+      "Advent Air",
+      "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings",
+      "15000 BTU",
+      "Non-Ducted",
+      "Black",
+      "115 Volt AC",
+      "10.3 Amp Compressor Draw",
+      "Optional Heat Strip Available",
+      "31 Inch Length x 25 Inch Width x 13 Inch Height",
+      "68 Pounds",
+      "Three Fan Speeds",
+      "With R32 Refrigerant/ Water Seal Gasket"
+    ],
     "tags": "ASA Electronics ACR150B (ACR150BWH) Air Conditioner; Advent® Air; Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 15000 BTU; Non-Ducted; Black; 115 Volt AC; 10.3 Amp Compressor Draw; Optional Heat Strip Available; 31 Inch Length x 25 Inch Width x 13 Inch Height; 68 Pounds; Three Fan Speeds; With R32 Refrigerant/ Water Seal Gasket"
   },
   {
@@ -1388,6 +3079,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 15000 BTU; Low Profile; Non-Ducted; Black; 115 Volt AC",
     "img": "acr150lpb.webp",
+    "specs": [
+      "Air Conditioner",
+      "Advent Air",
+      "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings",
+      "15000 BTU",
+      "Low Profile",
+      "Non-Ducted",
+      "Black",
+      "115 Volt AC",
+      "10.2 Amp Compressor Draw",
+      "Optional Heat Strip Available",
+      "31 Inch Length x 25 Inch Width x 10 Inch Height",
+      "68 Pounds",
+      "Three Fan Speeds",
+      "With R32 Refrigerant/ Water Seal Gasket"
+    ],
     "tags": "ASA Electronics 09-6324 (ACR150LPBWH) Air Conditioner; Advent® Air; Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 15000 BTU; Low Profile; Non-Ducted; Black; 115 Volt AC; 10.2 Amp Compressor Draw; Optional Heat Strip Available; 31 Inch Length x 25 Inch Width x 10 Inch Height; 68 Pounds; Three Fan Speeds; With R32 Refrigerant/ Water Seal Gasket"
   },
   {
@@ -1400,6 +3107,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 15000 BTU; Low Profile; Non-Ducted; White; 115 Volt AC",
     "img": "acr150lp.webp",
+    "specs": [
+      "Air Conditioner",
+      "Advent Air",
+      "Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings",
+      "15000 BTU",
+      "Low Profile",
+      "Non-Ducted",
+      "White",
+      "115 Volt AC",
+      "10.2 Amp Compressor Draw",
+      "Optional Heat Strip Available",
+      "31 Inch Length x 25 Inch Width x 10 Inch Height",
+      "68 Pounds",
+      "Three Fan Speeds",
+      "With R32 Refrigerant/ Water Seal Gasket"
+    ],
     "tags": "ASA Electronics 09-6319 (ACR150LPWH) Air Conditioner; Advent® Air; Fits 14-1/4 Inch x 14-1/4 Inch Vent Openings; 15000 BTU; Low Profile; Non-Ducted; White; 115 Volt AC; 10.2 Amp Compressor Draw; Optional Heat Strip Available; 31 Inch Length x 25 Inch Width x 10 Inch Height; 68 Pounds; Three Fan Speeds; With R32 Refrigerant/ Water Seal Gasket"
   },
   {
@@ -1412,6 +3135,17 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Portable; 5280 BTU; Non Ducted; Silver/ Black; 48 Volt DC",
     "img": "z30.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mark 3",
+      "Portable",
+      "5280 BTU",
+      "Non Ducted",
+      "Silver/ Black",
+      "48 Volt DC",
+      "22 Inch Length x 10 Inch Width x 12 Inch Height/ 22 Pound",
+      "With 50 Volt DC Power Adapter For Wall Outlet/ Drainage Pipe/ Wireless Remote Controller/ Front Outlet Duct/ Front Inlet Duct/ Rear Inlet Duct/ Rear Outlet Duct/ Front Inlet Adapter/ Front Outlet Adapter/ Rear Inlet Adapter/ Rear Outlet Adapter"
+    ],
     "tags": "Zero Breeze Z30 (Z30) Air Conditioner; Mark 3; Portable; 5280 BTU; Non Ducted; Silver/ Black; 48 Volt DC; 22 Inch Length x 10 Inch Width x 12 Inch Height/ 22 Pound; With 50 Volt DC Power Adapter For Wall Outlet/ Drainage Pipe/ Wireless Remote Controller/ Front Outlet Duct/ Front Inlet Duct/ Rear Inlet Duct/ Rear Outlet Duct/ Front Inlet Adapter/ Front Outlet Adapter/ Rear Inlet Adapter/ Rear Outlet Adapter"
   },
   {
@@ -1424,6 +3158,20 @@ window.CATALOG = {
     "icon": "ac",
     "blurb": "For Marine Applications; 4,000 To 10,000 BTU Per Hour Cooling Capacity; White",
     "img": "i10-smart-front.webp",
+    "specs": [
+      "Air Conditioner",
+      "VELAIR GENERATION II I10 VSD SMART",
+      "For Marine Applications",
+      "4,000 To 10,000 BTU Per Hour Cooling Capacity",
+      "White",
+      "6 Ampere At 115 Volt Maximum Input Power Cooling",
+      "22-1/2 Inch Length x 12.7 Inch Width x 12.6 Inch Height Dimension(With Electrical Box)",
+      "400 Cubic Meter Per Hour Maximum Air Flow",
+      "12 Liter Per Minute Maximum Seawater Flow",
+      "4 Square Millimeter Wire Size",
+      "Wi-Fi Compatibility",
+      "With Compressor (With Brushless DC Motor)/ Inverter/ Reverse Blade Brushless Fan/ Electronic Expansion Valve And R32 Refrigerant"
+    ],
     "tags": "Uflex 24831GU (24831GU) Air Conditioner; VELAIR GENERATION II I10 VSD SMART; For Marine Applications; 4,000 To 10,000 BTU Per Hour Cooling Capacity; White; 6 Ampere At 115 Volt Maximum Input Power Cooling; 22-1/2 Inch Length x 12.7 Inch Width x 12.6 Inch Height Dimension(With Electrical Box); 400 Cubic Meter Per Hour Maximum Air Flow; 12 Liter Per Minute Maximum Seawater Flow; 4 Square Millimeter Wire Size; Wi-Fi Compatibility; With Compressor (With Brushless DC Motor)/ Inverter/ Reverse Blade Brushless Fan/ Electronic Expansion Valve And R32 Refrigerant"
   },
   {
@@ -1436,6 +3184,20 @@ window.CATALOG = {
     "icon": "ac",
     "blurb": "For Marine Applications; 6,000 To 16,000 BTU Per Hour Cooling Capacity; White",
     "img": "velair-20i16-20vsd-20smart.webp",
+    "specs": [
+      "Air Conditioner",
+      "VELAIR GENERATION II I16 VSD SMART",
+      "For Marine Applications",
+      "6,000 To 16,000 BTU Per Hour Cooling Capacity",
+      "White",
+      "8.5 Ampere At 115 Volt Maximum Input Power Cooling",
+      "25.6 Inch Length x 14 Inch Width x 13 Inch Height Dimension(With Electrical Box)",
+      "550 Cubic Meter Per Hour Maximum Air Flow",
+      "17 Liter Per Minute Maximum Seawater Flow",
+      "4 Square Millimeter Wire Size",
+      "Wi-Fi Compatibility",
+      "With Compressor (With Brushless DC Motor)/ Inverter/ Reverse Blade Brushless Fan/ Electronic Expansion Valve And R32 Refrigerant"
+    ],
     "tags": "Uflex 24832JU (24832JU) Air Conditioner; VELAIR GENERATION II I16 VSD SMART; For Marine Applications; 6,000 To 16,000 BTU Per Hour Cooling Capacity; White; 8.5 Ampere At 115 Volt Maximum Input Power Cooling; 25.6 Inch Length x 14 Inch Width x 13 Inch Height Dimension(With Electrical Box); 550 Cubic Meter Per Hour Maximum Air Flow; 17 Liter Per Minute Maximum Seawater Flow; 4 Square Millimeter Wire Size; Wi-Fi Compatibility; With Compressor (With Brushless DC Motor)/ Inverter/ Reverse Blade Brushless Fan/ Electronic Expansion Valve And R32 Refrigerant"
   },
   {
@@ -1448,6 +3210,17 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Portable; 2300 BTU; Non Ducted; Silver/ Black; 24 Volt DC",
     "img": "z20.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mark 2",
+      "Portable",
+      "2300 BTU",
+      "Non Ducted",
+      "Silver/ Black",
+      "24 Volt DC",
+      "20 Inch Length x 10 Inch Width x 11 Inch Height/ 16.5 Pound",
+      "With 24 Volt DC Power Adapter For Wall Outlet/ Drainage Pipe/ Front Air Outlet Duct/ Two Venting Hoses/ Front Air Outlet Duct Connection Adapter/ Venting Hose Connection Adapter/ IR Remote Controller And Two Screws For Connection Adapter"
+    ],
     "tags": "Zero Breeze Z20 (Z20) Air Conditioner; Mark 2; Portable; 2300 BTU; Non Ducted; Silver/ Black; 24 Volt DC; 20 Inch Length x 10 Inch Width x 11 Inch Height/ 16.5 Pound; With 24 Volt DC Power Adapter For Wall Outlet/ Drainage Pipe/ Front Air Outlet Duct/ Two Venting Hoses/ Front Air Outlet Duct Connection Adapter/ Venting Hose Connection Adapter/ IR Remote Controller And Two Screws For Connection Adapter"
   },
   {
@@ -1460,6 +3233,17 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Portable; 5280 BTU; Non Ducted; Silver/ Black; 48 Volt DC",
     "img": "zp30p.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mark 3",
+      "Portable",
+      "5280 BTU",
+      "Non Ducted",
+      "Silver/ Black",
+      "48 Volt DC",
+      "22 Inch Length x 10 Inch Width x 12 Inch Height/ 22 Pound",
+      "With 50 Volt DC Power Adapter For Wall Outlet/ Drainage Pipe/ Wireless Remote Controller/ Front Outlet Duct/ Front Inlet Duct/ Rear Inlet Duct/ Rear Outlet Duct/ Front Inlet Adapter/ Front Outlet Adapter/ Rear Inlet Adapter/ Rear Outlet Adapter/ Battery"
+    ],
     "tags": "Zero Breeze Z30P (Z30P) Air Conditioner; Mark 3; Portable; 5280 BTU; Non Ducted; Silver/ Black; 48 Volt DC; 22 Inch Length x 10 Inch Width x 12 Inch Height/ 22 Pound; With 50 Volt DC Power Adapter For Wall Outlet/ Drainage Pipe/ Wireless Remote Controller/ Front Outlet Duct/ Front Inlet Duct/ Rear Inlet Duct/ Rear Outlet Duct/ Front Inlet Adapter/ Front Outlet Adapter/ Rear Inlet Adapter/ Rear Outlet Adapter/ Battery"
   },
   {
@@ -1472,6 +3256,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White; 120 Volt",
     "img": "48204c866.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 15 Plus EZ",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "White",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 48204-066"
+    ],
     "tags": "Coleman Mach 03-8107 (48204C866) Air Conditioner; Mach 15 Plus EZ; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; White; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 48204-066"
   },
   {
@@ -1484,6 +3284,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted; Black; 120 Volt AC; 13 Amp Draw; With Heat Pump",
     "img": "15030.webp",
+    "specs": [
+      "Air Conditioner",
+      "Air Command",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted",
+      "Black",
+      "120 Volt AC",
+      "13 Amp Draw",
+      "With Heat Pump",
+      "Without Condensate Pump",
+      "38.78 Inch Length x 26.38 Inch Width x 14.17 Inch Height",
+      "75 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Model AC-1511B"
+    ],
     "tags": "Dometic 18-2600 (15033) Air Conditioner; Air Command; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted; Black; 120 Volt AC; 13 Amp Draw; With Heat Pump; Without Condensate Pump; 38.78 Inch Length x 26.38 Inch Width x 14.17 Inch Height; 75 Pounds; Ceiling Assembly Must Be Ordered Separately; Model AC-1511B"
   },
   {
@@ -1496,6 +3312,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 18000 BTU High Efficiency; Ducted; Black; 120 Volt",
     "img": "facr18vsda-bl-am.webp",
+    "specs": [
+      "Air Conditioner",
+      "Furrion Chill Cube",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "18000 BTU High Efficiency",
+      "Ducted",
+      "Black",
+      "120 Volt",
+      "14 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "29 Inch Length x 29-1/2 Inch Width x 14-1/2 Inch Height",
+      "72.4 Pounds",
+      "Ceiling Assembly With Remote Control Available Separately"
+    ],
     "tags": "Furrion LLC 08-8472 (FACR18VSDA-BL-AM) Air Conditioner; Furrion Chill ™ Cube; Fits 14 Inch x 14 Inch Vent Openings; 18000 BTU High Efficiency; Ducted; Black; 120 Volt; 14 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 29 Inch Length x 29-1/2 Inch Width x 14-1/2 Inch Height; 72.4 Pounds; Ceiling Assembly With Remote Control Available Separately"
   },
   {
@@ -1508,6 +3339,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 18000 BTU High Efficiency; Ducted; Black/ White; 120 Volt",
     "img": "facr18heda-ps-am.webp",
+    "specs": [
+      "Air Conditioner",
+      "Furrion Chill Cube",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "18000 BTU High Efficiency",
+      "Ducted",
+      "Black/ White",
+      "120 Volt",
+      "With Heat Pump",
+      "Without Condensate Pump",
+      "29 Inch Length x 29-1/2 Inch Width x 14-1/2 Inch Height",
+      "77.16 Pounds",
+      "R32 Refrigerant",
+      "Ceiling Assembly And Wall Thermostat Available Separately"
+    ],
     "tags": "Furrion LLC 10-9280 (FACR18HEDA-PS-AM) Air Conditioner; Furrion Chill ™ Cube; Fits 14 Inch x 14 Inch Vent Openings; 18000 BTU High Efficiency; Ducted; Black/ White; 120 Volt; With Heat Pump; Without Condensate Pump; 29 Inch Length x 29-1/2 Inch Width x 14-1/2 Inch Height; 77.16 Pounds; R32 Refrigerant; Ceiling Assembly And Wall Thermostat Available Separately"
   },
   {
@@ -1520,6 +3366,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 11000 BTU High Efficiency; Ducted Or Non-Ducted; Black; 120 Volt",
     "img": "b59530-xx1j0.webp",
+    "specs": [
+      "Air Conditioner",
+      "BRISK II",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "11000 BTU High Efficiency",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "120 Volt",
+      "8.6 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "27-5/8 Inch Length x 29-5/8 Inch Width x 13-7/8 Inch Height",
+      "77 Pounds",
+      "Requires Wall Thermostat/ Air Conditioner Ceiling Assembly"
+    ],
     "tags": "Dometic 21-1302 (B59530.XX1J0) Air Conditioner; BRISK II; Fits 14 Inch x 14 Inch Vent Openings; 11000 BTU High Efficiency; Ducted Or Non-Ducted; Black; 120 Volt; 8.6 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 27-5/8 Inch Length x 29-5/8 Inch Width x 13-7/8 Inch Height; 77 Pounds; Requires Wall Thermostat/ Air Conditioner Ceiling Assembly"
   },
   {
@@ -1532,6 +3393,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Non-Ducted Quiet Design; Black; 120 Volt",
     "img": "38204-0693.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 15",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Non-Ducted Quiet Design",
+      "Black",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 38204-0673"
+    ],
     "tags": "Coleman Mach 09-1358 (38204-0693) Air Conditioner; Mach 15; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Non-Ducted Quiet Design; Black; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 38204-0673"
   },
   {
@@ -1544,6 +3421,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU High Capacity; Top Mount/ Ducted Or Non-Ducted; Black/ White",
     "img": "h541916axx1c0.webp",
+    "specs": [
+      "Air Conditioner",
+      "Blizzard NXT",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU High Capacity",
+      "Top Mount/ Ducted Or Non-Ducted",
+      "Black/ White",
+      "120 Volt",
+      "13.2 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "30 Inch Depth x 14 Inch Height x 40 Inch Width",
+      "90 Pounds",
+      "With Built-In Single Zone Electronic Board",
+      "CT Single Zone Wall Thermostat And Ceiling Assembly Sold Separately"
+    ],
     "tags": "Dometic 21-1301 (H541916AXX1C0) Air Conditioner; Blizzard NXT; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU High Capacity; Top Mount/ Ducted Or Non-Ducted; Black/ White; 120 Volt; 13.2 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 30 Inch Depth x 14 Inch Height x 40 Inch Width; 90 Pounds; With Built-In Single Zone Electronic Board; CT Single Zone Wall Thermostat And Ceiling Assembly Sold Separately"
   },
   {
@@ -1556,6 +3449,23 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; White; 120 Volt",
     "img": "48203c966.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 3 Plus EZ",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Ducted Or Non Ducted",
+      "White",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "With Wood Skid",
+      "Also Use New Number 38203-066"
+    ],
     "tags": "Coleman Mach 17-0965 (48203-066) Air Conditioner; Mach 3 Plus EZ; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Ducted Or Non Ducted; White; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; With Wood Skid; Also Use New Number 38203-066"
   },
   {
@@ -1568,6 +3478,22 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Quiet Design; R32 Refrigerant; 120 Volt",
     "img": "38xxx-064x-a-cm-9-25.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 15 Power Saver",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Quiet Design",
+      "R32 Refrigerant",
+      "120 Volt",
+      "8.9 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "With Soft Start Capacitor",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "83.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 382090940 (38209-0940) Air Conditioner; Mach 15 Power Saver; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Quiet Design; R32 Refrigerant; 120 Volt; 8.9 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; With Soft Start Capacitor; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 83.5 Pounds; Ceiling Assembly Must Be Ordered Separately"
   },
   {
@@ -1580,6 +3506,23 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Quiet Design; White; 120 Volt",
     "img": "38209-0950.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 15 Power Saver",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Quiet Design",
+      "White",
+      "120 Volt",
+      "8.9 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "With Soft Start Capacitor",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "83.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "Also Use New Number 38209-0940"
+    ],
     "tags": "Coleman Mach 08-9794 (38209-0950) Air Conditioner; Mach 15 Power Saver; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Quiet Design; White; 120 Volt; 8.9 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; With Soft Start Capacitor; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 83.5 Pounds; Ceiling Assembly Must Be Ordered Separately; Also Use New Number 38209-0940"
   },
   {
@@ -1592,6 +3535,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Top/ Down Mount Design; Black; 120 Volt",
     "img": "35203-0782.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 10",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Top/ Down Mount Design",
+      "Black",
+      "120 Volt",
+      "11 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "38 Inch Length x 26.1 Inch Width x 11.8 Inch Height",
+      "80 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 08-8593 (35203-0782) Air Conditioner; Mach 10; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Top/ Down Mount Design; Black; 120 Volt; 11 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 38 Inch Length x 26.1 Inch Width x 11.8 Inch Height; 80 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately"
   },
   {
@@ -1604,6 +3562,20 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 9200 BTU; Ducted Or Non-Ducted; Black; 120 Volt",
     "img": "37201-079.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 8 Plus CUB",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "9200 BTU",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "120 Volt",
+      "8.9 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "87 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 08-8606 (37201-079) Air Conditioner; Mach 8 Plus CUB; Fits 14 Inch x 14 Inch Vent Openings; 9200 BTU; Ducted Or Non-Ducted; Black; 120 Volt; 8.9 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 87 Pounds; Ceiling Assembly Must Be Ordered Separately"
   },
   {
@@ -1616,6 +3588,19 @@ window.CATALOG = {
     "icon": "ac",
     "blurb": "Basement Mount; 13700 BTU; White; 115 Volt AC; 14.1 Amp Compressor Draw; Without Heat Pump",
     "img": "46413-812-park-pac.webp",
+    "specs": [
+      "Air Conditioner",
+      "Parkpac",
+      "Basement Mount",
+      "13700 BTU",
+      "White",
+      "115 Volt AC",
+      "14.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "36 Inch Length x 16-1/8 Inch Height x 21 Inch Width",
+      "116 Pounds"
+    ],
     "tags": "Coleman Mach 08-8790 (36413-012) Air Conditioner; Parkpac ™; Basement Mount; 13700 BTU; White; 115 Volt AC; 14.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 36 Inch Length x 16-1/8 Inch Height x 21 Inch Width; 116 Pounds"
   },
   {
@@ -1628,6 +3613,23 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black; R32 Refrigerant; 120 Volt",
     "img": "mach-2015-20pluz-20ez-20black.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 15 Plus EZ",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "R32 Refrigerant",
+      "120 Volt",
+      "13.1 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately",
+      "With Wood Skid"
+    ],
     "tags": "Coleman Mach 09-7116 (38204-067) Air Conditioner; Mach 15 Plus EZ; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black; R32 Refrigerant; 120 Volt; 13.1 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly Must Be Ordered Separately; With Wood Skid"
   },
   {
@@ -1640,6 +3642,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black; 120 Volt",
     "img": "37224-0795.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 8 Plus Roughneck",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "15000 BTU",
+      "Ducted Or Non-Ducted",
+      "Black",
+      "120 Volt",
+      "12.7 Amp Compressor Draw",
+      "Without Heat Pump",
+      "With Condensate Pump",
+      "8.3 Inch Height x 28.4 Inch Width x 41.1 Inch Length",
+      "90 Pounds",
+      "Ceiling Assembly Must Be Ordered Separately"
+    ],
     "tags": "Coleman Mach 08-8612 (37224-0795) Air Conditioner; Mach 8 Plus Roughneck ™; Fits 14 Inch x 14 Inch Vent Openings; 15000 BTU; Ducted Or Non-Ducted; Black; 120 Volt; 12.7 Amp Compressor Draw; Without Heat Pump; With Condensate Pump; 8.3 Inch Height x 28.4 Inch Width x 41.1 Inch Length; 90 Pounds; Ceiling Assembly Must Be Ordered Separately"
   },
   {
@@ -1652,6 +3669,21 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Non-Ducted Quiet Design; Black; 12.8 Amp Compressor Draw",
     "img": "38204-0693.webp",
+    "specs": [
+      "Air Conditioner",
+      "Mach 3 Plus",
+      "Fits 14 Inch x 14 Inch Vent Openings",
+      "13500 BTU",
+      "Non-Ducted Quiet Design",
+      "Black",
+      "12.8 Amp Compressor Draw",
+      "Without Heat Pump",
+      "Without Condensate Pump",
+      "13.8 Inch Height x 26.1 Inch Width x 38 Inch Length",
+      "79.5 Pounds",
+      "Ceiling Assembly And Thermostat Must Be Ordered Separately",
+      "Also Use New Number 38203-0673"
+    ],
     "tags": "Coleman Mach 09-1363 (38203-0693) Air Conditioner; Mach 3 Plus; Fits 14 Inch x 14 Inch Vent Openings; 13500 BTU; Non-Ducted Quiet Design; Black; 12.8 Amp Compressor Draw; Without Heat Pump; Without Condensate Pump; 13.8 Inch Height x 26.1 Inch Width x 38 Inch Length; 79.5 Pounds; Ceiling Assembly And Thermostat Must Be Ordered Separately; Also Use New Number 38203-0673"
   },
   {
@@ -1664,6 +3696,18 @@ window.CATALOG = {
     "icon": "fridge",
     "blurb": "Dual Compartment 2 Door Refrigerator With Bottom Freezer; 10 Cubic Foot",
     "img": "pbv10r5vbb.webp",
+    "specs": [
+      "Refrigerator",
+      "GE Profile",
+      "Dual Compartment 2 Door Refrigerator With Bottom Freezer",
+      "10 Cubic Foot",
+      "60 Inch Height x 23-1/2 Inch Width x 26-1/2 Inch Depth",
+      "17.5 Amp/ 12 Volt DC",
+      "Without Ice Maker",
+      "LCD Panel Temperature Control",
+      "Black With Glass Finish Door",
+      "With Crisper Drawers/ Glass Refrigerator Shelves/ Door Bins"
+    ],
     "tags": "GE Appliances 08-8866 (PBV10R5VBB) Refrigerator; GE Profile™; Dual Compartment 2 Door Refrigerator With Bottom Freezer; 10 Cubic Foot; 60 Inch Height x 23-1/2 Inch Width x 26-1/2 Inch Depth; 17.5 Amp/ 12 Volt DC; Without Ice Maker; LCD Panel Temperature Control; Black With Glass Finish Door; With Crisper Drawers/ Glass Refrigerator Shelves/ Door Bins"
   },
   {
@@ -1676,6 +3720,17 @@ window.CATALOG = {
     "icon": "fridge",
     "blurb": "Dual Compartment 2 Door Refrigerator With Bottom Freezer; 10 Cubic Foot",
     "img": "pbv10rstss.webp",
+    "specs": [
+      "Refrigerator",
+      "GE Profile",
+      "Dual Compartment 2 Door Refrigerator With Bottom Freezer",
+      "10 Cubic Foot",
+      "60 Inch Height x 23-1/2 Inch Width x 26-1/2 Inch Depth",
+      "17.5 Amp/ 12 Volt DC",
+      "Without Ice Maker",
+      "LCD Panel Temperature Control",
+      "With Crisper Drawers/ Glass Refrigerator Shelves/ Door Bins"
+    ],
     "tags": "GE Appliances 08-8868 (PBV10RSTSS) Refrigerator; GE Profile™; Dual Compartment 2 Door Refrigerator With Bottom Freezer; 10 Cubic Foot; 60 Inch Height x 23-1/2 Inch Width x 26-1/2 Inch Depth; 17.5 Amp/ 12 Volt DC; Without Ice Maker; LCD Panel Temperature Control; With Crisper Drawers/ Glass Refrigerator Shelves/ Door Bins"
   },
   {
@@ -1688,6 +3743,18 @@ window.CATALOG = {
     "icon": "fridge",
     "blurb": "Dual Compartment 2 Door Refrigerator With Top Freezer; 8.3 Cubic Foot",
     "img": "ppv08r5yrbb.webp",
+    "specs": [
+      "Refrigerator",
+      "GE Profile",
+      "Dual Compartment 2 Door Refrigerator With Top Freezer",
+      "8.3 Cubic Foot",
+      "53-19/50 Inch Height x 23-21/50 Inch Width x 25-43/50 Inch Depth",
+      "13.5 Amp/ 12 Volt DC",
+      "Without Ice Maker",
+      "Dial Temperature Control",
+      "Glass With Black Appearance",
+      "With Crisper Drawers/ Glass Refrigerator Shelves/ Door Bins"
+    ],
     "tags": "GE Appliances 09-1461 (PPV08R5YRBB) Refrigerator; GE Profile™; Dual Compartment 2 Door Refrigerator With Top Freezer; 8.3 Cubic Foot; 53-19/50 Inch Height x 23-21/50 Inch Width x 25-43/50 Inch Depth; 13.5 Amp/ 12 Volt DC; Without Ice Maker; Dial Temperature Control; Glass With Black Appearance; With Crisper Drawers/ Glass Refrigerator Shelves/ Door Bins"
   },
   {
@@ -1700,6 +3767,18 @@ window.CATALOG = {
     "icon": "fridge",
     "blurb": "Dual Compartment 2 Door Refrigerator With Top Freezer; 8.3 Cubic Foot",
     "img": "ppv08r5yrss.webp",
+    "specs": [
+      "Refrigerator",
+      "GE Profile",
+      "Dual Compartment 2 Door Refrigerator With Top Freezer",
+      "8.3 Cubic Foot",
+      "53-19/50 Inch Height x 23-21/50 Inch Width x 25-43/50 Inch Depth",
+      "13.5 Amp/ 12 Volt DC",
+      "Without Ice Maker",
+      "Dial Temperature Control",
+      "Glass With Stainless Steel Appearance",
+      "With Crisper Drawers/ Glass Refrigerator Shelves/ Door Bins"
+    ],
     "tags": "GE Appliances 09-1462 (PPV08R5YRSS) Refrigerator; GE Profile™; Dual Compartment 2 Door Refrigerator With Top Freezer; 8.3 Cubic Foot; 53-19/50 Inch Height x 23-21/50 Inch Width x 25-43/50 Inch Depth; 13.5 Amp/ 12 Volt DC; Without Ice Maker; Dial Temperature Control; Glass With Stainless Steel Appearance; With Crisper Drawers/ Glass Refrigerator Shelves/ Door Bins"
   },
   {
@@ -1712,6 +3791,18 @@ window.CATALOG = {
     "icon": "fridge",
     "blurb": "Dual Compartment 2 Door Refrigerator With Top Freezer; 9.8 Cubic Foot",
     "img": "ppv10r5yrbb.webp",
+    "specs": [
+      "Refrigerator",
+      "GE Profile",
+      "Dual Compartment 2 Door Refrigerator With Top Freezer",
+      "9.8 Cubic Foot",
+      "60 Inch Height x 23-1/2 Inch Width x 25-4/5 Inch Depth",
+      "13.5 Amp/ 12 Volt DC",
+      "Without Ice Maker",
+      "Dial Temperature Control",
+      "Glass With Black Appearance",
+      "With Crisper Drawers/ Glass Refrigerator Shelves/ Door Bins"
+    ],
     "tags": "GE Appliances 09-1463 (PPV10R5YRBB) Refrigerator; GE Profile™; Dual Compartment 2 Door Refrigerator With Top Freezer; 9.8 Cubic Foot; 60 Inch Height x 23-1/2 Inch Width x 25-4/5 Inch Depth; 13.5 Amp/ 12 Volt DC; Without Ice Maker; Dial Temperature Control; Glass With Black Appearance; With Crisper Drawers/ Glass Refrigerator Shelves/ Door Bins"
   },
   {
@@ -1724,6 +3815,18 @@ window.CATALOG = {
     "icon": "fridge",
     "blurb": "Dual Compartment 2 Door Refrigerator With Top Freezer; 9.8 Cubic Foot",
     "img": "ppv10r5yrss.webp",
+    "specs": [
+      "Refrigerator",
+      "GE Profile",
+      "Dual Compartment 2 Door Refrigerator With Top Freezer",
+      "9.8 Cubic Foot",
+      "60 Inch Height x 23-1/2 Inch Width x 25-4/5 Inch Depth",
+      "13.5 Amp/ 12 Volt DC",
+      "Without Ice Maker",
+      "Dial Temperature Control",
+      "Glass With Stainless Steel Appearance",
+      "With Crisper Drawers/ Glass Refrigerator Shelves/ Door Bins"
+    ],
     "tags": "GE Appliances 09-1464 (PPV10R5YRSS) Refrigerator; GE Profile™; Dual Compartment 2 Door Refrigerator With Top Freezer; 9.8 Cubic Foot; 60 Inch Height x 23-1/2 Inch Width x 25-4/5 Inch Depth; 13.5 Amp/ 12 Volt DC; Without Ice Maker; Dial Temperature Control; Glass With Stainless Steel Appearance; With Crisper Drawers/ Glass Refrigerator Shelves/ Door Bins"
   },
   {
@@ -1736,6 +3839,23 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "Single Compartment With Optional Freezer Function; Permanent Mount; 65 Liter Or 2 Cubic Foot",
     "img": "75502-010-20-1.webp",
+    "specs": [
+      "Refrigerator",
+      "CRX Series",
+      "Single Compartment With Optional Freezer Function",
+      "Permanent Mount",
+      "65 Liter Or 2 Cubic Foot",
+      "21 Inch Height x 21-1/2 Inch Width x 18-3/4 Inch Depth",
+      "120/ 220 Volt AC Or 12/ 24 Volt DC",
+      "2 Way AC/ DC",
+      "3-In-1 Cooling Can Be Used As Refrigerator Only/ As Freezer Only or as Both Refrigerator And Freezer At The Same Time",
+      "Without Ice Maker",
+      "LED Control",
+      "With LED Cabinet Light",
+      "Black Stainless Steel Wrap Around Door",
+      "Right Hand Hinge",
+      "Model CRX-1065U/F"
+    ],
     "tags": "Dometic 01-1561 (75502.010.20) Refrigerator; CRX Series; Single Compartment With Optional Freezer Function; Permanent Mount; 65 Liter Or 2 Cubic Foot; 21 Inch Height x 21-1/2 Inch Width x 18-3/4 Inch Depth; 120/ 220 Volt AC Or 12/ 24 Volt DC; 2 Way AC/ DC; 3-In-1 Cooling Can Be Used As Refrigerator Only/ As Freezer Only or as Both Refrigerator And Freezer At The Same Time; Without Ice Maker; LED Control; With LED Cabinet Light; Black Stainless Steel Wrap Around Door; Right Hand Hinge; Model CRX-1065U/F"
   },
   {
@@ -1748,6 +3868,23 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "Single Compartment Refrigerator With Optional Freezer Function; Permanent Mount; 78 Liter Or 2.8 Cubic Foot",
     "img": "75502-145-40.webp",
+    "specs": [
+      "Refrigerator",
+      "CRX Series",
+      "Single Compartment Refrigerator With Optional Freezer Function",
+      "Permanent Mount",
+      "78 Liter Or 2.8 Cubic Foot",
+      "21-9/16 Inch Width x 20-13/16 Inch Depth x 26-1/4 Inch Height",
+      "120 Volt AC/ 1.23 Amp And 12/24 Volt DC/ 5.6 Amp",
+      "2 Way AC/ DC",
+      "3-In-1 Cooling Can Be Used As Refrigerator Only/ As Freezer Only or as Both Refrigerator And Freezer At The Same Time",
+      "Without Ice Maker",
+      "Electronic Thermostat/ Soft Touch Control Panel",
+      "Stainless Steel Wrap Around Door",
+      "Right Hand Hinge",
+      "With LED Interior Light/ Removable Freezer Compartment/ Crisper Drawer",
+      "Model CRX-1080E"
+    ],
     "tags": "Dometic 01-1566 (75502.145.40) Refrigerator; CRX Series; Single Compartment Refrigerator With Optional Freezer Function; Permanent Mount; 78 Liter Or 2.8 Cubic Foot; 21-9/16 Inch Width x 20-13/16 Inch Depth x 26-1/4 Inch Height; 120 Volt AC/ 1.23 Amp And 12/24 Volt DC/ 5.6 Amp; 2 Way AC/ DC; 3-In-1 Cooling Can Be Used As Refrigerator Only/ As Freezer Only or as Both Refrigerator And Freezer At The Same Time; Without Ice Maker; Electronic Thermostat/ Soft Touch Control Panel; Stainless Steel Wrap Around Door; Right Hand Hinge; With LED Interior Light/ Removable Freezer Compartment/ Crisper Drawer; Model CRX-1080E"
   },
   {
@@ -1760,6 +3897,22 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "Single Compartment With Optional Freezer Function; Permanent Mount; 78 Liter Or 2.8 Cubic Foot",
     "img": "75502-307-40.webp",
+    "specs": [
+      "Refrigerator",
+      "CRX Series",
+      "Single Compartment With Optional Freezer Function",
+      "Permanent Mount",
+      "78 Liter Or 2.8 Cubic Foot",
+      "25-6/32 Inch Height x 18.70 Inch Width x 20.79 Inch Depth",
+      "120 Volt AC Or 12/ 24 Volt DC",
+      "3-In-1 Cooling Can Be Used As Refrigerator Only/ As Freezer Only or as Both Refrigerator And Freezer At The Same Time",
+      "Without Ice Maker",
+      "LED Control",
+      "With LED Cabinet Light",
+      "Stainless Steel Wrap Around Door",
+      "Right Hand Hinge",
+      "Model CRX-1080S"
+    ],
     "tags": "Dometic 01-1579 (75502.307.40) Refrigerator; CRX Series; Single Compartment With Optional Freezer Function; Permanent Mount; 78 Liter Or 2.8 Cubic Foot; 25-6/32 Inch Height x 18.70 Inch Width x 20.79 Inch Depth; 120 Volt AC Or 12/ 24 Volt DC; 3-In-1 Cooling Can Be Used As Refrigerator Only/ As Freezer Only or as Both Refrigerator And Freezer At The Same Time; Without Ice Maker; LED Control; With LED Cabinet Light; Stainless Steel Wrap Around Door; Right Hand Hinge; Model CRX-1080S"
   },
   {
@@ -1772,6 +3925,21 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "Permanent Mount; DMC4101L; Left Hand Hinge; 10 Cubic Foot",
     "img": "9600026947.webp",
+    "specs": [
+      "Refrigerator",
+      "Dual Compartment Refrigerator With Freezer",
+      "Permanent Mount",
+      "DMC4101L",
+      "Left Hand Hinge",
+      "10 Cubic Foot",
+      "23-5/8 Inch Width x 59-5/8 Inch Height x 27-1/2 Inch Depth",
+      "12 Volt DC",
+      "Digital Control",
+      "With LED Light",
+      "Stainless Steel Residential Style Doors",
+      "Electronic Thermostat",
+      "With Two Clear Crisper Drawers/ LED Interior Lighting"
+    ],
     "tags": "Dometic 27-9698 (9600026947) Refrigerator; Dual Compartment Refrigerator With Freezer; Permanent Mount; DMC4101L; Left Hand Hinge; 10 Cubic Foot; 23-5/8 Inch Width x 59-5/8 Inch Height x 27-1/2 Inch Depth; 12 Volt DC; Digital Control; With LED Light; Stainless Steel Residential Style Doors; Electronic Thermostat; With Two Clear Crisper Drawers/ LED Interior Lighting"
   },
   {
@@ -1784,6 +3952,17 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "Portable; 130 Liter: 32 Inch Height x 20.7 Inch Width x 22.4 Inch Depth; 100-240 Volt AC; 2 Way AC/ DC",
     "img": "9620017091.webp",
+    "specs": [
+      "Refrigerator",
+      "Dual Compartment Refrigerator With Freezer Model NRX 130S",
+      "Portable",
+      "130 Liter: 32 Inch Height x 20.7 Inch Width x 22.4 Inch Depth",
+      "100-240 Volt AC",
+      "2 Way AC/ DC",
+      "With Door Ajar Sensor",
+      "Dark Silver",
+      "With LED Interior Light/ DC And AC Connection Cables"
+    ],
     "tags": "Dometic 9620017091 (9620017091) Refrigerator; Dual Compartment Refrigerator With Freezer Model NRX 130S; Portable; 130 Liter: 32 Inch Height x 20.7 Inch Width x 22.4 Inch Depth; 100-240 Volt AC; 2 Way AC/ DC; With Door Ajar Sensor; Dark Silver; With LED Interior Light/ DC And AC Connection Cables"
   },
   {
@@ -1796,6 +3975,19 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "Single Compartment Adjustable For Refrigerator Or Freezer Function; Portable",
     "img": "97000040395.webp",
+    "specs": [
+      "Refrigerator",
+      "CFX Series",
+      "Single Compartment Adjustable For Refrigerator Or Freezer Function",
+      "Portable",
+      "16.8 Inch Height x 13.6 Inch Width x 23.6 Inch Depth",
+      "240 Volt AC/ 0.77 Amp And 24 Volt DC/ 3.85 Amp DC",
+      "2 Way AC/ DC",
+      "Single Zone",
+      "Digital Temperature Display",
+      "Ocean",
+      "With Foldable Carrying Handles/ USB Port/ LED Interior Light/ Wire Basket/ DC And AC Connection Cables"
+    ],
     "tags": "Dometic 7000040395 (97000040395) Refrigerator; CFX Series; Single Compartment Adjustable For Refrigerator Or Freezer Function; Portable; 16.8 Inch Height x 13.6 Inch Width x 23.6 Inch Depth; 240 Volt AC/ 0.77 Amp And 24 Volt DC/ 3.85 Amp DC; 2 Way AC/ DC; Single Zone; Digital Temperature Display; Ocean; With Foldable Carrying Handles/ USB Port/ LED Interior Light/ Wire Basket/ DC And AC Connection Cables"
   },
   {
@@ -1808,6 +4000,19 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "LP Gas; Model Number NT-20SQ; Side/ Top And Bottom Duct Discharge; 2.8 Amp Draw",
     "img": "nt-seq-a-sb-8-13.webp",
+    "specs": [
+      "Furnace",
+      "NT-SQ Series",
+      "LP Gas",
+      "Model Number NT-20SQ",
+      "19,000 BTU",
+      "Side/ Top And Bottom Duct Discharge",
+      "2.8 Amp Draw",
+      "9-3/8 Inch Width x 9-1/2 Inch Height x 22-1/2 Inch Depth",
+      "10.30 Pounds",
+      "With Energy-Saving Electronic Ignition",
+      "With Gasket-Sealed Vent Assembly"
+    ],
     "tags": "Suburban Mfg 08-0500 (2450A) Furnace; NT-SQ Series; LP Gas; Model Number NT-20SQ; 19,000 BTU; Side/ Top And Bottom Duct Discharge; 2.8 Amp Draw; 9-3/8 Inch Width x 9-1/2 Inch Height x 22-1/2 Inch Depth; 10.30 Pounds; With Energy-Saving Electronic Ignition; With Gasket-Sealed Vent Assembly"
   },
   {
@@ -1820,6 +4025,19 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "LP Gas; Model Number NT-20SEQ; 19000 BTU; Optional Side Duct; 2.8 Amp Draw",
     "img": "nt-seq-a-sb-8-13.webp",
+    "specs": [
+      "Furnace",
+      "NT-SEQ Series",
+      "LP Gas",
+      "Model Number NT-20SEQ",
+      "19000 BTU",
+      "Optional Side Duct",
+      "2.8 Amp Draw",
+      "9-3/8 Inch Width x 9-1/2 Inch Height x 21-1/8 Inch Depth",
+      "Electronic Ignition",
+      "Gasket Sealed Vent Assembly",
+      "With Black Composite Access Door"
+    ],
     "tags": "Suburban Mfg 72-7466 (2504ABK) Furnace; NT-SEQ Series; LP Gas; Model Number NT-20SEQ; 19000 BTU; Optional Side Duct; 2.8 Amp Draw; 9-3/8 Inch Width x 9-1/2 Inch Height x 21-1/8 Inch Depth; Electronic Ignition; Gasket Sealed Vent Assembly; With Black Composite Access Door"
   },
   {
@@ -1832,6 +4050,17 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "LP Gas; Model Number SF-25FQ; 25000 BTU; Maximum Ducted; 7-1/2 Inch Height x 17 Inch Width x 20 Inch Depth",
     "img": "nt-sfq-a-sb-8-13.webp",
+    "specs": [
+      "Furnace",
+      "SF-FQ Series",
+      "LP Gas",
+      "Model Number SF-25FQ",
+      "25000 BTU",
+      "Maximum Ducted",
+      "7-1/2 Inch Height x 17 Inch Width x 20 Inch Depth",
+      "Automatic Direct Spark Ignition",
+      "Do Not Require Exterior Access Doors"
+    ],
     "tags": "Suburban Mfg 02-9111 (2555A) Furnace; SF-FQ Series; LP Gas; Model Number SF-25FQ; 25000 BTU; Maximum Ducted; 7-1/2 Inch Height x 17 Inch Width x 20 Inch Depth; Automatic Direct Spark Ignition; Do Not Require Exterior Access Doors"
   },
   {
@@ -1844,6 +4073,20 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "LP Gas; Model Number SF-25Q; 1 Stage; Side/ Top And Bottom Duct Discharge; 7 Amp Draw",
     "img": "nt-sfq-a-sb-8-13.webp",
+    "specs": [
+      "Furnace",
+      "SF-Q Series",
+      "LP Gas",
+      "Model Number SF-25Q",
+      "25,000 BTU",
+      "1 Stage",
+      "Side/ Top And Bottom Duct Discharge",
+      "7 Amp Draw",
+      "17 Inch Width x 7-1/2 Inch Height x 20 Inch Depth",
+      "31 Pounds",
+      "With Energy-Saving Direct Spark Ignition",
+      "With Vent Kit For 1-1/2 Inch Wall"
+    ],
     "tags": "Suburban Mfg 00-3894 (2556A) Furnace; SF-Q Series; LP Gas; Model Number SF-25Q; 25,000 BTU; 1 Stage; Side/ Top And Bottom Duct Discharge; 7 Amp Draw; 17 Inch Width x 7-1/2 Inch Height x 20 Inch Depth; 31 Pounds; With Energy-Saving Direct Spark Ignition; With Vent Kit For 1-1/2 Inch Wall"
   },
   {
@@ -1856,6 +4099,17 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "LP Gas; Model Number SF-30FQ; 30000 BTU; Two Stage; Side Ducted; 8.5 Amp",
     "img": "nt-sfq-a-sb-8-13.webp",
+    "specs": [
+      "Furnace",
+      "SF-FQ Series",
+      "LP Gas",
+      "Model Number SF-30FQ",
+      "30000 BTU",
+      "Two Stage",
+      "Side Ducted",
+      "8.5 Amp",
+      "7-1/2 Inch Height x 17 Inch Width x 20 Inch Depth"
+    ],
     "tags": "Suburban Mfg 00-3892 (2558A) Furnace; SF-FQ Series; LP Gas; Model Number SF-30FQ; 30000 BTU; Two Stage; Side Ducted; 8.5 Amp; 7-1/2 Inch Height x 17 Inch Width x 20 Inch Depth"
   },
   {
@@ -1868,6 +4122,20 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "LP Gas; Model Number SF-30Q; 1 Stage; Side/ Top And Bottom Duct Discharge; 7 Amp Draw",
     "img": "nt-sfq-a-sb-8-13.webp",
+    "specs": [
+      "Furnace",
+      "SF-Q Series",
+      "LP Gas",
+      "Model Number SF-30Q",
+      "30,000 BTU",
+      "1 Stage",
+      "Side/ Top And Bottom Duct Discharge",
+      "7 Amp Draw",
+      "17 Inch Width x 7-1/2 Inch Height x 20 Inch Depth",
+      "25.82 Pounds",
+      "With Energy-Saving Direct Spark Ignition",
+      "With Vent Kit For 1-1/2 Inch Wall"
+    ],
     "tags": "Suburban Mfg 00-3893 (2559A) Furnace; SF-Q Series; LP Gas; Model Number SF-30Q; 30,000 BTU; 1 Stage; Side/ Top And Bottom Duct Discharge; 7 Amp Draw; 17 Inch Width x 7-1/2 Inch Height x 20 Inch Depth; 25.82 Pounds; With Energy-Saving Direct Spark Ignition; With Vent Kit For 1-1/2 Inch Wall"
   },
   {
@@ -1880,6 +4148,18 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "LP Gas; Model Number SF-35VHFQ; 35000 BTU; Two Stage; Side Ducted; 8.5 Amp",
     "img": "nt-sfq-a-sb-8-13.webp",
+    "specs": [
+      "Furnace",
+      "SF-FQ Series",
+      "LP Gas",
+      "Model Number SF-35VHFQ",
+      "35000 BTU",
+      "Two Stage",
+      "Side Ducted",
+      "8.5 Amp",
+      "7-1/2 Inch Height x 17 Inch Width x 20 Inch Depth",
+      "Direct Spark Ignition"
+    ],
     "tags": "Suburban Mfg 06-0959 (2587A) Furnace; SF-FQ Series; LP Gas; Model Number SF-35VHFQ; 35000 BTU; Two Stage; Side Ducted; 8.5 Amp; 7-1/2 Inch Height x 17 Inch Width x 20 Inch Depth; Direct Spark Ignition"
   },
   {
@@ -1892,6 +4172,18 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "LP Gas; Model SF-35VHQ Vertical Mount; 35000 BTU; Side/ Top And Bottom Duct Discharge",
     "img": "nt-sfq-a-sb-8-13.webp",
+    "specs": [
+      "Furnace",
+      "SFV-Q Series",
+      "LP Gas",
+      "Model SF-35VHQ Vertical Mount",
+      "35000 BTU",
+      "Side/ Top And Bottom Duct Discharge",
+      "7-1/2 Inch Height x 17 Inch Width x 20 Inch Depth",
+      "Direct Spark Ignition",
+      "Without Access Door",
+      "With 2 Inch Length Intake Tube"
+    ],
     "tags": "Suburban Mfg 06-0960 (2588A) Furnace; SFV-Q Series; LP Gas; Model SF-35VHQ Vertical Mount; 35000 BTU; Side/ Top And Bottom Duct Discharge; 7-1/2 Inch Height x 17 Inch Width x 20 Inch Depth; Direct Spark Ignition; Without Access Door; With 2 Inch Length Intake Tube"
   },
   {
@@ -1904,6 +4196,19 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "LP Gas; Model Number SF-42VHFQ; 40000 BTU; Ducted; Low Amp Draw",
     "img": "nt-sfq-a-sb-8-13.webp",
+    "specs": [
+      "Furnace",
+      "SF-FQ Series",
+      "LP Gas",
+      "Model Number SF-42VHFQ",
+      "40000 BTU",
+      "Ducted",
+      "Low Amp Draw",
+      "7-1/2 Inch Height x 12 Inch Width x 20 Inch Depth",
+      "35 Pounds",
+      "Direct Spark Ignition",
+      "Do Not Require Access Door"
+    ],
     "tags": "Suburban Mfg 06-0958 (2591A) Furnace; SF-FQ Series; LP Gas; Model Number SF-42VHFQ; 40000 BTU; Ducted; Low Amp Draw; 7-1/2 Inch Height x 12 Inch Width x 20 Inch Depth; 35 Pounds; Direct Spark Ignition; Do Not Require Access Door"
   },
   {
@@ -1916,6 +4221,19 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "LP Gas; Model SF-42VHQ Vertical Mount; 40000 BTU; Side/ Top And Bottom Duct Discharge; 9 Amp Draw",
     "img": "nt-sfq-a-sb-8-13.webp",
+    "specs": [
+      "Furnace",
+      "SFV-Q Series",
+      "LP Gas",
+      "Model SF-42VHQ Vertical Mount",
+      "40000 BTU",
+      "Side/ Top And Bottom Duct Discharge",
+      "9 Amp Draw",
+      "7-1/2 Inch Height x 12 Inch Width x 20 Inch Depth",
+      "35 Pounds",
+      "With Energy-Saving Direct Spark Ignition",
+      "Without Access Door"
+    ],
     "tags": "Suburban Mfg 06-0961 (2592A) Furnace; SFV-Q Series; LP Gas; Model SF-42VHQ Vertical Mount; 40000 BTU; Side/ Top And Bottom Duct Discharge; 9 Amp Draw; 7-1/2 Inch Height x 12 Inch Width x 20 Inch Depth; 35 Pounds; With Energy-Saving Direct Spark Ignition; Without Access Door"
   },
   {
@@ -1928,6 +4246,20 @@ window.CATALOG = {
     "icon": "grille",
     "blurb": "Model DFMD25111; LP Gas; 25000 BTU; Single Stage; Side Or Bottom Ducted; 12 Volt DC; Medium Size",
     "img": "35525.webp",
+    "specs": [
+      "Furnace",
+      "DFM Series",
+      "Model DFMD25111",
+      "LP Gas",
+      "25000 BTU",
+      "Single Stage",
+      "Side Or Bottom Ducted",
+      "12 Volt DC",
+      "Medium Size",
+      "16-1/2 Inch Width x 7-3/8 Inch Height x 20 Inch Depth",
+      "Access Doors And Thermostat Sold Separately",
+      "Existing Cut Out Should Be Measured To Ensure The New Deeper Dimensions Will Fit"
+    ],
     "tags": "Dometic 62-2950 (35525) Furnace; DFM Series; Model DFMD25111; LP Gas; 25000 BTU; Single Stage; Side Or Bottom Ducted; 12 Volt DC; Medium Size; 16-1/2 Inch Width x 7-3/8 Inch Height x 20 Inch Depth; Access Doors And Thermostat Sold Separately; Existing Cut Out Should Be Measured To Ensure The New Deeper Dimensions Will Fit"
   },
   {
@@ -1940,6 +4272,21 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "Model DFLD40121; LP Gas; 40000 BTU; Single Stage; Bottom Discharge; Large Size; 12 Volt DC",
     "img": "38355.webp",
+    "specs": [
+      "Furnace",
+      "DFL Series",
+      "Model DFLD40121",
+      "LP Gas",
+      "40000 BTU",
+      "Single Stage",
+      "Bottom Discharge",
+      "Large Size",
+      "12 Volt DC",
+      "16-1/2 Inch Width x 9 Inch Height x 20 Inch Depth",
+      "Thermostat Sold Separately",
+      "Without Access Door",
+      "Existing Cut Out Should Be Measured To Ensure The New Dimensions Will Fit"
+    ],
     "tags": "Dometic 9108923366 (38355) Furnace; DFL Series; Model DFLD40121; LP Gas; 40000 BTU; Single Stage; Bottom Discharge; Large Size; 12 Volt DC; 16-1/2 Inch Width x 9 Inch Height x 20 Inch Depth; Thermostat Sold Separately; Without Access Door; Existing Cut Out Should Be Measured To Ensure The New Dimensions Will Fit"
   },
   {
@@ -1952,6 +4299,16 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene And Low Profile Metal",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "Without Fan",
+      "Polypropylene And Low Profile Metal",
+      "With White Lid/ Two Piece Birch White Removable Screen Frame/ Screw In Mill Finish Flange",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 71-0017 (V2092-501-00) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene And Low Profile Metal; With White Lid/ Two Piece Birch White Removable Screen Frame/ Screw In Mill Finish Flange; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -1964,6 +4321,16 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene And Low Profile Metal",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "Without Fan",
+      "Polypropylene And Low Profile Metal",
+      "With Smoke Lid/ Two Piece Birch White Removable Screen Frame/ Screw In Mill Finish Flange",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 71-0018 (V2092-503-00) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene And Low Profile Metal; With Smoke Lid/ Two Piece Birch White Removable Screen Frame/ Screw In Mill Finish Flange; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -1976,6 +4343,16 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene And Low Profile Metal",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "Without Fan",
+      "Polypropylene And Low Profile Metal",
+      "With Smoke Lid/ Two Piece Polar White Removable Screen Frame/ Screw In Mill Finish Flange",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 72-6166 (V2092-603-00) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene And Low Profile Metal; With Smoke Lid/ Two Piece Polar White Removable Screen Frame/ Screw In Mill Finish Flange; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -1988,6 +4365,15 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene And Low Profile Metal",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "Without Fan",
+      "Polypropylene And Low Profile Metal",
+      "With White Lid/ Two Piece Birch White Removable Screen Frame/ Screw In Mill Finished Flange/ Birch White Ceiling Trim Ring 2-1/8 Leg Length"
+    ],
     "tags": "Ventline 22-0251 (V2092SP-25) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene And Low Profile Metal; With White Lid/ Two Piece Birch White Removable Screen Frame/ Screw In Mill Finished Flange/ Birch White Ceiling Trim Ring 2-1/8 Leg Length"
   },
   {
@@ -2000,6 +4386,15 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene And Low Profile Metal",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "Without Fan",
+      "Polypropylene And Low Profile Metal",
+      "With White Lid/ Two Piece Polar White Removable Screen Frame/ Screw In Mill Finish Flange/ Polar White Ceiling Trim Ring 2-1/8 Leg Length"
+    ],
     "tags": "Ventline 22-0145 (V2092SP-28) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene And Low Profile Metal; With White Lid/ Two Piece Polar White Removable Screen Frame/ Screw In Mill Finish Flange/ Polar White Ceiling Trim Ring 2-1/8 Leg Length"
   },
   {
@@ -2012,6 +4407,13 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; Polypropylene; With Smoke Lid/ Polar White Screen Frame/ Polar White Trim Ring",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "Polypropylene",
+      "With Smoke Lid/ Polar White Screen Frame/ Polar White Trim Ring"
+    ],
     "tags": "Ventline 22-0147 (V2092SP-29) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; Polypropylene; With Smoke Lid/ Polar White Screen Frame/ Polar White Trim Ring"
   },
   {
@@ -2024,6 +4426,16 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Polypropylene",
+      "With White Lid/ Two Piece Birch White Removable Screen Frame/ Screw In Mill Finish Flange",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 71-0019 (V2094-501-00) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene; With White Lid/ Two Piece Birch White Removable Screen Frame/ Screw In Mill Finish Flange; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -2036,6 +4448,16 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Polypropylene",
+      "With Smoke Lid/ Two Piece Birch White Removable Screen Frame/ Screw In Mill Finish Flange",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 24-3028 (V2094-503-00) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene; With Smoke Lid/ Two Piece Birch White Removable Screen Frame/ Screw In Mill Finish Flange; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -2048,6 +4470,16 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Polypropylene",
+      "With White Lid/ Two Piece Polar White Removable Screen Frame/ Screw In Mill Finish Flange",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 24-3029 (V2094-601-00) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene; With White Lid/ Two Piece Polar White Removable Screen Frame/ Screw In Mill Finish Flange; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -2060,6 +4492,17 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Polypropylene",
+      "With White Lid/ Two Piece Polar White Removable Screen Frame/ Screw In Mill Finish Flange",
+      "CSA (Canadian Standards Association) Listed",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 24-3025 (V2094-601-00C) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene; With White Lid/ Two Piece Polar White Removable Screen Frame/ Screw In Mill Finish Flange; CSA (Canadian Standards Association) Listed; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -2072,6 +4515,16 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Polypropylene",
+      "With Smoke Lid/ Two Piece Polar White Removable Screen Frame/ Screw In Mill Finish Flange",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 72-6167 (V2094-603-00) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene; With Smoke Lid/ Two Piece Polar White Removable Screen Frame/ Screw In Mill Finish Flange; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -2084,6 +4537,17 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Polypropylene",
+      "With Smoke Lid/ Two Piece Polar White Removable Screen Frame/ Screw In Mill Finish Flange",
+      "CSA (Canadian Standards Association) Listed",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 72-6163 (V2094-603-00C) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene; With Smoke Lid/ Two Piece Polar White Removable Screen Frame/ Screw In Mill Finish Flange; CSA (Canadian Standards Association) Listed; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -2096,6 +4560,15 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Polypropylene",
+      "With White Lid/ Two Piece Birch White Removable Screen Frame/ Screw In Mill Finish Flange/ Birch White Ceiling Trim Ring 2-1/8 Leg Length"
+    ],
     "tags": "Ventline 71-0020 (V2094SP-28) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene; With White Lid/ Two Piece Birch White Removable Screen Frame/ Screw In Mill Finish Flange/ Birch White Ceiling Trim Ring 2-1/8 Leg Length"
   },
   {
@@ -2108,6 +4581,15 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Polypropylene",
+      "With White Lid/ Two Piece Polar White Removable Screen Frame/ Screw In Mill Finish Flange/ Radius Corner Ceiling Polar White Trim Ring Part Number VA0445-34"
+    ],
     "tags": "Ventline 22-0440 (V2094SP-30) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene; With White Lid/ Two Piece Polar White Removable Screen Frame/ Screw In Mill Finish Flange/ Radius Corner Ceiling Polar White Trim Ring Part Number VA0445-34"
   },
   {
@@ -2120,6 +4602,16 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene; With Metal Lid And Birch White Screen",
     "img": "v2110-501-00.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "Without Fan",
+      "Polypropylene",
+      "With Metal Lid And Birch White Screen",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 71-0005 (V2110-501-00) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene; With Metal Lid And Birch White Screen; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -2132,6 +4624,16 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene; With Metal Lid And Polar White Screen",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "Without Fan",
+      "Polypropylene",
+      "With Metal Lid And Polar White Screen",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 71-0006 (V2110-601-00) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene; With Metal Lid And Polar White Screen; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -2144,6 +4646,15 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "Without Fan",
+      "Polypropylene",
+      "With Metal Lid And Polar White Screen Frame/ Radius Corner Polar White Ceiling Trim Ring Part Number VA0445-34"
+    ],
     "tags": "Ventline 22-0148 (V2110SP-24) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene; With Metal Lid And Polar White Screen Frame/ Radius Corner Polar White Ceiling Trim Ring Part Number VA0445-34"
   },
   {
@@ -2156,6 +4667,16 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Powered Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Polypropylene",
+      "With White Lid/ Two Piece Birch White Removable Screen Frame/ Screw In Mill Finish Flange",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 96-5376 (V2119-501-00) Roof Vent; Powered Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene; With White Lid/ Two Piece Birch White Removable Screen Frame/ Screw In Mill Finish Flange; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -2168,6 +4689,16 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Powered Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Polypropylene",
+      "With Smoke Lid/ Two Piece Birch White Removable Screen Frame/ Screw In Mill Finish Flange",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 24-3030 (V2119-503-00) Roof Vent; Powered Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene; With Smoke Lid/ Two Piece Birch White Removable Screen Frame/ Screw In Mill Finish Flange; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -2180,6 +4711,17 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Powered Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Polypropylene",
+      "With White Lid/ Two Piece Polar White Removable Screen Frame/ Screw In Mill Finish Flange",
+      "CSA (Canadian Standards Association) Listed",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 24-3026 (V2119-601-00C) Roof Vent; Powered Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene; With White Lid/ Two Piece Polar White Removable Screen Frame/ Screw In Mill Finish Flange; CSA (Canadian Standards Association) Listed; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -2192,6 +4734,16 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Powered Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Polypropylene",
+      "With Smoke Lid/ Two Piece Polar White Removable Screen Frame/ Screw In Mill Finish Flange",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 73-4969 (V2119-603-00) Roof Vent; Powered Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene; With Smoke Lid/ Two Piece Polar White Removable Screen Frame/ Screw In Mill Finish Flange; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -2204,6 +4756,16 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; With 120 Volt Fan; Polypropylene",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "With 120 Volt Fan",
+      "Polypropylene",
+      "With White Lid/ Two Piece Birch White Removable Screen Frame/ Screw In Mill Finish Flange",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 94-7635 (V2128-511-00) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; With 120 Volt Fan; Polypropylene; With White Lid/ Two Piece Birch White Removable Screen Frame/ Screw In Mill Finish Flange; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -2216,6 +4778,16 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "Without Fan",
+      "Polypropylene",
+      "With White Lid/ Two Piece Polar White Screen Frame/ Plastic Flange",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 70-2891 (V3092-601-00) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene; With White Lid/ Two Piece Polar White Screen Frame/ Plastic Flange; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -2228,6 +4800,16 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "Without Fan",
+      "Polypropylene",
+      "With Smoke Lid/ Two Piece Polar White Screen Frame/ Plastic Flange",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 70-2892 (V3092-603-00) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; Without Fan; Polypropylene; With Smoke Lid/ Two Piece Polar White Screen Frame/ Plastic Flange; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -2240,6 +4822,16 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Polypropylene",
+      "With White Lid/ Two Piece Polar White Screen Frame/ Plastic Flange",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 70-2893 (V3094-601-00) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene; With White Lid/ Two Piece Polar White Screen Frame/ Plastic Flange; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -2252,6 +4844,16 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene",
     "img": "venline-nonpowered-roofvent.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "14-1/4 Inch x 14-1/4 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Polypropylene",
+      "With Smoke Lid/ Two Piece Polar White Screen Frame/ Plastic Flange",
+      "Roof Vent Trim Ring Sold Separately"
+    ],
     "tags": "Ventline 71-0023 (V3094-603-00) Roof Vent; Manual Opening; 14-1/4 Inch x 14-1/4 Inch; With Screen; With 12 Volt Fan; Polypropylene; With Smoke Lid/ Two Piece Polar White Screen Frame/ Plastic Flange; Roof Vent Trim Ring Sold Separately"
   },
   {
@@ -2264,6 +4866,15 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "6-1/4 Inch Diameter; With Screen; With 12 Volt Fan; Polar White; With Smoke Lid And Ceiling Trim Ring",
     "img": "celing-20fan.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "6-1/4 Inch Diameter",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Polar White",
+      "With Smoke Lid And Ceiling Trim Ring"
+    ],
     "tags": "Ventline 22-0229 (VP-543) Roof Vent; Manual Opening; 6-1/4 Inch Diameter; With Screen; With 12 Volt Fan; Polar White; With Smoke Lid And Ceiling Trim Ring"
   },
   {
@@ -2276,6 +4887,12 @@ window.CATALOG = {
     "icon": "thermostat",
     "blurb": "White; With Multi-Color LED Lighting/ Thermostat Controlled Crossflow Fan And Oscillating Vent",
     "img": "40460-out.webp",
+    "specs": [
+      "Roof Vent",
+      "Remote Control Powered Opening",
+      "White",
+      "With Multi-Color LED Lighting/ Thermostat Controlled Crossflow Fan And Oscillating Vent"
+    ],
     "tags": "Camco 09-9062 (40460) Roof Vent; Remote Control Powered Opening; White; With Multi-Color LED Lighting/ Thermostat Controlled Crossflow Fan And Oscillating Vent"
   },
   {
@@ -2288,6 +4905,17 @@ window.CATALOG = {
     "icon": "shroud",
     "blurb": "For 14 Inch x 14 Inch; With Screen; Without Fan; White; Aluminum Base With Plastic Cover",
     "img": "40480.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "For 14 Inch x 14 Inch",
+      "With Screen",
+      "Without Fan",
+      "White",
+      "Aluminum Base With Plastic Cover",
+      "With Vent Assembly/ Installation Hardware",
+      "With English/ French Language Packaging"
+    ],
     "tags": "Camco 22-0060 (40480) Roof Vent; Manual Opening; For 14 Inch x 14 Inch; With Screen; Without Fan; White; Aluminum Base With Plastic Cover; With Vent Assembly/ Installation Hardware; With English/ French Language Packaging"
   },
   {
@@ -2300,6 +4928,14 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "For 14 Inch x 14 Inch Roof Openings; Standard Mount; Pure White Easy Change Lid; Galvanized Metal Base",
     "img": "71111-c.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "For 14 Inch x 14 Inch Roof Openings",
+      "Standard Mount",
+      "Pure White Easy Change Lid",
+      "Galvanized Metal Base"
+    ],
     "tags": "Heng's Industries 71111AC (71111A-C) Roof Vent; Manual Opening; For 14 Inch x 14 Inch Roof Openings; Standard Mount; Pure White Easy Change Lid; Galvanized Metal Base"
   },
   {
@@ -2312,6 +4948,18 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "For 14 Inch x 14 Inch; With Screen; Without Fan; Pure White Screen Frame/ White Lid; Galvanized Metal Base",
     "img": "71111a-c1g1.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "For 14 Inch x 14 Inch",
+      "With Screen",
+      "Without Fan",
+      "Pure White Screen Frame/ White Lid",
+      "Galvanized Metal Base",
+      "Standard Mount",
+      "With Interior Garnish/ 1-1/4 Inch Wide Flange And Radius Corners",
+      "With Color Retail Box Package"
+    ],
     "tags": "Heng's Industries 55-5026 (71111A-C1G1) Roof Vent; Manual Opening; For 14 Inch x 14 Inch; With Screen; Without Fan; Pure White Screen Frame/ White Lid; Galvanized Metal Base; Standard Mount; With Interior Garnish/ 1-1/4 Inch Wide Flange And Radius Corners; With Color Retail Box Package"
   },
   {
@@ -2324,6 +4972,16 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "For 14 Inch x 14 Inch; Without Fan; White Easy Change Lid; Galvanized Metal Base; Standard Mount",
     "img": "71111a-c2g1.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "For 14 Inch x 14 Inch",
+      "Without Fan",
+      "White Easy Change Lid",
+      "Galvanized Metal Base",
+      "Standard Mount",
+      "With Interior Garnish/ 1-1/4 Inch Wide Flange And Radius Corners"
+    ],
     "tags": "Heng's Industries 18-5175 (71111A-C2G1) Roof Vent; Manual Opening; For 14 Inch x 14 Inch; Without Fan; White Easy Change Lid; Galvanized Metal Base; Standard Mount; With Interior Garnish/ 1-1/4 Inch Wide Flange And Radius Corners"
   },
   {
@@ -2336,6 +4994,14 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "For 14 Inch x 14 Inch Opening; With Screen; White Polypropylene Lid; Galvanized Collar",
     "img": "71111a-cg2.webp",
+    "specs": [
+      "Roof Vent",
+      "For 14 Inch x 14 Inch Opening",
+      "With Screen",
+      "White Polypropylene Lid",
+      "Galvanized Collar",
+      "White Screen Frame And 90092 Garnish"
+    ],
     "tags": "Heng's Industries 30-3528 (71111A-CG2) Roof Vent; For 14 Inch x 14 Inch Opening; With Screen; White Polypropylene Lid; Galvanized Collar; White Screen Frame And 90092 Garnish"
   },
   {
@@ -2348,6 +5014,15 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "For 14 Inch x 14 Inch Roof Openings; With Screen; With 12 Volt Fan; White Easy Change Lid",
     "img": "71112-c.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "For 14 Inch x 14 Inch Roof Openings",
+      "With Screen",
+      "With 12 Volt Fan",
+      "White Easy Change Lid",
+      "Galvanized Metal Base"
+    ],
     "tags": "Heng's Industries 07-7453 (71112A-C) Roof Vent; Manual Opening; For 14 Inch x 14 Inch Roof Openings; With Screen; With 12 Volt Fan; White Easy Change Lid; Galvanized Metal Base"
   },
   {
@@ -2360,6 +5035,18 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "For 14 Inch x 14 Inch; With Screen; With 12 Volt Fan; Pure White Screen Frame/ White Easy Change Lid",
     "img": "71112a-c1g1-20bx-20open.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "For 14 Inch x 14 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Pure White Screen Frame/ White Easy Change Lid",
+      "Galvanized Metal Base",
+      "Standard Mount",
+      "With 2-1/8 Inch Interior Garnish (90091)/ 1-1/4 Inch Wide Flange And Radius Corners",
+      "With Color Retail Box Package"
+    ],
     "tags": "Heng's Industries 71112AC1G1 (71112A-C1G1) Roof Vent; Manual Opening; For 14 Inch x 14 Inch; With Screen; With 12 Volt Fan; Pure White Screen Frame/ White Easy Change Lid; Galvanized Metal Base; Standard Mount; With 2-1/8 Inch Interior Garnish (90091)/ 1-1/4 Inch Wide Flange And Radius Corners; With Color Retail Box Package"
   },
   {
@@ -2372,6 +5059,18 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "For 14 Inch x 14 Inch; With Screen; With 12 Volt Fan; Pure White Screen Frame/ White Easy Change Lid",
     "img": "71111a-c2g1.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "For 14 Inch x 14 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Pure White Screen Frame/ White Easy Change Lid",
+      "Galvanized Metal Base",
+      "Standard Mount",
+      "With 3 Inch Interior Garnish (90092)/ 1-1/4 Inch Wide Flange And Radius Corners",
+      "With Color Retail Box Package"
+    ],
     "tags": "Heng's Industries 18-5176 (71112A-C1G2) Roof Vent; Manual Opening; For 14 Inch x 14 Inch; With Screen; With 12 Volt Fan; Pure White Screen Frame/ White Easy Change Lid; Galvanized Metal Base; Standard Mount; With 3 Inch Interior Garnish (90092)/ 1-1/4 Inch Wide Flange And Radius Corners; With Color Retail Box Package"
   },
   {
@@ -2384,6 +5083,18 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "For 14 Inch x 14 Inch; With Screen; With 12 Volt Fan; Pure White Screen Frame/ White Easy Change Lid",
     "img": "71111a-c2g1.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "For 14 Inch x 14 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Pure White Screen Frame/ White Easy Change Lid",
+      "Galvanized Metal Base",
+      "Standard Mount",
+      "With Interior Garnish/ 1-1/4 Inch Wide Flange And Radius Corners",
+      "With Brown Craft Box Package"
+    ],
     "tags": "Heng's Industries 18-5177 (71112A-C2G1) Roof Vent; Manual Opening; For 14 Inch x 14 Inch; With Screen; With 12 Volt Fan; Pure White Screen Frame/ White Easy Change Lid; Galvanized Metal Base; Standard Mount; With Interior Garnish/ 1-1/4 Inch Wide Flange And Radius Corners; With Brown Craft Box Package"
   },
   {
@@ -2396,6 +5107,18 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "For 14 Inch x 14 Inch; With Screen; Without Fan; Pure White Screen Frame/ White Easy Change Lid/ White Base",
     "img": "71111a-c2g1.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "For 14 Inch x 14 Inch",
+      "With Screen",
+      "Without Fan",
+      "Pure White Screen Frame/ White Easy Change Lid/ White Base",
+      "Powder Coated Metal Base",
+      "Standard Mount",
+      "With Interior Garnish/ 1-1/4 Inch Wide Flange And Radius Corners",
+      "With Color Retail Box Package"
+    ],
     "tags": "Heng's Industries 18-5179 (71311A-C1G1) Roof Vent; Manual Opening; For 14 Inch x 14 Inch; With Screen; Without Fan; Pure White Screen Frame/ White Easy Change Lid/ White Base; Powder Coated Metal Base; Standard Mount; With Interior Garnish/ 1-1/4 Inch Wide Flange And Radius Corners; With Color Retail Box Package"
   },
   {
@@ -2408,6 +5131,18 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "For 14 Inch x 14 Inch; With Screen; Without Fan; Pure White Screen Frame/ Amber Lid; Galvanized Metal Base",
     "img": "73111-c1g1.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "For 14 Inch x 14 Inch",
+      "With Screen",
+      "Without Fan",
+      "Pure White Screen Frame/ Amber Lid",
+      "Galvanized Metal Base",
+      "Standard Mount",
+      "With Interior Garnish/ 1-1/4 Inch Wide Flange And Radius Corners",
+      "With Color Retail Box Package"
+    ],
     "tags": "Heng's Industries 22-0181 (73111-C1G1) Roof Vent; Manual Opening; For 14 Inch x 14 Inch; With Screen; Without Fan; Pure White Screen Frame/ Amber Lid; Galvanized Metal Base; Standard Mount; With Interior Garnish/ 1-1/4 Inch Wide Flange And Radius Corners; With Color Retail Box Package"
   },
   {
@@ -2420,6 +5155,18 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "For 14 Inch x 14 Inch; With Screen; Without Fan; Pure White Screen Frame/ Smoke Easy Change Lid",
     "img": "74111-c1g1.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "For 14 Inch x 14 Inch",
+      "With Screen",
+      "Without Fan",
+      "Pure White Screen Frame/ Smoke Easy Change Lid",
+      "Galvanized Metal Base",
+      "Standard Mount",
+      "With Interior Garnish/ 1-1/4 Inch Wide Flange And Radius Corners",
+      "With Color Retail Box Package"
+    ],
     "tags": "Heng's Industries 18-5181 (74111A-C1G1) Roof Vent; Manual Opening; For 14 Inch x 14 Inch; With Screen; Without Fan; Pure White Screen Frame/ Smoke Easy Change Lid; Galvanized Metal Base; Standard Mount; With Interior Garnish/ 1-1/4 Inch Wide Flange And Radius Corners; With Color Retail Box Package"
   },
   {
@@ -2432,6 +5179,17 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "For 14 Inch x 14 Inch Opening; With Screen; With 12 Volt Fan; Pure White Screen Frame/ Smoke Easy Change Lid",
     "img": "20240612-081352.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "For 14 Inch x 14 Inch Opening",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Pure White Screen Frame/ Smoke Easy Change Lid",
+      "Galvanized Metal Base",
+      "WIth Standard Mount 2-1/8 Inch Vertical Leg White Interior Garnish With 1-1/4 Inch Wide Mounting Flange",
+      "With Color Retail Box Package"
+    ],
     "tags": "Heng's Industries 30-1010 (74112A-C1G1) Roof Vent; Manual Opening; For 14 Inch x 14 Inch Opening; With Screen; With 12 Volt Fan; Pure White Screen Frame/ Smoke Easy Change Lid; Galvanized Metal Base; WIth Standard Mount 2-1/8 Inch Vertical Leg White Interior Garnish With 1-1/4 Inch Wide Mounting Flange; With Color Retail Box Package"
   },
   {
@@ -2444,6 +5202,18 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "For 14 Inch x 14 Inch; With Screen; Without Fan; Pure White Screen Frame/ Smoke Easy Change Lid/ White Base",
     "img": "74111-c1g1.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "For 14 Inch x 14 Inch",
+      "With Screen",
+      "Without Fan",
+      "Pure White Screen Frame/ Smoke Easy Change Lid/ White Base",
+      "Powder Coated Metal Base",
+      "Standard Mount",
+      "With Interior Garnish/ 1-1/4 Inch Wide Flange And Radius Corners",
+      "With Color Retail Box Package"
+    ],
     "tags": "Heng's Industries 18-5182 (74311A-C1G1) Roof Vent; Manual Opening; For 14 Inch x 14 Inch; With Screen; Without Fan; Pure White Screen Frame/ Smoke Easy Change Lid/ White Base; Powder Coated Metal Base; Standard Mount; With Interior Garnish/ 1-1/4 Inch Wide Flange And Radius Corners; With Color Retail Box Package"
   },
   {
@@ -2456,6 +5226,18 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "For 14 Inch x 14 Inch; With Screen; Without Fan; Pure White Screen Frame; Galvanized Metal Base And Lid",
     "img": "75111-c1g1.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "For 14 Inch x 14 Inch",
+      "With Screen",
+      "Without Fan",
+      "Pure White Screen Frame",
+      "Galvanized Metal Base And Lid",
+      "Standard Mount",
+      "With White Interior Garnish/ 1-1/4 Inch Wide Flange And Radius Corners",
+      "With Color Retail Box Package"
+    ],
     "tags": "Heng's Industries 22-0203 (75111-C1G1) Roof Vent; Manual Opening; For 14 Inch x 14 Inch; With Screen; Without Fan; Pure White Screen Frame; Galvanized Metal Base And Lid; Standard Mount; With White Interior Garnish/ 1-1/4 Inch Wide Flange And Radius Corners; With Color Retail Box Package"
   },
   {
@@ -2468,6 +5250,17 @@ window.CATALOG = {
     "icon": "vent",
     "blurb": "Powered Opening; Fits All 14 Inch x 14 Inch Roof Openings; With Screen; With Fan; Smoke",
     "img": "sv4115-g4.webp",
+    "specs": [
+      "Roof Vent",
+      "Zephyr",
+      "Powered Opening",
+      "Fits All 14 Inch x 14 Inch Roof Openings",
+      "With Screen",
+      "With Fan",
+      "Smoke",
+      "Multi Speed 3-Forward And 2-Reverse",
+      "With Remote"
+    ],
     "tags": "Heng's Industries SV4115G4 (SV4115-G4) Roof Vent; Zephyr; Powered Opening; Fits All 14 Inch x 14 Inch Roof Openings; With Screen; With Fan; Smoke; Multi Speed 3-Forward And 2-Reverse; With Remote"
   },
   {
@@ -2480,6 +5273,19 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "For 14 Inch x 14 Inch; Fits Roof Thickness From 1 Inch To 2-9/16 Inch; With Screen; Without Fan; White",
     "img": "v071101-c1g1.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "For 14 Inch x 14 Inch",
+      "Fits Roof Thickness From 1 Inch To 2-9/16 Inch",
+      "With Screen",
+      "Without Fan",
+      "White",
+      "Plastic Base/ Acrylic UV Resistant Translucent Lid",
+      "Standard Mount",
+      "With Interior Garnish/ Radius Corners",
+      "With Color Retail Box Package"
+    ],
     "tags": "Heng's Industries 22-0156 (V071101-C1G1) Roof Vent; Manual Opening; For 14 Inch x 14 Inch; Fits Roof Thickness From 1 Inch To 2-9/16 Inch; With Screen; Without Fan; White; Plastic Base/ Acrylic UV Resistant Translucent Lid; Standard Mount; With Interior Garnish/ Radius Corners; With Color Retail Box Package"
   },
   {
@@ -2492,6 +5298,19 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "For 14 Inch x 14 Inch; Fits Roof Thickness From 1 Inch To 2-9/16 Inch; With Screen; Without Fan",
     "img": "v074101-c1g1.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "For 14 Inch x 14 Inch",
+      "Fits Roof Thickness From 1 Inch To 2-9/16 Inch",
+      "With Screen",
+      "Without Fan",
+      "White Screen/ Smoke Lid",
+      "Plastic Base/ Acrylic UV Resistant Translucent Lid",
+      "Standard Mount",
+      "With Interior Garnish/ Radius Corners",
+      "With Color Retail Box Package"
+    ],
     "tags": "Heng's Industries 22-0159 (V074101-C1G1) Roof Vent; Manual Opening; For 14 Inch x 14 Inch; Fits Roof Thickness From 1 Inch To 2-9/16 Inch; With Screen; Without Fan; White Screen/ Smoke Lid; Plastic Base/ Acrylic UV Resistant Translucent Lid; Standard Mount; With Interior Garnish/ Radius Corners; With Color Retail Box Package"
   },
   {
@@ -2504,6 +5323,19 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "For 14 Inch x 14 Inch; Fits Roof Thickness From 1 Inch To 1-1/2 Inch; With Screen; With 12 Volt Fan",
     "img": "v074102-c1g1-20side-20view.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "For 14 Inch x 14 Inch",
+      "Fits Roof Thickness From 1 Inch To 1-1/2 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "White Screen/ Smoke Lid",
+      "Plastic Base/ Acrylic UV Resistant Translucent Lid",
+      "Standard Mount",
+      "With Interior Garnish/ Radius Corners",
+      "With Color Retail Box Package"
+    ],
     "tags": "Heng's Industries 074102C1G1 (V074102-C1G1) Roof Vent; Manual Opening; For 14 Inch x 14 Inch; Fits Roof Thickness From 1 Inch To 1-1/2 Inch; With Screen; With 12 Volt Fan; White Screen/ Smoke Lid; Plastic Base/ Acrylic UV Resistant Translucent Lid; Standard Mount; With Interior Garnish/ Radius Corners; With Color Retail Box Package"
   },
   {
@@ -2516,6 +5348,18 @@ window.CATALOG = {
     "icon": "lid",
     "blurb": "For 14 Inch x 14 Inch; With Screen; With 12 Volt Fan",
     "img": "v771402-c1g1.webp",
+    "specs": [
+      "Roof Vent",
+      "Manual Opening",
+      "For 14 Inch x 14 Inch",
+      "With Screen",
+      "With 12 Volt Fan",
+      "Pure White Screen Frame/ White Lid/ Colonial White Base",
+      "Powder Coated Metal Base/ Acrylic UV Resistant Translucent Lid",
+      "Standard Mount",
+      "With Interior Garnish/ Radius Corners/ Hinge System",
+      "With Color Retail Box Package"
+    ],
     "tags": "Heng's Industries 22-0394 (V771402-C1G1) Roof Vent; Manual Opening; For 14 Inch x 14 Inch; With Screen; With 12 Volt Fan; Pure White Screen Frame/ White Lid/ Colonial White Base; Powder Coated Metal Base/ Acrylic UV Resistant Translucent Lid; Standard Mount; With Interior Garnish/ Radius Corners/ Hinge System; With Color Retail Box Package"
   }
 ]

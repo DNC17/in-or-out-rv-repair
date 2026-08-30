@@ -176,6 +176,9 @@ def main(src):
             'icon': pick_icon(r, default_icon),
             'blurb': build_blurb(r, name),
             'img': images.get(r['sku']),          # None -> card falls back to line art
+            # full spec list, for the product detail page
+            'specs': [re.sub(r'\s*[™®]\s*', ' ', x).strip(' .')
+                      for x in segments(r['description'])],
             # searchable but not displayed: full spec text + both part numbers
             'tags': re.sub(r'\s+', ' ', f"{r['title']} {r['description']}").strip(),
             '_desc': r['description'],

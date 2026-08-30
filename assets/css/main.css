@@ -834,9 +834,9 @@ p { text-wrap: pretty; }
   display: grid; place-items: center;
   padding: 20%;
   color: var(--ink);
-  background:
-    radial-gradient(70% 70% at 50% 40%, color-mix(in srgb, var(--brand) 12%, transparent), transparent 70%),
-    var(--paper);
+  /* White, because the supplier photos are shot on white — any tint here
+     shows up as a border around the product. */
+  background: #fff;
   border-bottom: 1px solid var(--ink-07);
 }
 .prod:hover .prod__art { color: var(--brand-ink); }
@@ -885,6 +885,135 @@ p { text-wrap: pretty; }
 .prod__add:hover:not(:disabled) { background: var(--brand-ink); }
 .prod__add.is-in { background: var(--brand); color: #fff; }
 .prod__add:disabled { background: transparent; color: var(--ink-35); box-shadow: inset 0 0 0 1px var(--ink-12); cursor: default; }
+
+/* Whole card is a link, except the Add button which sits above it. */
+.sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0;
+  margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap;
+}
+.prod { position: relative; }
+.prod__link { position: absolute; inset: 0; z-index: 1; border-radius: inherit; }
+.prod__link:focus-visible { outline-offset: -3px; }
+.prod__add { position: relative; z-index: 2; }
+.prod:hover .prod__name { color: var(--brand-ink); }
+.prod__name { transition: color .3s var(--ease); }
+
+/* ══════════ PRODUCT DETAIL ══════════ */
+.pd { padding: calc(var(--nav-h) + clamp(1.6rem, 4vh, 3rem)) 0 clamp(4rem, 9vh, 7rem); }
+.pd__loading { color: var(--ink-35); font-family: var(--f-mono); font-size: .8rem; }
+
+.crumbs {
+  display: flex; flex-wrap: wrap; align-items: center; gap: .5rem;
+  font-family: var(--f-mono); font-size: .68rem;
+  letter-spacing: .08em; color: var(--ink-35);
+  margin-bottom: clamp(1.6rem, 4vw, 2.6rem);
+}
+.crumbs a { color: var(--brand-ink); }
+.crumbs a:hover { text-decoration: underline; }
+.crumbs__here { color: var(--ink-55); }
+
+.pd__main {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: clamp(2rem, 5vw, 4.5rem);
+  align-items: start;
+}
+.pd__media {
+  display: grid; place-items: center;
+  aspect-ratio: 4 / 3;
+  padding: 18%;
+  background: #fff;
+  border: 1px solid var(--ink-07);
+  border-radius: 18px;
+  color: var(--ink);
+  position: sticky; top: calc(var(--nav-h) + 1.5rem);
+}
+.pd__media.has-photo { padding: 6%; }
+.pd__media img { width: 100%; height: 100%; object-fit: contain; }
+.pd__media svg {
+  width: 100%; height: 100%;
+  fill: none; stroke: currentColor; stroke-width: 2;
+  stroke-linecap: round; stroke-linejoin: round;
+}
+
+.pd__meta {
+  font-family: var(--f-mono); font-size: .68rem;
+  letter-spacing: .12em; color: var(--ink-35); margin-bottom: .8rem;
+}
+.pd__name {
+  font-size: clamp(1.6rem, 1rem + 2.2vw, 2.8rem);
+  font-variation-settings: 'wght' 700, 'wdth' 92;
+  letter-spacing: -.03em; line-height: 1.04;
+  word-spacing: .04em;
+  margin-bottom: .9rem;
+}
+.pd__price {
+  font-size: clamp(1.7rem, 1.2rem + 1.6vw, 2.4rem);
+  font-variation-settings: 'wght' 780, 'wdth' 88;
+  letter-spacing: -.03em; font-feature-settings: 'tnum';
+}
+.pd__note {
+  font-size: .84rem; color: var(--ink-55);
+  max-width: 44ch; margin: .5rem 0 1.6rem;
+}
+
+.pd__buy { display: flex; flex-wrap: wrap; align-items: center; gap: .8rem; }
+.pd__qty {
+  display: inline-flex; align-items: center;
+  box-shadow: inset 0 0 0 1.4px var(--ink-12); border-radius: 100px;
+}
+.pd__qty button {
+  width: 42px; height: 46px; font-size: 1.1rem; color: var(--ink-55);
+}
+.pd__qty button:hover { color: var(--ink); }
+.pd__qty span {
+  min-width: 2ch; text-align: center;
+  font-variation-settings: 'wght' 620; font-feature-settings: 'tnum';
+}
+.pd__inlist { margin-top: .9rem; font-size: .86rem; color: var(--ink-55); }
+.pd__inlist[hidden] { display: none; }
+
+.pd__specs {
+  margin: clamp(2rem, 4vw, 2.8rem) 0 0;
+  border-top: 1px solid var(--ink-12);
+}
+.pd__specs li {
+  padding: .7rem 0 .7rem 1.3rem;
+  border-bottom: 1px solid var(--ink-07);
+  font-size: .93rem; color: var(--ink-80);
+  position: relative;
+}
+.pd__specs li::before {
+  content: ''; position: absolute; left: 0; top: 1.15em;
+  width: 6px; height: 6px; border-radius: 50%; background: var(--brand);
+}
+
+.pd__ids {
+  display: grid; grid-template-columns: auto 1fr; gap: .4rem 1.2rem;
+  margin-top: 1.6rem;
+  font-family: var(--f-mono); font-size: .72rem;
+}
+.pd__ids dt { color: var(--ink-35); letter-spacing: .08em; }
+.pd__ids dd { color: var(--ink-80); }
+
+.pd__help { margin-top: 1.8rem; font-size: .92rem; color: var(--ink-55); }
+
+.pd__rel { margin-top: clamp(3.5rem, 8vw, 6rem); }
+.pd__rel h2 {
+  font-size: clamp(1.2rem, 1rem + 1vw, 1.7rem);
+  font-variation-settings: 'wght' 660, 'wdth' 94;
+  letter-spacing: -.025em; word-spacing: .04em;
+  margin-bottom: clamp(1.2rem, 2.5vw, 1.8rem);
+}
+
+.pd__missing { padding: clamp(3rem, 9vh, 6rem) 0; max-width: 46ch; }
+.pd__missing h1 {
+  font-size: clamp(1.6rem, 1rem + 2.4vw, 2.6rem);
+  font-variation-settings: 'wght' 680, 'wdth' 92;
+  letter-spacing: -.03em; word-spacing: .04em; margin-bottom: .8rem;
+}
+.pd__missing p { color: var(--ink-55); }
+.pd__missing-act { display: flex; flex-wrap: wrap; gap: 1.2rem; align-items: center; margin-top: 1.8rem; }
 
 /* ---------- load more ---------- */
 .more { display: flex; justify-content: center; margin-top: clamp(2rem, 4vw, 3rem); }
@@ -995,6 +1124,7 @@ body.cart-open .cart-scrim { opacity: 1; pointer-events: auto; }
   width: 46px; height: 46px; padding: 9px;
   border-radius: 9px; background: var(--paper-2); color: var(--ink);
 }
+.ci__art.has-photo { background: #fff; }
 .ci__art.has-photo { padding: 4px; }
 .ci__art img { width: 100%; height: 100%; object-fit: contain; }
 .ci__name { font-size: .92rem; font-variation-settings: 'wght' 600; letter-spacing: -.015em; line-height: 1.25; }
@@ -1117,6 +1247,11 @@ body.cart-open .cart-scrim { opacity: 1; pointer-events: auto; }
     content: '';
     flex: 0 0 calc(var(--gut) - clamp(1rem, 2vw, 1.8rem));
   }
+}
+
+@media (max-width: 900px) {
+  .pd__main { grid-template-columns: 1fr; }
+  .pd__media { position: static; }
 }
 
 @media (max-width: 820px) {

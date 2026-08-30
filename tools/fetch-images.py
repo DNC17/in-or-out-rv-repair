@@ -77,10 +77,11 @@ def main(src, force=False):
         try:
             data = fetch(upsize(url, FETCH_PX))
             im = Image.open(io.BytesIO(data))
-            # flatten transparency onto the paper colour so WebP stays small
+            # Flatten transparency onto white: the photos are shot on white and
+            # the card tile is white, so anything else shows as a halo.
             if im.mode in ('RGBA', 'LA', 'P'):
                 im = im.convert('RGBA')
-                bg = Image.new('RGB', im.size, (244, 241, 234))   # --paper
+                bg = Image.new('RGB', im.size, (255, 255, 255))
                 bg.paste(im, mask=im.split()[-1])
                 im = bg
             else:

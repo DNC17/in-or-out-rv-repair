@@ -113,6 +113,9 @@ function visibleProducts() {
 function productCard(p) {
   return `
     <li class="prod">
+      <a class="prod__link" href="product.html?id=${encodeURIComponent(p.id)}">
+        <span class="sr-only">${escapeHtml(p.name)}</span>
+      </a>
       <div class="prod__art${p.img ? ' has-photo' : ''}" aria-hidden="true">
         ${p.img
           ? `<img src="assets/img/parts/${p.img}" alt="" loading="lazy" decoding="async">`
@@ -253,6 +256,15 @@ function setCategory(id) {
 }
 
 function init() {
+  // The cart panel is on every shop page; the grid only on shop.html.
+  const hasGrid = !!$('#grid');
+  if (hasGrid) initGrid();
+  initCartPanel();
+  if (hasGrid) renderGrid();
+  renderCart();
+}
+
+function initGrid() {
   // category chips
   $('#chips').innerHTML = CATEGORIES.map(c =>
     `<button class="chip${c.id === 'all' ? ' is-active' : ''}" data-cat="${c.id}">${c.label}</button>`
@@ -295,7 +307,9 @@ function init() {
     shown += PAGE;
     renderGrid({ resetPage: false });
   });
+}
 
+function initCartPanel() {
   $('#cartToggle').addEventListener('click', () => openCart(true));
   $('#cartClose').addEventListener('click', () => openCart(false));
   $('#cartScrim').addEventListener('click', () => openCart(false));
@@ -318,10 +332,16 @@ function init() {
     }
     setTimeout(() => { btn.textContent = 'Copy list'; }, 1800);
   });
-
-  renderGrid();
-  renderCart();
 }
+
+/* Small API so the product detail page can share this cart rather than
+   keeping a second copy of the same state. */
+window.PartsList = {
+  add(id, n = 1) { setCart(id, (cart[id] || 0) + n); },
+  qty(id) { return cart[id] || 0; },
+  open() { openCart(true); },
+  max: MAX_QTY
+};
 
 if (document.readyState === 'loading') {
   document.addEventListener('DOMContentLoaded', init);
