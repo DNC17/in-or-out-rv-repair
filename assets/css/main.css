@@ -1058,25 +1058,24 @@ p { text-wrap: pretty; }
 /* ---------- nav cart button ---------- */
 .nav__cart {
   position: relative; flex: none;
-  display: grid; place-items: center;
-  width: 44px; height: 44px; border-radius: 50%;
+  display: inline-flex; align-items: center; gap: .5rem;
+  height: 44px; padding: 0 1.1rem; border-radius: 100px;
   background: var(--ink); color: var(--paper);
+  font-size: .85rem; font-variation-settings: 'wght' 620;
+  letter-spacing: -.01em;
   transition: background .35s var(--ease);
 }
 .nav__cart:hover { background: var(--brand-ink); }
 .nav__cart-ic {
-  width: 20px; height: 20px;
+  width: 19px; height: 19px; flex: none;
   fill: none; stroke: currentColor;
   stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round;
 }
-/* Count rides on the corner of the icon. */
 .nav__cart-n {
-  position: absolute; top: -3px; right: -3px;
-  min-width: 19px; height: 19px; padding: 0 4px;
+  min-width: 20px; height: 20px; padding: 0 5px;
   display: grid; place-items: center;
   border-radius: 100px;
   background: var(--brand); color: #fff;
-  box-shadow: 0 0 0 2.5px var(--paper);
   font-family: var(--f-mono); font-size: .66rem; line-height: 1;
 }
 .nav__cart-n[hidden] { display: none; }
@@ -1256,6 +1255,12 @@ body.cart-open .cart-scrim { opacity: 1; pointer-events: auto; }
 
 @media (max-width: 820px) {
   .shophelp__in { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 420px) {
+  /* Tight nav — the icon carries the meaning, so drop the word. */
+  .nav__cart { padding: 0 .8rem; }
+  .nav__cart-t { display: none; }
 }
 
 @media (max-width: 620px) {

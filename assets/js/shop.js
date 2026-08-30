@@ -176,7 +176,7 @@ function syncAddButtons() {
   $$('[data-add]').forEach(btn => {
     const qty = cart[btn.dataset.add] || 0;
     btn.classList.toggle('is-in', qty > 0);
-    if (qty > 0) btn.textContent = `In list · ${qty}`;
+    if (qty > 0) btn.textContent = `In cart · ${qty}`;
     else if (!btn.disabled) btn.textContent = 'Add';
   });
 }

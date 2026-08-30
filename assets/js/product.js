@@ -82,7 +82,7 @@ function render(p) {
             <span id="qVal">1</span>
             <button id="qInc" aria-label="One more">+</button>
           </div>
-          <button class="btn btn--lg" id="pdAdd">Add to list</button>
+          <button class="btn btn--lg" id="pdAdd">Add to cart</button>
         </div>
         <p class="pd__inlist" id="pdInList" hidden></p>
 
@@ -132,7 +132,7 @@ function render(p) {
     const n = parts() ? parts().qty(p.id) : 0;
     const el = $('#pdInList');
     el.hidden = n === 0;
-    if (n) el.innerHTML = `${n} already in your <a class="link" href="shop.html">parts list</a>.`;
+    if (n) el.innerHTML = `${n} already in your <a class="link" href="shop.html">cart</a>.`;
   };
 
   const setQty = v => { qty = Math.max(1, Math.min(v, MAX_QTY)); $('#qVal').textContent = qty; };
@@ -144,7 +144,7 @@ function render(p) {
     inList();
     const btn = $('#pdAdd');
     btn.textContent = 'Added';
-    setTimeout(() => { btn.textContent = 'Add to list'; }, 1600);
+    setTimeout(() => { btn.textContent = 'Add to cart'; }, 1600);
   });
 
   inList();
