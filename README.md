@@ -18,14 +18,34 @@ Then open <http://localhost:4321>. `serve.py` is a ~60-line static server that
 adds HTTP Range support — the stock `python3 -m http.server` does not, and the
 hero `<video>` needs it.
 
+### URLs
+
+`cleanUrls` is on in `vercel.json`, so pages serve without the extension and
+the old paths 308-redirect to the clean ones:
+
+| File | URL | `.html` path |
+| --- | --- | --- |
+| `index.html` | `/` | `/index.html` → `/` |
+| `shop.html` | `/shop` | `/shop.html` → `/shop` |
+| `product.html` | `/product?id=<id>` | `/product.html?id=…` → `/product?id=…` |
+
+`serve.py` mirrors this locally — extensionless paths resolve to the matching
+`.html`, and `.html` or trailing-slash requests 308 to the canonical form — so
+dev and production behave the same. `trailingSlash` is false for the same
+reason: the pages use relative asset paths, and `/shop/` would resolve them one
+level too deep.
+
+Internal links are root-relative and extensionless (`/shop`, `/product?id=…`).
+
 Append `?motion=off` to any URL to force the reduced-motion code path (no
 preloader, no smooth scroll, no WebGL). Useful for screenshots, printing and QA.
 
 ## Layout
 
 ```
-index.html              homepage
-shop.html               parts catalogue
+index.html              homepage            -> /
+shop.html               parts catalogue     -> /shop
+product.html            part detail         -> /product?id=<id>
 tools/build-catalog.py  turns a Via export into catalog.js + dealer-costs.json
 tools/fetch-images.py   downloads + optimises product photos to assets/img/parts/
 data/dealer-costs.json  PRIVATE dealer cost (never deployed)

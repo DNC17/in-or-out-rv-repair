@@ -113,7 +113,7 @@ function visibleProducts() {
 function productCard(p) {
   return `
     <li class="prod">
-      <a class="prod__link" href="product.html?id=${encodeURIComponent(p.id)}">
+      <a class="prod__link" href="/product?id=${encodeURIComponent(p.id)}">
         <span class="sr-only">${escapeHtml(p.name)}</span>
       </a>
       <div class="prod__art${p.img ? ' has-photo' : ''}" aria-hidden="true">

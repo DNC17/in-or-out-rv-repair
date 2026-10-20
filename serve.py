@@ -23,6 +23,37 @@ class Handler(SimpleHTTPRequestHandler):
     def log_message(self, fmt, *args):  # keep the console quiet
         pass
 
+    def translate_path(self, path):
+        """Mirror Vercel's cleanUrls locally: /shop serves shop.html, and
+        /shop.html redirects to /shop (handled in do_GET)."""
+        full = super().translate_path(path)
+        if not os.path.exists(full) and not os.path.splitext(full)[1]:
+            candidate = full.rstrip("/") + ".html"
+            if os.path.isfile(candidate):
+                return candidate
+        return full
+
+    def do_GET(self):
+        # Keep one canonical URL per page, as Vercel does.
+        clean = self._clean_redirect_target()
+        if clean:
+            self.send_response(308)
+            self.send_header("Location", clean)
+            self.end_headers()
+            return
+        super().do_GET()
+
+    def _clean_redirect_target(self):
+        path, _, query = self.path.partition("?")
+        suffix = f"?{query}" if query else ""
+        if path.endswith("/index.html"):
+            return path[: -len("index.html")] + suffix
+        if path.endswith(".html"):
+            return path[: -len(".html")] + suffix
+        if len(path) > 1 and path.endswith("/"):
+            return path.rstrip("/") + suffix
+        return None
+
     def send_head(self):
         rng = self.headers.get("Range")
         if not rng:

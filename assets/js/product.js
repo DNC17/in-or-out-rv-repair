@@ -38,7 +38,7 @@ function notFound() {
       <h1>We couldn't find that part.</h1>
       <p>It may have come out of the catalogue, or the link may be incomplete.</p>
       <div class="pd__missing-act">
-        <a class="btn btn--lg" href="shop.html">Back to the shop</a>
+        <a class="btn btn--lg" href="/shop">Back to the shop</a>
         <a class="link" href="tel:${SHOP_PHONE}">Call (204) 930‑3646 ↗</a>
       </div>
     </div>`;
@@ -53,9 +53,9 @@ function render(p) {
 
   $('#pd').innerHTML = `
     <nav class="crumbs" aria-label="Breadcrumb">
-      <a href="shop.html">Shop</a>
+      <a href="/shop">Shop</a>
       <span aria-hidden="true">/</span>
-      <a href="shop.html#${p.cat}" data-cat="${p.cat}">${escapeHtml(catLabel(p.cat))}</a>
+      <a href="/shop#${p.cat}" data-cat="${p.cat}">${escapeHtml(catLabel(p.cat))}</a>
       <span aria-hidden="true">/</span>
       <span class="crumbs__here">${escapeHtml(p.name)}</span>
     </nav>
@@ -108,7 +108,7 @@ function render(p) {
         <ul class="grid">
           ${related.map(r => `
             <li class="prod">
-              <a class="prod__link" href="product.html?id=${encodeURIComponent(r.id)}">
+              <a class="prod__link" href="/product?id=${encodeURIComponent(r.id)}">
                 <span class="sr-only">${escapeHtml(r.name)}</span>
               </a>
               <div class="prod__art${r.img ? ' has-photo' : ''}" aria-hidden="true">
@@ -132,7 +132,7 @@ function render(p) {
     const n = parts() ? parts().qty(p.id) : 0;
     const el = $('#pdInList');
     el.hidden = n === 0;
-    if (n) el.innerHTML = `${n} already in your <a class="link" href="shop.html">cart</a>.`;
+    if (n) el.innerHTML = `${n} already in your <a class="link" href="/shop">cart</a>.`;
   };
 
   const setQty = v => { qty = Math.max(1, Math.min(v, MAX_QTY)); $('#qVal').textContent = qty; };
