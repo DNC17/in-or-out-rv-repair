@@ -1,0 +1,8 @@
+{
+  "name": "in-or-out-rv-repair",
+  "private": true,
+  "description": "Static site for In or Out RV Parts and Repair. The only build step is the Vercel function in api/.",
+  "dependencies": {
+    "stripe": "^19.3.0"
+  }
+}

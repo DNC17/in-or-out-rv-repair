@@ -219,7 +219,7 @@ function renderCart() {
          <p class="ci-empty__sub">Add the parts you need and send the whole list over in one go.</p>
        </li>`;
 
-  $('#cartSend').disabled = lines.length === 0;
+  $('#cartCheckout').disabled = lines.length === 0;
   syncAddButtons();
 }
 
@@ -228,6 +228,53 @@ function orderText() {
   const lines = cartLines();
   const body = lines.map(({ p, qty }) => `${qty} x ${p.name} (${p.sku})`).join('\n');
   return `Parts request from the website:\n\n${body}\n\nEstimated total: ${money(cartTotal())}\n\nName:\nRV year/make/model:`;
+}
+
+/* ---------- checkout ---------- */
+/* Posts ids and quantities only. The serverless function re-prices every line
+   from its own catalogue copy, so nothing here decides what gets charged. */
+let checkingOut = false;
+
+async function startCheckout() {
+  if (checkingOut) return;
+  const lines = cartLines();
+  if (!lines.length) return;
+
+  const btn = $('#cartCheckout');
+  const err = $('#cartErr');
+  checkingOut = true;
+  btn.disabled = true;
+  btn.textContent = 'Starting checkout…';
+  err.hidden = true;
+
+  try {
+    const res = await fetch('/api/checkout', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        items: lines.map(({ p, qty }) => ({ id: p.id, qty })),
+      }),
+    });
+
+    const data = await res.json().catch(() => ({}));
+
+    if (res.ok && data.url) {
+      window.location.href = data.url;      // Stripe's hosted page
+      return;
+    }
+
+    err.textContent = data.error
+      || 'We couldn\'t start the checkout. Please call (204) 930‑3646.';
+    err.hidden = false;
+  } catch (e) {
+    err.textContent = 'Couldn\'t reach the checkout — check your connection, '
+                    + 'or call (204) 930‑3646.';
+    err.hidden = false;
+  } finally {
+    checkingOut = false;
+    btn.disabled = cartLines().length === 0;
+    btn.textContent = 'Checkout';
+  }
 }
 
 /* ---------- interactions ---------- */
@@ -317,11 +364,7 @@ function initCartPanel() {
     if (e.key === 'Escape' && $('#cart').classList.contains('is-open')) openCart(false);
   });
 
-  // Hand the list off to the shop — no payment is taken on this site.
-  $('#cartSend').addEventListener('click', () => {
-    const body = encodeURIComponent(orderText());
-    window.location.href = `sms:${SHOP_PHONE}${/iPhone|iPad|Mac/.test(navigator.userAgent) ? '&' : '?'}body=${body}`;
-  });
+  $('#cartCheckout').addEventListener('click', startCheckout);
   $('#cartCopy').addEventListener('click', async () => {
     const btn = $('#cartCopy');
     try {
@@ -340,6 +383,7 @@ window.PartsList = {
   add(id, n = 1) { setCart(id, (cart[id] || 0) + n); },
   qty(id) { return cart[id] || 0; },
   open() { openCart(true); },
+  clear() { cart = {}; writeCart(cart); renderCart(); },
   max: MAX_QTY
 };
 

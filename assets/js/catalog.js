@@ -3,14 +3,14 @@
 
    Built by tools/build-catalog.py from an NTP-STAG/Via export.
    Source export: rv-parts-catalog-2026-08-29
-   Generated:     2026-08-29
+   Generated:     2026-10-20
    207 products.
 
    PUBLIC FILE: MSRP only. Dealer cost lives in data/dealer-costs.json,
    which is excluded from deploys — never add a cost field here.
    ══════════════════════════════════════════════════════════════ */
 window.CATALOG = {
-  generated: "2026-08-29",
+  generated: "2026-10-20",
   categories: [
   {
     "id": "all",

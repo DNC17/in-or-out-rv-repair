@@ -3,3 +3,7 @@ node_modules/
 
 # Vercel CLI project link (recreated by `vercel link`)
 .vercel
+
+# Local env for `vercel dev` — never commit secrets.
+.env*.local
+.env

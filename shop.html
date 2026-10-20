@@ -142,15 +142,17 @@
 
   <footer class="cart__foot">
     <div class="cart__total">
-      <span>Estimated total</span>
+      <span>Subtotal</span>
       <b id="cartTotal">$0.00</b>
     </div>
     <p class="cart__fine">
-      An estimate, not a charge. Sending the list starts a text to the shop —
-      Adam confirms what's on the shelf and the final price.
+      Shipping and tax are worked out at checkout. We confirm the part is on
+      the shelf before your card is charged.
     </p>
-    <button class="btn btn--block" id="cartSend" disabled>Send to the shop</button>
+    <button class="btn btn--block" id="cartCheckout" disabled>Checkout</button>
+    <p class="cart__err" id="cartErr" role="alert" hidden></p>
     <button class="cart__copy" id="cartCopy">Copy list</button>
+    <a class="cart__ask" href="sms:+12049303646">Or text the list to the shop ↗</a>
   </footer>
 </aside>
 

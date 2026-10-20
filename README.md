@@ -44,6 +44,10 @@ preloader, no smooth scroll, no WebGL). Useful for screenshots, printing and QA.
 
 ```
 index.html              homepage            -> /
+order.html              order confirmation  -> /order
+api/checkout.js         creates a Stripe Checkout Session (re-prices server-side)
+api/order.js            order summary for the confirmation page
+api/_catalog.json       GENERATED server-side catalogue (id, price, weight)
 shop.html               parts catalogue     -> /shop
 product.html            part detail         -> /product?id=<id>
 tools/build-catalog.py  turns a Via export into catalog.js + dealer-costs.json
@@ -162,6 +166,64 @@ alpha — it keeps the WebP small and they only ever sit on that background.
 Worth confirming the dealer agreement permits redistributing manufacturer
 product images on the storefront; it normally does for the products you sell,
 but it's NTP-STAG's call.
+
+### Checkout (Stripe) — not live yet
+
+The **Checkout** button posts the cart to `api/checkout`, a Vercel serverless
+function that creates a Stripe Checkout Session and redirects to Stripe's
+hosted page. Card details never touch this site.
+
+**The browser posts only `[{id, qty}]`.** Every price is re-read from
+`api/_catalog.json` server-side, so a tampered cart can't change what gets
+charged. Verified: a request carrying `price: 1` for a $2,794.38 unit is still
+charged $2,794.38.
+
+Without `STRIPE_SECRET_KEY` the endpoint returns 503 and the cart shows
+"Online payment isn't switched on yet. Please call (204) 930‑3646" — so
+deploying before Stripe is configured degrades to a phone number, not a crash.
+
+#### To switch it on
+
+1. Adam creates and activates a Stripe account (business details, bank account,
+   GST/RST numbers; Stripe reviews the site first).
+2. Set the key in Vercel — he enters it, nobody else needs to see it:
+   ```bash
+   vercel env add STRIPE_SECRET_KEY        # sk_test_… first, sk_live_… at launch
+   ```
+   For local testing, put it in `.env.local` (gitignored) and run `vercel dev`.
+3. Turn on order notifications and customer receipts in Stripe settings.
+
+#### Environment variables
+
+| Variable | Default | What it does |
+| --- | --- | --- |
+| `STRIPE_SECRET_KEY` | — | Required. Without it checkout returns 503. |
+| `CAPTURE_METHOD` | `manual` | `manual` authorises now and captures once the part is confirmed in Via. The export has no stock, so charging up front risks taking money for a backordered part. `automatic` charges immediately. |
+| `STRIPE_AUTOMATIC_TAX` | off | Set `true` **after** enabling Stripe Tax on the account — turning it on before that makes the API call fail. Until then no tax is added. |
+
+#### Shipping
+
+Flat rates, no carrier integration, chosen by cart weight (`lb`, parsed from the
+spec text into `api/_catalog.json`):
+
+| Cart | Options |
+| --- | --- |
+| Any item over 50 lb, or any AC/fridge | Pickup · Winnipeg delivery ($35) |
+| Everything else | Pickup · Winnipeg delivery ($35) · Canada ($25) |
+
+124 of 207 parts are over 50 lb — rooftop ACs run to 116 lb. Freight-quoting
+those is a phone call, not a checkbox, so heavy carts stay local.
+
+#### Local testing
+
+`serve.py` only serves static files; the functions need `vercel dev`:
+
+```bash
+npx vercel dev --listen 4321
+```
+
+Use Stripe **test mode** and card `4242 4242 4242 4242`. No real money moves
+until the live key is set.
 
 ### Search
 
